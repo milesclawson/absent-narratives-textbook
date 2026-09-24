@@ -26,3 +26,5 @@
 | 8 | Representation in the Media | 2,149 | 14/14 ✓ | 1 interactive infographic, 1 table, 1 MicroSim | Done |
 | 9 | Indigenous Sovereignty and Tribal Relations | 2,139 | 14/14 ✓ | 1 interactive map, 1 table, 1 MicroSim | Done |
 | 10 | Migration, Colonialism, and Global Perspectives | 2,009 | 15/15 ✓ | 1 graph-model diagram, 1 interactive map | Done |
+| 11 | Civil Rights and Liberation Movements | 2,661 | 18/18 ✓ | 1 table, 1 MicroSim, 1 timeline, 1 retrieval question | Done |
+| 12 | Religion and Cultural Diffusion | 1,932 | 10/10 ✓ | 1 timeline, 1 MicroSim | Done |

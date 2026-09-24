@@ -1,0 +1,10 @@
+{
+  "title": "Absent Narratives: A Comprehensive Study of Marginalized Voices in History",
+  "description": "An 18-week high school course examining how race, ethnicity, nationality, gender, and sexuality have shaped the untold and marginalized narratives of history.",
+  "creator": "Miles Lawson",
+  "date": "2026-09-24",
+  "version": "1.0",
+  "format": "Learning Graph JSON v1.0",
+  "schema": "https://raw.githubusercontent.com/dmccreary/learning-graphs/refs/heads/main/src/schema/learning-graph-schema.json",
+  "license": "CC BY-NC-SA 4.0 DEED"
+}

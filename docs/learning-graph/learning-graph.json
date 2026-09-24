@@ -1,0 +1,2357 @@
+{
+  "metadata": {
+    "title": "Absent Narratives: A Comprehensive Study of Marginalized Voices in History",
+    "description": "An 18-week high school course examining how race, ethnicity, nationality, gender, and sexuality have shaped the untold and marginalized narratives of history.",
+    "creator": "Miles Lawson",
+    "date": "2026-09-24",
+    "version": "1.0",
+    "format": "Learning Graph JSON v1.0",
+    "schema": "https://raw.githubusercontent.com/dmccreary/learning-graphs/refs/heads/main/src/schema/learning-graph-schema.json",
+    "license": "CC BY-NC-SA 4.0 DEED"
+  },
+  "groups": {
+    "FOUND": {
+      "classifierName": "Foundational Historical Thinking Skills",
+      "color": "SteelBlue",
+      "font": {
+        "color": "white"
+      }
+    },
+    "VOCAB": {
+      "classifierName": "Core Vocabulary And Key Terms",
+      "color": "DarkSlateBlue",
+      "font": {
+        "color": "white"
+      }
+    },
+    "IDENT": {
+      "classifierName": "Identity And Social Construction",
+      "color": "MediumPurple",
+      "font": {
+        "color": "white"
+      }
+    },
+    "MANDEST": {
+      "classifierName": "Manifest Destiny Case Study",
+      "color": "Peru",
+      "font": {
+        "color": "black"
+      }
+    },
+    "GOV": {
+      "classifierName": "Government Representation And Systemic Bias",
+      "color": "DarkGoldenrod",
+      "font": {
+        "color": "white"
+      }
+    },
+    "ECON": {
+      "classifierName": "Economic Exclusion",
+      "color": "Gold",
+      "font": {
+        "color": "black"
+      }
+    },
+    "JUST": {
+      "classifierName": "Justice System And Criminality",
+      "color": "Crimson",
+      "font": {
+        "color": "white"
+      }
+    },
+    "MEDIA": {
+      "classifierName": "Media Representation",
+      "color": "HotPink",
+      "font": {
+        "color": "black"
+      }
+    },
+    "INDIG": {
+      "classifierName": "Indigenous Sovereignty And Tribal Relations",
+      "color": "DarkGreen",
+      "font": {
+        "color": "white"
+      }
+    },
+    "MIGR": {
+      "classifierName": "Migration, Colonialism And Global Perspectives",
+      "color": "Teal",
+      "font": {
+        "color": "white"
+      }
+    },
+    "CIVIL": {
+      "classifierName": "Civil Rights And Liberation Movements",
+      "color": "DarkRed",
+      "font": {
+        "color": "white"
+      }
+    },
+    "RELIG": {
+      "classifierName": "Religion And Cultural Diffusion",
+      "color": "OliveDrab",
+      "font": {
+        "color": "white"
+      }
+    },
+    "LANG": {
+      "classifierName": "Language And Power",
+      "color": "DarkOrchid",
+      "font": {
+        "color": "white"
+      }
+    },
+    "RESEARCH": {
+      "classifierName": "Research Methods And Capstone Skills",
+      "color": "DodgerBlue",
+      "font": {
+        "color": "white"
+      }
+    }
+  },
+  "nodes": [
+    {
+      "id": 1,
+      "label": "Hidden History",
+      "group": "FOUND",
+      "shape": "box"
+    },
+    {
+      "id": 2,
+      "label": "Absent Narrative",
+      "group": "FOUND"
+    },
+    {
+      "id": 3,
+      "label": "Historiography",
+      "group": "FOUND",
+      "shape": "box"
+    },
+    {
+      "id": 4,
+      "label": "Primary Source",
+      "group": "FOUND",
+      "shape": "box"
+    },
+    {
+      "id": 5,
+      "label": "Secondary Source",
+      "group": "FOUND",
+      "shape": "box"
+    },
+    {
+      "id": 6,
+      "label": "Source Bias",
+      "group": "FOUND"
+    },
+    {
+      "id": 7,
+      "label": "Author Perspective",
+      "group": "FOUND"
+    },
+    {
+      "id": 8,
+      "label": "Historical Context",
+      "group": "FOUND"
+    },
+    {
+      "id": 9,
+      "label": "Dominant Narrative",
+      "group": "FOUND"
+    },
+    {
+      "id": 10,
+      "label": "Counter-Narrative",
+      "group": "FOUND"
+    },
+    {
+      "id": 11,
+      "label": "Marginalization",
+      "group": "FOUND"
+    },
+    {
+      "id": 12,
+      "label": "Cultural Literacy",
+      "group": "FOUND"
+    },
+    {
+      "id": 13,
+      "label": "Self-Inquiry",
+      "group": "FOUND"
+    },
+    {
+      "id": 14,
+      "label": "Critical Thinking",
+      "group": "FOUND"
+    },
+    {
+      "id": 15,
+      "label": "Perspective-Taking",
+      "group": "FOUND"
+    },
+    {
+      "id": 16,
+      "label": "Empathy In History",
+      "group": "FOUND"
+    },
+    {
+      "id": 17,
+      "label": "Source Corroboration",
+      "group": "FOUND"
+    },
+    {
+      "id": 18,
+      "label": "Historical Silence",
+      "group": "FOUND"
+    },
+    {
+      "id": 19,
+      "label": "Systemic Oppression",
+      "group": "VOCAB"
+    },
+    {
+      "id": 20,
+      "label": "Privilege",
+      "group": "VOCAB"
+    },
+    {
+      "id": 21,
+      "label": "Power Structure",
+      "group": "VOCAB"
+    },
+    {
+      "id": 22,
+      "label": "Stereotype",
+      "group": "VOCAB"
+    },
+    {
+      "id": 23,
+      "label": "Prejudice",
+      "group": "VOCAB"
+    },
+    {
+      "id": 24,
+      "label": "Discrimination",
+      "group": "VOCAB"
+    },
+    {
+      "id": 25,
+      "label": "Bias",
+      "group": "VOCAB"
+    },
+    {
+      "id": 26,
+      "label": "Tokenism",
+      "group": "VOCAB"
+    },
+    {
+      "id": 27,
+      "label": "Erasure",
+      "group": "VOCAB"
+    },
+    {
+      "id": 28,
+      "label": "Representation",
+      "group": "VOCAB"
+    },
+    {
+      "id": 29,
+      "label": "Inclusion",
+      "group": "VOCAB"
+    },
+    {
+      "id": 30,
+      "label": "Equity Vs Equality",
+      "group": "VOCAB"
+    },
+    {
+      "id": 31,
+      "label": "Race",
+      "group": "IDENT",
+      "shape": "box"
+    },
+    {
+      "id": 32,
+      "label": "Ethnicity",
+      "group": "IDENT",
+      "shape": "box"
+    },
+    {
+      "id": 33,
+      "label": "Nationality",
+      "group": "IDENT",
+      "shape": "box"
+    },
+    {
+      "id": 34,
+      "label": "Gender",
+      "group": "IDENT",
+      "shape": "box"
+    },
+    {
+      "id": 35,
+      "label": "Sexuality",
+      "group": "IDENT",
+      "shape": "box"
+    },
+    {
+      "id": 36,
+      "label": "Intersectionality",
+      "group": "IDENT"
+    },
+    {
+      "id": 37,
+      "label": "Social Construction",
+      "group": "IDENT"
+    },
+    {
+      "id": 38,
+      "label": "Racial Hierarchy",
+      "group": "IDENT"
+    },
+    {
+      "id": 39,
+      "label": "Colorism",
+      "group": "IDENT"
+    },
+    {
+      "id": 40,
+      "label": "Beauty Standard",
+      "group": "IDENT"
+    },
+    {
+      "id": 41,
+      "label": "Identity Formation",
+      "group": "IDENT"
+    },
+    {
+      "id": 42,
+      "label": "Sense Of Place",
+      "group": "IDENT"
+    },
+    {
+      "id": 43,
+      "label": "Multiple Identities",
+      "group": "IDENT"
+    },
+    {
+      "id": 44,
+      "label": "Classism",
+      "group": "IDENT"
+    },
+    {
+      "id": 45,
+      "label": "Ableism",
+      "group": "IDENT"
+    },
+    {
+      "id": 46,
+      "label": "Cultural Identity",
+      "group": "IDENT"
+    },
+    {
+      "id": 47,
+      "label": "Manifest Destiny",
+      "group": "MANDEST"
+    },
+    {
+      "id": 48,
+      "label": "Westward Expansion",
+      "group": "MANDEST"
+    },
+    {
+      "id": 49,
+      "label": "Indigenous Displacement",
+      "group": "MANDEST"
+    },
+    {
+      "id": 50,
+      "label": "Trail Of Tears",
+      "group": "MANDEST"
+    },
+    {
+      "id": 51,
+      "label": "Homestead Act",
+      "group": "MANDEST"
+    },
+    {
+      "id": 52,
+      "label": "Frontier Myth",
+      "group": "MANDEST"
+    },
+    {
+      "id": 53,
+      "label": "American Exceptionalism",
+      "group": "MANDEST"
+    },
+    {
+      "id": 54,
+      "label": "Land Dispossession",
+      "group": "MANDEST"
+    },
+    {
+      "id": 55,
+      "label": "Settler Colonialism",
+      "group": "MANDEST"
+    },
+    {
+      "id": 56,
+      "label": "Erased Indigenous Voices",
+      "group": "MANDEST"
+    },
+    {
+      "id": 57,
+      "label": "Systemic Racism",
+      "group": "GOV"
+    },
+    {
+      "id": 58,
+      "label": "Systemic Sexism",
+      "group": "GOV"
+    },
+    {
+      "id": 59,
+      "label": "Gerrymandering",
+      "group": "GOV"
+    },
+    {
+      "id": 60,
+      "label": "Redistricting",
+      "group": "GOV"
+    },
+    {
+      "id": 61,
+      "label": "Voter Intimidation",
+      "group": "GOV"
+    },
+    {
+      "id": 62,
+      "label": "Voter Suppression",
+      "group": "GOV"
+    },
+    {
+      "id": 63,
+      "label": "Poll Tax",
+      "group": "GOV"
+    },
+    {
+      "id": 64,
+      "label": "Literacy Test",
+      "group": "GOV"
+    },
+    {
+      "id": 65,
+      "label": "Voting Rights Act",
+      "group": "GOV"
+    },
+    {
+      "id": 66,
+      "label": "Civic Participation",
+      "group": "GOV"
+    },
+    {
+      "id": 67,
+      "label": "Political Persuasion",
+      "group": "GOV"
+    },
+    {
+      "id": 68,
+      "label": "Ideology In Media",
+      "group": "GOV"
+    },
+    {
+      "id": 69,
+      "label": "Emotional Appeal",
+      "group": "GOV"
+    },
+    {
+      "id": 70,
+      "label": "Government Trust",
+      "group": "GOV"
+    },
+    {
+      "id": 71,
+      "label": "Tribal Sovereignty",
+      "group": "GOV"
+    },
+    {
+      "id": 72,
+      "label": "Nation-To-Nation Relations",
+      "group": "GOV"
+    },
+    {
+      "id": 73,
+      "label": "Political Boundary",
+      "group": "GOV"
+    },
+    {
+      "id": 74,
+      "label": "Supranationalism",
+      "group": "GOV"
+    },
+    {
+      "id": 75,
+      "label": "Economic Exclusion",
+      "group": "ECON"
+    },
+    {
+      "id": 76,
+      "label": "Embargo",
+      "group": "ECON"
+    },
+    {
+      "id": 77,
+      "label": "Trade Restriction",
+      "group": "ECON"
+    },
+    {
+      "id": 78,
+      "label": "Redlining",
+      "group": "ECON"
+    },
+    {
+      "id": 79,
+      "label": "Housing Discrimination",
+      "group": "ECON"
+    },
+    {
+      "id": 80,
+      "label": "Wealth Gap",
+      "group": "ECON"
+    },
+    {
+      "id": 81,
+      "label": "College Admissions Bias",
+      "group": "ECON"
+    },
+    {
+      "id": 82,
+      "label": "Legacy Admissions",
+      "group": "ECON"
+    },
+    {
+      "id": 83,
+      "label": "Economic Mobility",
+      "group": "ECON"
+    },
+    {
+      "id": 84,
+      "label": "Racial Capitalism",
+      "group": "ECON"
+    },
+    {
+      "id": 85,
+      "label": "Labor Exploitation",
+      "group": "ECON"
+    },
+    {
+      "id": 86,
+      "label": "Reparations",
+      "group": "ECON"
+    },
+    {
+      "id": 87,
+      "label": "Community Disinvestment",
+      "group": "ECON"
+    },
+    {
+      "id": 88,
+      "label": "Gentrification",
+      "group": "ECON"
+    },
+    {
+      "id": 89,
+      "label": "Access To Credit",
+      "group": "ECON"
+    },
+    {
+      "id": 90,
+      "label": "Criminality",
+      "group": "JUST"
+    },
+    {
+      "id": 91,
+      "label": "Social Construction Of Crime",
+      "group": "JUST"
+    },
+    {
+      "id": 92,
+      "label": "Codes And Laws",
+      "group": "JUST"
+    },
+    {
+      "id": 93,
+      "label": "Selective Enforcement",
+      "group": "JUST"
+    },
+    {
+      "id": 94,
+      "label": "Sentencing Disparity",
+      "group": "JUST"
+    },
+    {
+      "id": 95,
+      "label": "Mass Incarceration",
+      "group": "JUST"
+    },
+    {
+      "id": 96,
+      "label": "Prejudice Statistics",
+      "group": "JUST"
+    },
+    {
+      "id": 97,
+      "label": "Racial Profiling",
+      "group": "JUST"
+    },
+    {
+      "id": 98,
+      "label": "School-To-Prison Pipeline",
+      "group": "JUST"
+    },
+    {
+      "id": 99,
+      "label": "Restorative Justice",
+      "group": "JUST"
+    },
+    {
+      "id": 100,
+      "label": "Due Process",
+      "group": "JUST"
+    },
+    {
+      "id": 101,
+      "label": "Implicit Bias",
+      "group": "JUST"
+    },
+    {
+      "id": 102,
+      "label": "Fugitivity",
+      "group": "JUST"
+    },
+    {
+      "id": 103,
+      "label": "Criminal Label Impact",
+      "group": "JUST"
+    },
+    {
+      "id": 104,
+      "label": "Policing History",
+      "group": "JUST"
+    },
+    {
+      "id": 105,
+      "label": "Juvenile Justice",
+      "group": "JUST"
+    },
+    {
+      "id": 106,
+      "label": "Media Representation",
+      "group": "MEDIA"
+    },
+    {
+      "id": 107,
+      "label": "Colorism In Media",
+      "group": "MEDIA"
+    },
+    {
+      "id": 108,
+      "label": "Beauty Standard Bias",
+      "group": "MEDIA"
+    },
+    {
+      "id": 109,
+      "label": "Headline Bias",
+      "group": "MEDIA"
+    },
+    {
+      "id": 110,
+      "label": "Framing Effect",
+      "group": "MEDIA"
+    },
+    {
+      "id": 111,
+      "label": "Media Literacy",
+      "group": "MEDIA"
+    },
+    {
+      "id": 112,
+      "label": "Stereotype In Media",
+      "group": "MEDIA"
+    },
+    {
+      "id": 113,
+      "label": "Tokenized Casting",
+      "group": "MEDIA"
+    },
+    {
+      "id": 114,
+      "label": "Whitewashing",
+      "group": "MEDIA"
+    },
+    {
+      "id": 115,
+      "label": "Digital Media Bias",
+      "group": "MEDIA"
+    },
+    {
+      "id": 116,
+      "label": "Algorithmic Bias",
+      "group": "MEDIA"
+    },
+    {
+      "id": 117,
+      "label": "Source Validity",
+      "group": "MEDIA"
+    },
+    {
+      "id": 118,
+      "label": "Propaganda",
+      "group": "MEDIA"
+    },
+    {
+      "id": 119,
+      "label": "Counter-Storytelling",
+      "group": "MEDIA"
+    },
+    {
+      "id": 120,
+      "label": "Indigenous Sovereignty",
+      "group": "INDIG"
+    },
+    {
+      "id": 121,
+      "label": "Treaty Rights",
+      "group": "INDIG"
+    },
+    {
+      "id": 122,
+      "label": "Minnesota Tribal Nations",
+      "group": "INDIG"
+    },
+    {
+      "id": 123,
+      "label": "Boarding School Era",
+      "group": "INDIG"
+    },
+    {
+      "id": 124,
+      "label": "Cultural Suppression",
+      "group": "INDIG"
+    },
+    {
+      "id": 125,
+      "label": "Land Acknowledgment",
+      "group": "INDIG"
+    },
+    {
+      "id": 126,
+      "label": "Federal Recognition",
+      "group": "INDIG"
+    },
+    {
+      "id": 127,
+      "label": "Self-Determination",
+      "group": "INDIG"
+    },
+    {
+      "id": 128,
+      "label": "Indigenous Iconography",
+      "group": "INDIG"
+    },
+    {
+      "id": 129,
+      "label": "Contemporary Indigenous Voice",
+      "group": "INDIG"
+    },
+    {
+      "id": 130,
+      "label": "Repatriation",
+      "group": "INDIG"
+    },
+    {
+      "id": 131,
+      "label": "Blood Quantum",
+      "group": "INDIG"
+    },
+    {
+      "id": 132,
+      "label": "Indigenous Resistance",
+      "group": "INDIG"
+    },
+    {
+      "id": 133,
+      "label": "Sovereignty Erosion",
+      "group": "INDIG"
+    },
+    {
+      "id": 134,
+      "label": "Forced Migration",
+      "group": "MIGR"
+    },
+    {
+      "id": 135,
+      "label": "Displacement",
+      "group": "MIGR"
+    },
+    {
+      "id": 136,
+      "label": "Diaspora",
+      "group": "MIGR"
+    },
+    {
+      "id": 137,
+      "label": "Colonialism",
+      "group": "MIGR"
+    },
+    {
+      "id": 138,
+      "label": "Imperialism",
+      "group": "MIGR"
+    },
+    {
+      "id": 139,
+      "label": "Cultural Diffusion",
+      "group": "MIGR"
+    },
+    {
+      "id": 140,
+      "label": "Diffusion Model",
+      "group": "MIGR"
+    },
+    {
+      "id": 141,
+      "label": "Immigration Policy",
+      "group": "MIGR"
+    },
+    {
+      "id": 142,
+      "label": "U.S. Foreign Policy",
+      "group": "MIGR"
+    },
+    {
+      "id": 143,
+      "label": "Nationalism",
+      "group": "MIGR"
+    },
+    {
+      "id": 144,
+      "label": "Independent Statehood",
+      "group": "MIGR"
+    },
+    {
+      "id": 145,
+      "label": "Border Formation",
+      "group": "MIGR"
+    },
+    {
+      "id": 146,
+      "label": "Refugee Experience",
+      "group": "MIGR"
+    },
+    {
+      "id": 147,
+      "label": "Global Migration Pattern",
+      "group": "MIGR"
+    },
+    {
+      "id": 148,
+      "label": "Anti-Blackness",
+      "group": "MIGR"
+    },
+    {
+      "id": 149,
+      "label": "Civil Rights Movement",
+      "group": "CIVIL"
+    },
+    {
+      "id": 150,
+      "label": "Suffrage Movement",
+      "group": "CIVIL"
+    },
+    {
+      "id": 151,
+      "label": "Labor Rights Movement",
+      "group": "CIVIL"
+    },
+    {
+      "id": 152,
+      "label": "LGBTQ Rights Movement",
+      "group": "CIVIL"
+    },
+    {
+      "id": 153,
+      "label": "Disability Rights Movement",
+      "group": "CIVIL"
+    },
+    {
+      "id": 154,
+      "label": "Liberation Struggle",
+      "group": "CIVIL"
+    },
+    {
+      "id": 155,
+      "label": "Freedom Movement",
+      "group": "CIVIL"
+    },
+    {
+      "id": 156,
+      "label": "Nonviolent Resistance",
+      "group": "CIVIL"
+    },
+    {
+      "id": 157,
+      "label": "Civil Disobedience",
+      "group": "CIVIL"
+    },
+    {
+      "id": 158,
+      "label": "Legislative Change",
+      "group": "CIVIL"
+    },
+    {
+      "id": 159,
+      "label": "Social Movement Strategy",
+      "group": "CIVIL"
+    },
+    {
+      "id": 160,
+      "label": "Grassroots Organizing",
+      "group": "CIVIL"
+    },
+    {
+      "id": 161,
+      "label": "Intergenerational Trauma",
+      "group": "CIVIL"
+    },
+    {
+      "id": 162,
+      "label": "Legacy Of Slavery",
+      "group": "CIVIL"
+    },
+    {
+      "id": 163,
+      "label": "Reconstruction Era",
+      "group": "CIVIL"
+    },
+    {
+      "id": 164,
+      "label": "Jim Crow Era",
+      "group": "CIVIL"
+    },
+    {
+      "id": 165,
+      "label": "Desegregation",
+      "group": "CIVIL"
+    },
+    {
+      "id": 166,
+      "label": "Contemporary Activism",
+      "group": "CIVIL"
+    },
+    {
+      "id": 167,
+      "label": "Shamanism",
+      "group": "RELIG"
+    },
+    {
+      "id": 168,
+      "label": "Animism",
+      "group": "RELIG"
+    },
+    {
+      "id": 169,
+      "label": "Hinduism",
+      "group": "RELIG"
+    },
+    {
+      "id": 170,
+      "label": "Buddhism",
+      "group": "RELIG"
+    },
+    {
+      "id": 171,
+      "label": "Judaism",
+      "group": "RELIG"
+    },
+    {
+      "id": 172,
+      "label": "Christianity",
+      "group": "RELIG"
+    },
+    {
+      "id": 173,
+      "label": "Islam",
+      "group": "RELIG"
+    },
+    {
+      "id": 174,
+      "label": "African Diasporic Religion",
+      "group": "RELIG"
+    },
+    {
+      "id": 175,
+      "label": "Religious Persecution",
+      "group": "RELIG"
+    },
+    {
+      "id": 176,
+      "label": "Religious Pluralism",
+      "group": "RELIG"
+    },
+    {
+      "id": 177,
+      "label": "Language And Power",
+      "group": "LANG"
+    },
+    {
+      "id": 178,
+      "label": "Linguistic Suppression",
+      "group": "LANG"
+    },
+    {
+      "id": 179,
+      "label": "Code-Switching",
+      "group": "LANG"
+    },
+    {
+      "id": 180,
+      "label": "Language Revitalization",
+      "group": "LANG"
+    },
+    {
+      "id": 181,
+      "label": "Dialect Bias",
+      "group": "LANG"
+    },
+    {
+      "id": 182,
+      "label": "Naming And Identity",
+      "group": "LANG"
+    },
+    {
+      "id": 183,
+      "label": "Oral Tradition",
+      "group": "LANG"
+    },
+    {
+      "id": 184,
+      "label": "Translation Bias",
+      "group": "LANG"
+    },
+    {
+      "id": 185,
+      "label": "Research Question",
+      "group": "RESEARCH"
+    },
+    {
+      "id": 186,
+      "label": "Archival Research",
+      "group": "RESEARCH"
+    },
+    {
+      "id": 187,
+      "label": "Oral History Method",
+      "group": "RESEARCH"
+    },
+    {
+      "id": 188,
+      "label": "Interview Technique",
+      "group": "RESEARCH"
+    },
+    {
+      "id": 189,
+      "label": "Source Triangulation",
+      "group": "RESEARCH"
+    },
+    {
+      "id": 190,
+      "label": "Ethics Of Representation",
+      "group": "RESEARCH"
+    },
+    {
+      "id": 191,
+      "label": "Narrative Reconstruction",
+      "group": "RESEARCH"
+    },
+    {
+      "id": 192,
+      "label": "Historical Documentary",
+      "group": "RESEARCH"
+    },
+    {
+      "id": 193,
+      "label": "Exhibit Design",
+      "group": "RESEARCH"
+    },
+    {
+      "id": 194,
+      "label": "Public History",
+      "group": "RESEARCH"
+    },
+    {
+      "id": 195,
+      "label": "Policy Proposal",
+      "group": "RESEARCH"
+    },
+    {
+      "id": 196,
+      "label": "Community Action",
+      "group": "RESEARCH"
+    },
+    {
+      "id": 197,
+      "label": "Capstone Project",
+      "group": "RESEARCH"
+    },
+    {
+      "id": 198,
+      "label": "Peer Review",
+      "group": "RESEARCH"
+    },
+    {
+      "id": 199,
+      "label": "Citation Practice",
+      "group": "RESEARCH"
+    },
+    {
+      "id": 200,
+      "label": "Presenting Findings",
+      "group": "RESEARCH"
+    }
+  ],
+  "edges": [
+    {
+      "from": 2,
+      "to": 1
+    },
+    {
+      "from": 6,
+      "to": 4
+    },
+    {
+      "from": 6,
+      "to": 5
+    },
+    {
+      "from": 7,
+      "to": 6
+    },
+    {
+      "from": 8,
+      "to": 3
+    },
+    {
+      "from": 9,
+      "to": 3
+    },
+    {
+      "from": 9,
+      "to": 8
+    },
+    {
+      "from": 10,
+      "to": 2
+    },
+    {
+      "from": 10,
+      "to": 9
+    },
+    {
+      "from": 11,
+      "to": 1
+    },
+    {
+      "from": 11,
+      "to": 10
+    },
+    {
+      "from": 12,
+      "to": 11
+    },
+    {
+      "from": 13,
+      "to": 12
+    },
+    {
+      "from": 14,
+      "to": 6
+    },
+    {
+      "from": 14,
+      "to": 7
+    },
+    {
+      "from": 15,
+      "to": 7
+    },
+    {
+      "from": 15,
+      "to": 14
+    },
+    {
+      "from": 16,
+      "to": 15
+    },
+    {
+      "from": 17,
+      "to": 4
+    },
+    {
+      "from": 17,
+      "to": 5
+    },
+    {
+      "from": 18,
+      "to": 9
+    },
+    {
+      "from": 18,
+      "to": 11
+    },
+    {
+      "from": 19,
+      "to": 11
+    },
+    {
+      "from": 20,
+      "to": 19
+    },
+    {
+      "from": 21,
+      "to": 19
+    },
+    {
+      "from": 21,
+      "to": 20
+    },
+    {
+      "from": 22,
+      "to": 11
+    },
+    {
+      "from": 23,
+      "to": 22
+    },
+    {
+      "from": 24,
+      "to": 23
+    },
+    {
+      "from": 25,
+      "to": 6
+    },
+    {
+      "from": 26,
+      "to": 21
+    },
+    {
+      "from": 27,
+      "to": 18
+    },
+    {
+      "from": 28,
+      "to": 10
+    },
+    {
+      "from": 28,
+      "to": 27
+    },
+    {
+      "from": 29,
+      "to": 28
+    },
+    {
+      "from": 30,
+      "to": 21
+    },
+    {
+      "from": 30,
+      "to": 29
+    },
+    {
+      "from": 36,
+      "to": 31
+    },
+    {
+      "from": 36,
+      "to": 32
+    },
+    {
+      "from": 36,
+      "to": 34
+    },
+    {
+      "from": 36,
+      "to": 35
+    },
+    {
+      "from": 37,
+      "to": 31
+    },
+    {
+      "from": 37,
+      "to": 3
+    },
+    {
+      "from": 38,
+      "to": 37
+    },
+    {
+      "from": 38,
+      "to": 21
+    },
+    {
+      "from": 39,
+      "to": 38
+    },
+    {
+      "from": 40,
+      "to": 39
+    },
+    {
+      "from": 41,
+      "to": 36
+    },
+    {
+      "from": 42,
+      "to": 32
+    },
+    {
+      "from": 42,
+      "to": 33
+    },
+    {
+      "from": 43,
+      "to": 36
+    },
+    {
+      "from": 43,
+      "to": 42
+    },
+    {
+      "from": 44,
+      "to": 21
+    },
+    {
+      "from": 45,
+      "to": 21
+    },
+    {
+      "from": 46,
+      "to": 32
+    },
+    {
+      "from": 46,
+      "to": 12
+    },
+    {
+      "from": 47,
+      "to": 9
+    },
+    {
+      "from": 47,
+      "to": 8
+    },
+    {
+      "from": 48,
+      "to": 47
+    },
+    {
+      "from": 49,
+      "to": 48
+    },
+    {
+      "from": 50,
+      "to": 49
+    },
+    {
+      "from": 51,
+      "to": 48
+    },
+    {
+      "from": 52,
+      "to": 9
+    },
+    {
+      "from": 52,
+      "to": 47
+    },
+    {
+      "from": 53,
+      "to": 52
+    },
+    {
+      "from": 54,
+      "to": 49
+    },
+    {
+      "from": 54,
+      "to": 51
+    },
+    {
+      "from": 55,
+      "to": 48
+    },
+    {
+      "from": 55,
+      "to": 53
+    },
+    {
+      "from": 56,
+      "to": 50
+    },
+    {
+      "from": 56,
+      "to": 10
+    },
+    {
+      "from": 57,
+      "to": 19
+    },
+    {
+      "from": 57,
+      "to": 37
+    },
+    {
+      "from": 58,
+      "to": 19
+    },
+    {
+      "from": 58,
+      "to": 34
+    },
+    {
+      "from": 59,
+      "to": 21
+    },
+    {
+      "from": 59,
+      "to": 57
+    },
+    {
+      "from": 60,
+      "to": 59
+    },
+    {
+      "from": 61,
+      "to": 57
+    },
+    {
+      "from": 61,
+      "to": 58
+    },
+    {
+      "from": 62,
+      "to": 59
+    },
+    {
+      "from": 62,
+      "to": 61
+    },
+    {
+      "from": 63,
+      "to": 62
+    },
+    {
+      "from": 64,
+      "to": 62
+    },
+    {
+      "from": 65,
+      "to": 63
+    },
+    {
+      "from": 65,
+      "to": 64
+    },
+    {
+      "from": 66,
+      "to": 65
+    },
+    {
+      "from": 67,
+      "to": 25
+    },
+    {
+      "from": 68,
+      "to": 67
+    },
+    {
+      "from": 69,
+      "to": 67
+    },
+    {
+      "from": 70,
+      "to": 57
+    },
+    {
+      "from": 70,
+      "to": 58
+    },
+    {
+      "from": 71,
+      "to": 33
+    },
+    {
+      "from": 71,
+      "to": 70
+    },
+    {
+      "from": 72,
+      "to": 71
+    },
+    {
+      "from": 73,
+      "to": 33
+    },
+    {
+      "from": 73,
+      "to": 55
+    },
+    {
+      "from": 74,
+      "to": 73
+    },
+    {
+      "from": 75,
+      "to": 19
+    },
+    {
+      "from": 75,
+      "to": 21
+    },
+    {
+      "from": 76,
+      "to": 73
+    },
+    {
+      "from": 76,
+      "to": 75
+    },
+    {
+      "from": 77,
+      "to": 76
+    },
+    {
+      "from": 78,
+      "to": 57
+    },
+    {
+      "from": 78,
+      "to": 75
+    },
+    {
+      "from": 79,
+      "to": 78
+    },
+    {
+      "from": 80,
+      "to": 79
+    },
+    {
+      "from": 81,
+      "to": 44
+    },
+    {
+      "from": 81,
+      "to": 75
+    },
+    {
+      "from": 82,
+      "to": 81
+    },
+    {
+      "from": 83,
+      "to": 80
+    },
+    {
+      "from": 84,
+      "to": 57
+    },
+    {
+      "from": 84,
+      "to": 75
+    },
+    {
+      "from": 85,
+      "to": 84
+    },
+    {
+      "from": 86,
+      "to": 80
+    },
+    {
+      "from": 86,
+      "to": 84
+    },
+    {
+      "from": 87,
+      "to": 79
+    },
+    {
+      "from": 87,
+      "to": 80
+    },
+    {
+      "from": 88,
+      "to": 87
+    },
+    {
+      "from": 89,
+      "to": 79
+    },
+    {
+      "from": 89,
+      "to": 80
+    },
+    {
+      "from": 90,
+      "to": 21
+    },
+    {
+      "from": 90,
+      "to": 37
+    },
+    {
+      "from": 91,
+      "to": 90
+    },
+    {
+      "from": 91,
+      "to": 3
+    },
+    {
+      "from": 92,
+      "to": 91
+    },
+    {
+      "from": 93,
+      "to": 92
+    },
+    {
+      "from": 93,
+      "to": 57
+    },
+    {
+      "from": 94,
+      "to": 93
+    },
+    {
+      "from": 95,
+      "to": 94
+    },
+    {
+      "from": 96,
+      "to": 23
+    },
+    {
+      "from": 96,
+      "to": 94
+    },
+    {
+      "from": 97,
+      "to": 93
+    },
+    {
+      "from": 97,
+      "to": 38
+    },
+    {
+      "from": 98,
+      "to": 95
+    },
+    {
+      "from": 98,
+      "to": 44
+    },
+    {
+      "from": 99,
+      "to": 95
+    },
+    {
+      "from": 100,
+      "to": 92
+    },
+    {
+      "from": 101,
+      "to": 22
+    },
+    {
+      "from": 101,
+      "to": 97
+    },
+    {
+      "from": 102,
+      "to": 90
+    },
+    {
+      "from": 102,
+      "to": 55
+    },
+    {
+      "from": 103,
+      "to": 90
+    },
+    {
+      "from": 103,
+      "to": 11
+    },
+    {
+      "from": 104,
+      "to": 93
+    },
+    {
+      "from": 104,
+      "to": 55
+    },
+    {
+      "from": 105,
+      "to": 98
+    },
+    {
+      "from": 106,
+      "to": 28
+    },
+    {
+      "from": 107,
+      "to": 39
+    },
+    {
+      "from": 107,
+      "to": 106
+    },
+    {
+      "from": 108,
+      "to": 40
+    },
+    {
+      "from": 108,
+      "to": 106
+    },
+    {
+      "from": 109,
+      "to": 25
+    },
+    {
+      "from": 109,
+      "to": 106
+    },
+    {
+      "from": 110,
+      "to": 109
+    },
+    {
+      "from": 111,
+      "to": 14
+    },
+    {
+      "from": 111,
+      "to": 106
+    },
+    {
+      "from": 112,
+      "to": 22
+    },
+    {
+      "from": 112,
+      "to": 106
+    },
+    {
+      "from": 113,
+      "to": 26
+    },
+    {
+      "from": 113,
+      "to": 106
+    },
+    {
+      "from": 114,
+      "to": 113
+    },
+    {
+      "from": 115,
+      "to": 110
+    },
+    {
+      "from": 116,
+      "to": 115
+    },
+    {
+      "from": 117,
+      "to": 6
+    },
+    {
+      "from": 117,
+      "to": 111
+    },
+    {
+      "from": 118,
+      "to": 69
+    },
+    {
+      "from": 118,
+      "to": 110
+    },
+    {
+      "from": 119,
+      "to": 10
+    },
+    {
+      "from": 119,
+      "to": 106
+    },
+    {
+      "from": 120,
+      "to": 71
+    },
+    {
+      "from": 120,
+      "to": 49
+    },
+    {
+      "from": 121,
+      "to": 120
+    },
+    {
+      "from": 122,
+      "to": 121
+    },
+    {
+      "from": 123,
+      "to": 122
+    },
+    {
+      "from": 124,
+      "to": 123
+    },
+    {
+      "from": 125,
+      "to": 122
+    },
+    {
+      "from": 125,
+      "to": 54
+    },
+    {
+      "from": 126,
+      "to": 121
+    },
+    {
+      "from": 127,
+      "to": 120
+    },
+    {
+      "from": 127,
+      "to": 126
+    },
+    {
+      "from": 128,
+      "to": 112
+    },
+    {
+      "from": 128,
+      "to": 120
+    },
+    {
+      "from": 129,
+      "to": 128
+    },
+    {
+      "from": 129,
+      "to": 10
+    },
+    {
+      "from": 130,
+      "to": 126
+    },
+    {
+      "from": 130,
+      "to": 124
+    },
+    {
+      "from": 131,
+      "to": 126
+    },
+    {
+      "from": 132,
+      "to": 124
+    },
+    {
+      "from": 132,
+      "to": 127
+    },
+    {
+      "from": 133,
+      "to": 120
+    },
+    {
+      "from": 133,
+      "to": 74
+    },
+    {
+      "from": 134,
+      "to": 55
+    },
+    {
+      "from": 134,
+      "to": 73
+    },
+    {
+      "from": 135,
+      "to": 134
+    },
+    {
+      "from": 135,
+      "to": 49
+    },
+    {
+      "from": 136,
+      "to": 135
+    },
+    {
+      "from": 137,
+      "to": 55
+    },
+    {
+      "from": 137,
+      "to": 73
+    },
+    {
+      "from": 138,
+      "to": 137
+    },
+    {
+      "from": 139,
+      "to": 46
+    },
+    {
+      "from": 139,
+      "to": 137
+    },
+    {
+      "from": 140,
+      "to": 139
+    },
+    {
+      "from": 141,
+      "to": 134
+    },
+    {
+      "from": 141,
+      "to": 70
+    },
+    {
+      "from": 142,
+      "to": 138
+    },
+    {
+      "from": 142,
+      "to": 141
+    },
+    {
+      "from": 143,
+      "to": 33
+    },
+    {
+      "from": 143,
+      "to": 138
+    },
+    {
+      "from": 144,
+      "to": 138
+    },
+    {
+      "from": 144,
+      "to": 143
+    },
+    {
+      "from": 145,
+      "to": 73
+    },
+    {
+      "from": 145,
+      "to": 144
+    },
+    {
+      "from": 146,
+      "to": 134
+    },
+    {
+      "from": 146,
+      "to": 136
+    },
+    {
+      "from": 147,
+      "to": 136
+    },
+    {
+      "from": 147,
+      "to": 140
+    },
+    {
+      "from": 148,
+      "to": 38
+    },
+    {
+      "from": 148,
+      "to": 84
+    },
+    {
+      "from": 149,
+      "to": 24
+    },
+    {
+      "from": 149,
+      "to": 66
+    },
+    {
+      "from": 150,
+      "to": 58
+    },
+    {
+      "from": 150,
+      "to": 66
+    },
+    {
+      "from": 151,
+      "to": 85
+    },
+    {
+      "from": 151,
+      "to": 66
+    },
+    {
+      "from": 152,
+      "to": 35
+    },
+    {
+      "from": 152,
+      "to": 149
+    },
+    {
+      "from": 153,
+      "to": 45
+    },
+    {
+      "from": 153,
+      "to": 149
+    },
+    {
+      "from": 154,
+      "to": 149
+    },
+    {
+      "from": 154,
+      "to": 132
+    },
+    {
+      "from": 155,
+      "to": 154
+    },
+    {
+      "from": 155,
+      "to": 146
+    },
+    {
+      "from": 156,
+      "to": 149
+    },
+    {
+      "from": 157,
+      "to": 156
+    },
+    {
+      "from": 158,
+      "to": 65
+    },
+    {
+      "from": 158,
+      "to": 149
+    },
+    {
+      "from": 159,
+      "to": 156
+    },
+    {
+      "from": 159,
+      "to": 157
+    },
+    {
+      "from": 160,
+      "to": 159
+    },
+    {
+      "from": 161,
+      "to": 50
+    },
+    {
+      "from": 161,
+      "to": 124
+    },
+    {
+      "from": 162,
+      "to": 55
+    },
+    {
+      "from": 162,
+      "to": 84
+    },
+    {
+      "from": 163,
+      "to": 162
+    },
+    {
+      "from": 163,
+      "to": 158
+    },
+    {
+      "from": 164,
+      "to": 163
+    },
+    {
+      "from": 164,
+      "to": 62
+    },
+    {
+      "from": 165,
+      "to": 164
+    },
+    {
+      "from": 165,
+      "to": 149
+    },
+    {
+      "from": 166,
+      "to": 160
+    },
+    {
+      "from": 166,
+      "to": 129
+    },
+    {
+      "from": 167,
+      "to": 139
+    },
+    {
+      "from": 168,
+      "to": 167
+    },
+    {
+      "from": 169,
+      "to": 139
+    },
+    {
+      "from": 170,
+      "to": 169
+    },
+    {
+      "from": 171,
+      "to": 139
+    },
+    {
+      "from": 172,
+      "to": 171
+    },
+    {
+      "from": 173,
+      "to": 171
+    },
+    {
+      "from": 174,
+      "to": 136
+    },
+    {
+      "from": 174,
+      "to": 139
+    },
+    {
+      "from": 175,
+      "to": 24
+    },
+    {
+      "from": 175,
+      "to": 167
+    },
+    {
+      "from": 176,
+      "to": 172
+    },
+    {
+      "from": 176,
+      "to": 173
+    },
+    {
+      "from": 177,
+      "to": 21
+    },
+    {
+      "from": 177,
+      "to": 32
+    },
+    {
+      "from": 178,
+      "to": 124
+    },
+    {
+      "from": 178,
+      "to": 177
+    },
+    {
+      "from": 179,
+      "to": 177
+    },
+    {
+      "from": 180,
+      "to": 178
+    },
+    {
+      "from": 180,
+      "to": 127
+    },
+    {
+      "from": 181,
+      "to": 177
+    },
+    {
+      "from": 181,
+      "to": 25
+    },
+    {
+      "from": 182,
+      "to": 41
+    },
+    {
+      "from": 182,
+      "to": 177
+    },
+    {
+      "from": 183,
+      "to": 124
+    },
+    {
+      "from": 183,
+      "to": 177
+    },
+    {
+      "from": 184,
+      "to": 177
+    },
+    {
+      "from": 184,
+      "to": 7
+    },
+    {
+      "from": 185,
+      "to": 13
+    },
+    {
+      "from": 185,
+      "to": 14
+    },
+    {
+      "from": 186,
+      "to": 4
+    },
+    {
+      "from": 186,
+      "to": 185
+    },
+    {
+      "from": 187,
+      "to": 183
+    },
+    {
+      "from": 187,
+      "to": 185
+    },
+    {
+      "from": 188,
+      "to": 187
+    },
+    {
+      "from": 189,
+      "to": 17
+    },
+    {
+      "from": 189,
+      "to": 186
+    },
+    {
+      "from": 190,
+      "to": 16
+    },
+    {
+      "from": 190,
+      "to": 28
+    },
+    {
+      "from": 191,
+      "to": 189
+    },
+    {
+      "from": 191,
+      "to": 190
+    },
+    {
+      "from": 192,
+      "to": 191
+    },
+    {
+      "from": 193,
+      "to": 191
+    },
+    {
+      "from": 194,
+      "to": 192
+    },
+    {
+      "from": 194,
+      "to": 193
+    },
+    {
+      "from": 195,
+      "to": 96
+    },
+    {
+      "from": 195,
+      "to": 191
+    },
+    {
+      "from": 196,
+      "to": 160
+    },
+    {
+      "from": 196,
+      "to": 195
+    },
+    {
+      "from": 197,
+      "to": 191
+    },
+    {
+      "from": 197,
+      "to": 195
+    },
+    {
+      "from": 198,
+      "to": 197
+    },
+    {
+      "from": 199,
+      "to": 186
+    },
+    {
+      "from": 199,
+      "to": 198
+    },
+    {
+      "from": 200,
+      "to": 194
+    },
+    {
+      "from": 200,
+      "to": 199
+    }
+  ]
+}

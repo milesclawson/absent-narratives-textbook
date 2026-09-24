@@ -1,3 +1,9 @@
+---
+title: Course Description for Course Absent Narratives
+description: A detailed course description for Absent Narratives including overview, topics covered and learning objectives in the format of the 2001 Bloom Taxonomy
+quality_score: 100
+---
+
 # Course Description
 
 This file is the seed document used by the learning-graph-generator skill to
@@ -64,9 +70,25 @@ in 9th grade Human Geography and Ethnic Studies.
 19. Liberation and civil rights movements, past and present
 20. Language and power: how language has been used for and against marginalized groups
 
+## Topics Not Covered
+
+To keep the course focused within one semester, the following related topics
+are intentionally out of scope (some are addressed in the 9th grade Human
+Geography and Ethnic Studies prerequisite, others belong to other courses):
+
+- General world-history survey content already covered in prerequisite courses
+- In-depth economic theory beyond the specific case studies of embargoes,
+  redlining, and college admissions
+- Legal training in constitutional or case law beyond what is needed to
+  discuss codes, statutes, and their differential enforcement
+- International comparative government systems outside the U.S./Minnesota
+  context, except where directly relevant to colonialism or migration
+- Clinical or psychological treatments of trauma; the course addresses
+  historical and social analysis, not counseling or therapeutic practice
+
 ## Learning Outcomes
 
-By the end of this course, students will be able to:
+After this course, students will be able to:
 
 - **Remember:** Recall key vocabulary of hidden history and historiography;
   identify major events and case studies (e.g., Manifest Destiny, the U.S.
@@ -92,7 +114,12 @@ By the end of this course, students will be able to:
   critique how criminality and prejudice are constructed and measured.
 - **Create:** Research and reconstruct a previously hidden or marginalized
   historical narrative using primary and secondary sources, presenting it in
-  a way that restores the voice and perspective of the people involved.
+  a way that restores the voice and perspective of the people involved;
+  design an original multimedia or written presentation (e.g., podcast,
+  exhibit, essay, or documentary) that makes an absent narrative accessible
+  to a broader audience; propose a policy or community action that responds
+  to a historical pattern of exclusion identified through the student's own
+  research.
 
 ## Minnesota State Standards Alignment
 

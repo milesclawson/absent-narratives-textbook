@@ -1,0 +1,201 @@
+ConceptID,ConceptLabel,Dependencies,TaxonomyID
+1,Hidden History,,FOUND
+2,Absent Narrative,1,FOUND
+3,Historiography,,FOUND
+4,Primary Source,,FOUND
+5,Secondary Source,,FOUND
+6,Source Bias,4|5,FOUND
+7,Author Perspective,6,FOUND
+8,Historical Context,3,FOUND
+9,Dominant Narrative,3|8,FOUND
+10,Counter-Narrative,2|9,FOUND
+11,Marginalization,1|10,FOUND
+12,Cultural Literacy,11,FOUND
+13,Self-Inquiry,12,FOUND
+14,Critical Thinking,6|7,FOUND
+15,Perspective-Taking,7|14,FOUND
+16,Empathy In History,15,FOUND
+17,Source Corroboration,4|5,FOUND
+18,Historical Silence,9|11,FOUND
+19,Systemic Oppression,11,VOCAB
+20,Privilege,19,VOCAB
+21,Power Structure,19|20,VOCAB
+22,Stereotype,11,VOCAB
+23,Prejudice,22,VOCAB
+24,Discrimination,23,VOCAB
+25,Bias,6,VOCAB
+26,Tokenism,21,VOCAB
+27,Erasure,18,VOCAB
+28,Representation,10|27,VOCAB
+29,Inclusion,28,VOCAB
+30,Equity Vs Equality,21|29,VOCAB
+31,Race,,IDENT
+32,Ethnicity,,IDENT
+33,Nationality,,IDENT
+34,Gender,,IDENT
+35,Sexuality,,IDENT
+36,Intersectionality,31|32|34|35,IDENT
+37,Social Construction,31|3,IDENT
+38,Racial Hierarchy,37|21,IDENT
+39,Colorism,38,IDENT
+40,Beauty Standard,39,IDENT
+41,Identity Formation,36,IDENT
+42,Sense Of Place,32|33,IDENT
+43,Multiple Identities,36|42,IDENT
+44,Classism,21,IDENT
+45,Ableism,21,IDENT
+46,Cultural Identity,32|12,IDENT
+47,Manifest Destiny,9|8,MANDEST
+48,Westward Expansion,47,MANDEST
+49,Indigenous Displacement,48,MANDEST
+50,Trail Of Tears,49,MANDEST
+51,Homestead Act,48,MANDEST
+52,Frontier Myth,9|47,MANDEST
+53,American Exceptionalism,52,MANDEST
+54,Land Dispossession,49|51,MANDEST
+55,Settler Colonialism,48|53,MANDEST
+56,Erased Indigenous Voices,50|10,MANDEST
+57,Systemic Racism,19|37,GOV
+58,Systemic Sexism,19|34,GOV
+59,Gerrymandering,21|57,GOV
+60,Redistricting,59,GOV
+61,Voter Intimidation,57|58,GOV
+62,Voter Suppression,59|61,GOV
+63,Poll Tax,62,GOV
+64,Literacy Test,62,GOV
+65,Voting Rights Act,63|64,GOV
+66,Civic Participation,65,GOV
+67,Political Persuasion,25,GOV
+68,Ideology In Media,67,GOV
+69,Emotional Appeal,67,GOV
+70,Government Trust,57|58,GOV
+71,Tribal Sovereignty,33|70,GOV
+72,Nation-To-Nation Relations,71,GOV
+73,Political Boundary,33|55,GOV
+74,Supranationalism,73,GOV
+75,Economic Exclusion,19|21,ECON
+76,Embargo,73|75,ECON
+77,Trade Restriction,76,ECON
+78,Redlining,57|75,ECON
+79,Housing Discrimination,78,ECON
+80,Wealth Gap,79,ECON
+81,College Admissions Bias,44|75,ECON
+82,Legacy Admissions,81,ECON
+83,Economic Mobility,80,ECON
+84,Racial Capitalism,57|75,ECON
+85,Labor Exploitation,84,ECON
+86,Reparations,80|84,ECON
+87,Community Disinvestment,79|80,ECON
+88,Gentrification,87,ECON
+89,Access To Credit,79|80,ECON
+90,Criminality,21|37,JUST
+91,Social Construction Of Crime,90|3,JUST
+92,Codes And Laws,91,JUST
+93,Selective Enforcement,92|57,JUST
+94,Sentencing Disparity,93,JUST
+95,Mass Incarceration,94,JUST
+96,Prejudice Statistics,23|94,JUST
+97,Racial Profiling,93|38,JUST
+98,School-To-Prison Pipeline,95|44,JUST
+99,Restorative Justice,95,JUST
+100,Due Process,92,JUST
+101,Implicit Bias,22|97,JUST
+102,Fugitivity,90|55,JUST
+103,Criminal Label Impact,90|11,JUST
+104,Policing History,93|55,JUST
+105,Juvenile Justice,98,JUST
+106,Media Representation,28,MEDIA
+107,Colorism In Media,39|106,MEDIA
+108,Beauty Standard Bias,40|106,MEDIA
+109,Headline Bias,25|106,MEDIA
+110,Framing Effect,109,MEDIA
+111,Media Literacy,14|106,MEDIA
+112,Stereotype In Media,22|106,MEDIA
+113,Tokenized Casting,26|106,MEDIA
+114,Whitewashing,113,MEDIA
+115,Digital Media Bias,110,MEDIA
+116,Algorithmic Bias,115,MEDIA
+117,Source Validity,6|111,MEDIA
+118,Propaganda,69|110,MEDIA
+119,Counter-Storytelling,10|106,MEDIA
+120,Indigenous Sovereignty,71|49,INDIG
+121,Treaty Rights,120,INDIG
+122,Minnesota Tribal Nations,121,INDIG
+123,Boarding School Era,122,INDIG
+124,Cultural Suppression,123,INDIG
+125,Land Acknowledgment,122|54,INDIG
+126,Federal Recognition,121,INDIG
+127,Self-Determination,120|126,INDIG
+128,Indigenous Iconography,112|120,INDIG
+129,Contemporary Indigenous Voice,128|10,INDIG
+130,Repatriation,126|124,INDIG
+131,Blood Quantum,126,INDIG
+132,Indigenous Resistance,124|127,INDIG
+133,Sovereignty Erosion,120|74,INDIG
+134,Forced Migration,55|73,MIGR
+135,Displacement,134|49,MIGR
+136,Diaspora,135,MIGR
+137,Colonialism,55|73,MIGR
+138,Imperialism,137,MIGR
+139,Cultural Diffusion,46|137,MIGR
+140,Diffusion Model,139,MIGR
+141,Immigration Policy,134|70,MIGR
+142,U.S. Foreign Policy,138|141,MIGR
+143,Nationalism,33|138,MIGR
+144,Independent Statehood,138|143,MIGR
+145,Border Formation,73|144,MIGR
+146,Refugee Experience,134|136,MIGR
+147,Global Migration Pattern,136|140,MIGR
+148,Anti-Blackness,38|84,MIGR
+149,Civil Rights Movement,24|66,CIVIL
+150,Suffrage Movement,58|66,CIVIL
+151,Labor Rights Movement,85|66,CIVIL
+152,LGBTQ Rights Movement,35|149,CIVIL
+153,Disability Rights Movement,45|149,CIVIL
+154,Liberation Struggle,149|132,CIVIL
+155,Freedom Movement,154|146,CIVIL
+156,Nonviolent Resistance,149,CIVIL
+157,Civil Disobedience,156,CIVIL
+158,Legislative Change,65|149,CIVIL
+159,Social Movement Strategy,156|157,CIVIL
+160,Grassroots Organizing,159,CIVIL
+161,Intergenerational Trauma,50|124,CIVIL
+162,Legacy Of Slavery,55|84,CIVIL
+163,Reconstruction Era,162|158,CIVIL
+164,Jim Crow Era,163|62,CIVIL
+165,Desegregation,164|149,CIVIL
+166,Contemporary Activism,160|129,CIVIL
+167,Shamanism,139,RELIG
+168,Animism,167,RELIG
+169,Hinduism,139,RELIG
+170,Buddhism,169,RELIG
+171,Judaism,139,RELIG
+172,Christianity,171,RELIG
+173,Islam,171,RELIG
+174,African Diasporic Religion,136|139,RELIG
+175,Religious Persecution,24|167,RELIG
+176,Religious Pluralism,172|173,RELIG
+177,Language And Power,21|32,LANG
+178,Linguistic Suppression,124|177,LANG
+179,Code-Switching,177,LANG
+180,Language Revitalization,178|127,LANG
+181,Dialect Bias,177|25,LANG
+182,Naming And Identity,41|177,LANG
+183,Oral Tradition,124|177,LANG
+184,Translation Bias,177|7,LANG
+185,Research Question,13|14,RESEARCH
+186,Archival Research,4|185,RESEARCH
+187,Oral History Method,183|185,RESEARCH
+188,Interview Technique,187,RESEARCH
+189,Source Triangulation,17|186,RESEARCH
+190,Ethics Of Representation,16|28,RESEARCH
+191,Narrative Reconstruction,189|190,RESEARCH
+192,Historical Documentary,191,RESEARCH
+193,Exhibit Design,191,RESEARCH
+194,Public History,192|193,RESEARCH
+195,Policy Proposal,96|191,RESEARCH
+196,Community Action,160|195,RESEARCH
+197,Capstone Project,191|195,RESEARCH
+198,Peer Review,197,RESEARCH
+199,Citation Practice,186|198,RESEARCH
+200,Presenting Findings,194|199,RESEARCH

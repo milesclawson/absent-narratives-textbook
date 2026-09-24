@@ -38,20 +38,48 @@ nav:
 
   - Chapters:
       - List of Chapters: chapters/index.md
-      - 1. Foundations of Historical Inquiry: chapters/01-foundations-of-historical-inquiry/index.md
-      - 2. The Vocabulary of Power and Exclusion: chapters/02-vocabulary-of-power-and-exclusion/index.md
-      - 3. Identity, Race, and Social Construction: chapters/03-identity-race-and-social-construction/index.md
-      - "4. Case Study: Manifest Destiny": chapters/04-case-study-manifest-destiny/index.md
-      - 5. Government Representation and Systemic Bias: chapters/05-government-representation-and-systemic-bias/index.md
-      - 6. Economic Exclusion: chapters/06-economic-exclusion/index.md
-      - 7. The Justice System and the Construction of Criminality: chapters/07-justice-system-and-criminality/index.md
-      - 8. Representation in the Media: chapters/08-representation-in-the-media/index.md
-      - 9. Indigenous Sovereignty and Tribal Relations: chapters/09-indigenous-sovereignty-and-tribal-relations/index.md
-      - 10. Migration, Colonialism, and Global Perspectives: chapters/10-migration-colonialism-and-global-perspectives/index.md
-      - 11. Civil Rights and Liberation Movements: chapters/11-civil-rights-and-liberation-movements/index.md
-      - 12. Religion and Cultural Diffusion: chapters/12-religion-and-cultural-diffusion/index.md
-      - 13. Language and Power: chapters/13-language-and-power/index.md
-      - 14. Research Methods and the Capstone Project: chapters/14-research-methods-and-capstone-project/index.md
+      - 1. Foundations of Historical Inquiry:
+          - Content: chapters/01-foundations-of-historical-inquiry/index.md
+          - Quiz: chapters/01-foundations-of-historical-inquiry/quiz.md
+      - 2. The Vocabulary of Power and Exclusion:
+          - Content: chapters/02-vocabulary-of-power-and-exclusion/index.md
+          - Quiz: chapters/02-vocabulary-of-power-and-exclusion/quiz.md
+      - 3. Identity, Race, and Social Construction:
+          - Content: chapters/03-identity-race-and-social-construction/index.md
+          - Quiz: chapters/03-identity-race-and-social-construction/quiz.md
+      - "4. Case Study: Manifest Destiny":
+          - Content: chapters/04-case-study-manifest-destiny/index.md
+          - Quiz: chapters/04-case-study-manifest-destiny/quiz.md
+      - 5. Government Representation and Systemic Bias:
+          - Content: chapters/05-government-representation-and-systemic-bias/index.md
+          - Quiz: chapters/05-government-representation-and-systemic-bias/quiz.md
+      - 6. Economic Exclusion:
+          - Content: chapters/06-economic-exclusion/index.md
+          - Quiz: chapters/06-economic-exclusion/quiz.md
+      - 7. The Justice System and the Construction of Criminality:
+          - Content: chapters/07-justice-system-and-criminality/index.md
+          - Quiz: chapters/07-justice-system-and-criminality/quiz.md
+      - 8. Representation in the Media:
+          - Content: chapters/08-representation-in-the-media/index.md
+          - Quiz: chapters/08-representation-in-the-media/quiz.md
+      - 9. Indigenous Sovereignty and Tribal Relations:
+          - Content: chapters/09-indigenous-sovereignty-and-tribal-relations/index.md
+          - Quiz: chapters/09-indigenous-sovereignty-and-tribal-relations/quiz.md
+      - 10. Migration, Colonialism, and Global Perspectives:
+          - Content: chapters/10-migration-colonialism-and-global-perspectives/index.md
+          - Quiz: chapters/10-migration-colonialism-and-global-perspectives/quiz.md
+      - 11. Civil Rights and Liberation Movements:
+          - Content: chapters/11-civil-rights-and-liberation-movements/index.md
+          - Quiz: chapters/11-civil-rights-and-liberation-movements/quiz.md
+      - 12. Religion and Cultural Diffusion:
+          - Content: chapters/12-religion-and-cultural-diffusion/index.md
+          - Quiz: chapters/12-religion-and-cultural-diffusion/quiz.md
+      - 13. Language and Power:
+          - Content: chapters/13-language-and-power/index.md
+          - Quiz: chapters/13-language-and-power/quiz.md
+      - 14. Research Methods and the Capstone Project:
+          - Content: chapters/14-research-methods-and-capstone-project/index.md
+          - Quiz: chapters/14-research-methods-and-capstone-project/quiz.md
 
   - Learning Graph:
       - Introduction: learning-graph/index.md
@@ -63,6 +91,7 @@ nav:
       - Glossary Quality Report: learning-graph/glossary-quality-report.md
       - FAQ Quality Report: learning-graph/faq-quality-report.md
       - FAQ Coverage Gaps: learning-graph/faq-coverage-gaps.md
+      - Quiz Generation Report: learning-graph/quiz-generation-report.md
 
   - MicroSims:
       - List of MicroSims: sims/index.md

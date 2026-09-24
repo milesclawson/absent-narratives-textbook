@@ -1,0 +1,175 @@
+{
+  "chapter": "Economic Exclusion",
+  "chapter_file": "docs/chapters/06-economic-exclusion/index.md",
+  "quiz_file": "docs/chapters/06-economic-exclusion/quiz.md",
+  "generated_date": "2026-09-24",
+  "total_questions": 10,
+  "answer_distribution": {
+    "A": 2,
+    "B": 3,
+    "C": 3,
+    "D": 2
+  },
+  "questions": [
+    {
+      "id": "06-economic-exclusion-q001",
+      "chapter": "Economic Exclusion",
+      "chapter_file": "docs/chapters/06-economic-exclusion/index.md",
+      "question_text": "How does this chapter define redlining?",
+      "options": {
+        "A": "A government-imposed ban on trade with a specific country",
+        "B": "The practice of giving preferential college admission to applicants whose relatives attended the same institution",
+        "C": "A discriminatory practice, formalized by federal housing agencies beginning in the 1930s, of denying mortgages or insurance based on a neighborhood's racial or ethnic composition, regardless of an individual applicant's creditworthiness",
+        "D": "The unfair treatment of individuals seeking to rent housing based on gender"
+      },
+      "correct_answer": "C",
+      "explanation": "Redlining was a discriminatory federal housing practice, formalized in the 1930s, that denied mortgages or insurance to entire neighborhoods based on racial or ethnic composition rather than individual creditworthiness, and the chapter calls it the clearest documented example of systemic racism translated directly into government maps. Option A describes an embargo. Option B describes legacy admissions. Option D describes housing discrimination more broadly, the wider category redlining exemplifies.",
+      "concept": "Redlining\n\n---",
+      "quiz_file": "docs/chapters/06-economic-exclusion/quiz.md"
+    },
+    {
+      "id": "06-economic-exclusion-q002",
+      "chapter": "Economic Exclusion",
+      "chapter_file": "docs/chapters/06-economic-exclusion/index.md",
+      "question_text": "What is legacy admissions, as defined in this chapter?",
+      "options": {
+        "A": "A policy that bans trade with a specific country as a form of sanction",
+        "B": "The practice of giving preferential admissions consideration to applicants whose relatives attended the same institution",
+        "C": "A federal law that outlawed discriminatory mortgage lending in 1968",
+        "D": "The systematic withdrawal of investment from a historically redlined neighborhood"
+      },
+      "correct_answer": "B",
+      "explanation": "Legacy admissions gives preferential consideration to applicants whose relatives attended the same institution, and the chapter explains this disproportionately benefits historically advantaged groups because they had greater historical access to elite institutions in the first place. Option A describes an embargo. Option C describes the Fair Housing Act, a different policy. Option D describes community disinvestment, an unrelated mechanism.",
+      "concept": "Legacy Admissions\n\n---",
+      "quiz_file": "docs/chapters/06-economic-exclusion/quiz.md"
+    },
+    {
+      "id": "06-economic-exclusion-q003",
+      "chapter": "Economic Exclusion",
+      "chapter_file": "docs/chapters/06-economic-exclusion/index.md",
+      "question_text": "Why does the chapter say the wealth gap is significantly larger than the income gap between the same demographic groups?",
+      "options": {
+        "A": "Because wealth and income are defined as the exact same measurement",
+        "B": "Because income is always higher than wealth for every family regardless of history",
+        "C": "Because the wealth gap only measures differences in annual salary",
+        "D": "Because wealth compounds across generations while income resets each year, so two families with identical current incomes can have dramatically different wealth depending on past access to homeownership"
+      },
+      "correct_answer": "D",
+      "explanation": "The chapter distinguishes wealth, which compounds across generations through assets like home equity, from income, which resets each year \u2014 meaning two families with identical current incomes can hold very different wealth depending on whether earlier generations could buy a home. Option A collapses a distinction the chapter draws carefully. Option B makes an unsupported blanket claim. Option C misdefines wealth gap as an income measurement.",
+      "concept": "Wealth Gap\n\n---",
+      "quiz_file": "docs/chapters/06-economic-exclusion/quiz.md"
+    },
+    {
+      "id": "06-economic-exclusion-q004",
+      "chapter": "Economic Exclusion",
+      "chapter_file": "docs/chapters/06-economic-exclusion/index.md",
+      "question_text": "What does the chapter mean by describing racial capitalism as \"a framework, not a simple claim of intent\"?",
+      "options": {
+        "A": "It means racial capitalism argues that economic exclusion and profit have been structurally linked throughout American economic history, rather than claiming individual capitalists intended racial harm",
+        "B": "It means racial capitalism has been legally proven in every U.S. court",
+        "C": "It means racial capitalism only applies to trade restrictions between nations",
+        "D": "It means racial capitalism denies that slavery or redlining had any economic effect"
+      },
+      "correct_answer": "A",
+      "explanation": "Racial capitalism analyzes how capitalism as a system has structurally extracted extra value from racialized and marginalized groups through mechanisms like slavery and redlining, treating this as a structural pattern rather than a claim about any individual's intent. Option B overstates the framework as a legal finding. Option C wrongly narrows its scope to international trade. Option D contradicts the framework's central claim about the economic effects of exclusion.",
+      "concept": "Racial Capitalism\n\n---",
+      "quiz_file": "docs/chapters/06-economic-exclusion/quiz.md"
+    },
+    {
+      "id": "06-economic-exclusion-q005",
+      "chapter": "Economic Exclusion",
+      "chapter_file": "docs/chapters/06-economic-exclusion/index.md",
+      "question_text": "What \"genuine analytical puzzle\" does the chapter identify in gentrification?",
+      "options": {
+        "A": "Gentrification never actually involves any change in property values",
+        "B": "Gentrification only occurs in neighborhoods that were never subject to redlining",
+        "C": "The same underlying force \u2014 capital flowing into a historically disinvested neighborhood \u2014 can accurately look like investment from one vantage point and displacement from another, for different residents of the same block",
+        "D": "Gentrification and community disinvestment describe identical, interchangeable processes"
+      },
+      "correct_answer": "C",
+      "explanation": "The chapter frames gentrification as a genuine puzzle because the same capital inflow into a historically disinvested neighborhood can be accurately described as investment by some observers and as displacement by long-term, lower-income residents who can no longer afford to stay \u2014 both descriptions can be true at once. Option A denies gentrification's defining feature. Option B contradicts the chapter's account of gentrification following disinvestment. Option D collapses two distinct, sequential concepts into one.",
+      "concept": "Gentrification\n\n---",
+      "quiz_file": "docs/chapters/06-economic-exclusion/quiz.md"
+    },
+    {
+      "id": "06-economic-exclusion-q006",
+      "chapter": "Economic Exclusion",
+      "chapter_file": "docs/chapters/06-economic-exclusion/index.md",
+      "question_text": "A government bans all trade and economic activity with a specific country as a political sanction. Which concept does this scenario apply?",
+      "options": {
+        "A": "Redlining, because it involves denying access to a resource",
+        "B": "Gentrification, because it involves economic change in a defined area",
+        "C": "Legacy admissions, because it involves preferential treatment",
+        "D": "An embargo, a government-imposed ban on trade or economic activity with a specific country, typically used as a political or economic sanction"
+      },
+      "correct_answer": "D",
+      "explanation": "This scenario is a direct application of the chapter's definition of an embargo: a government-imposed ban on trade or economic activity with a specific country, used as a political or economic sanction, and one specific type of the broader category of trade restriction. Option A misapplies a concept about domestic housing policy. Option B misapplies a concept about neighborhood-level investment. Option C misapplies a concept about educational admissions.",
+      "concept": "Embargo\n\n---",
+      "quiz_file": "docs/chapters/06-economic-exclusion/quiz.md"
+    },
+    {
+      "id": "06-economic-exclusion-q007",
+      "chapter": "Economic Exclusion",
+      "chapter_file": "docs/chapters/06-economic-exclusion/index.md",
+      "question_text": "A university admits an applicant partly because the applicant's parent and grandparent both attended the school, without ever mentioning the applicant's race in its criteria. Applying the chapter's analysis, why can this still produce a racially disparate outcome?",
+      "options": {
+        "A": "Because the policy is race-neutral in its stated criterion but uses a past era's unequal access to elite institutions as its current baseline, similar to the poll tax and literacy test",
+        "B": "Because the university's admissions office has stated an explicitly racist intent",
+        "C": "Because legacy admissions is illegal in every U.S. state",
+        "D": "Because the applicant's own personal achievements are entirely irrelevant to the decision"
+      },
+      "correct_answer": "A",
+      "explanation": "The chapter draws a direct parallel between legacy admissions and Chapter 5's poll tax and literacy test: all three are race-neutral in their stated criteria yet produce racially disparate outcomes because they use a baseline shaped by a past era's unequal access. Option B invents an explicit intent the scenario does not describe. Option C is factually incorrect. Option D overstates the scenario, which describes one factor among several.",
+      "concept": "Legacy Admissions\n\n---",
+      "quiz_file": "docs/chapters/06-economic-exclusion/quiz.md"
+    },
+    {
+      "id": "06-economic-exclusion-q008",
+      "chapter": "Economic Exclusion",
+      "chapter_file": "docs/chapters/06-economic-exclusion/index.md",
+      "question_text": "Using the documented chain this chapter builds \u2014 from redlining to reduced credit access to community disinvestment to the present-day wealth gap \u2014 which statement reflects a defensible way to evaluate a reparations proposal?",
+      "options": {
+        "A": "Reparations proposals cannot be evaluated because the chapter provides no documented mechanisms connecting historical policy to present outcomes",
+        "B": "Reparations proposals should be evaluated against the specific documented mechanisms, such as redlining and community disinvestment, that produced the wealth gap, rather than debated only in the abstract",
+        "C": "Reparations proposals are only about individual behavior and have no connection to historical policy",
+        "D": "Reparations proposals should be evaluated solely by comparing this year's income between groups"
+      },
+      "correct_answer": "B",
+      "explanation": "The chapter's stated goal is to equip readers to evaluate reparations proposals using the specific documented chain \u2014 redlining, reduced credit access, community disinvestment, wealth gap \u2014 rather than debating the concept only in the abstract. Option A contradicts the extensive documented chain the chapter provides. Option C ignores the chapter's structural framing. Option D wrongly substitutes income, which the chapter distinguishes from wealth, as the sole measure.",
+      "concept": "Reparations\n\n---",
+      "quiz_file": "docs/chapters/06-economic-exclusion/quiz.md"
+    },
+    {
+      "id": "06-economic-exclusion-q009",
+      "chapter": "Economic Exclusion",
+      "chapter_file": "docs/chapters/06-economic-exclusion/index.md",
+      "question_text": "Why does the chapter compare legacy admissions directly to the poll tax and literacy test from Chapter 5?",
+      "options": {
+        "A": "Because all three tools were declared unconstitutional in the same court case",
+        "B": "Because all three tools apply only to voting rather than to education or housing",
+        "C": "Because all three tools are stated in race-neutral terms yet produce racially disparate outcomes by using a baseline built from a prior era's unequal access",
+        "D": "Because all three tools are entirely unrelated and the comparison is only coincidental"
+      },
+      "correct_answer": "C",
+      "explanation": "The chapter draws this comparison specifically because all three mechanisms are race-neutral in their stated criteria \u2014 family history, ability to pay, or a comprehension test \u2014 yet each produces racially disparate outcomes by relying on a baseline shaped by prior, unequal access. Option A invents a shared legal history the chapter does not claim. Option B is factually wrong, since legacy admissions concerns education, not voting. Option D denies the explicit structural parallel the chapter draws.",
+      "concept": "College Admissions Bias\n\n---",
+      "quiz_file": "docs/chapters/06-economic-exclusion/quiz.md"
+    },
+    {
+      "id": "06-economic-exclusion-q010",
+      "chapter": "Economic Exclusion",
+      "chapter_file": "docs/chapters/06-economic-exclusion/index.md",
+      "question_text": "Analyzing the chain this chapter describes, why does community disinvestment following redlining eventually make a neighborhood a candidate for gentrification?",
+      "options": {
+        "A": "Because community disinvestment has no measurable effect on property values over time",
+        "B": "Because decades of withheld investment can depress a neighborhood's property values to the point that they become attractive to new, outside capital, which then drives the property-value increases associated with gentrification",
+        "C": "Because gentrification and redlining occur simultaneously in the same year",
+        "D": "Because community disinvestment only affects school funding and has no connection to housing markets"
+      },
+      "correct_answer": "B",
+      "explanation": "The chapter traces a causal chain: redlining produces community disinvestment, which depresses property values over decades, which can eventually make that same low-cost neighborhood attractive to outside investment \u2014 the rising property values and new investment that define gentrification. Option A denies the very mechanism the chapter documents. Option C ignores the multi-decade gap the chapter describes between these events. Option D wrongly narrows disinvestment's scope, contradicting the chapter's list of infrastructure, business lending, and schools.",
+      "concept": "Community Disinvestment\n\n---",
+      "quiz_file": "docs/chapters/06-economic-exclusion/quiz.md"
+    }
+  ]
+}

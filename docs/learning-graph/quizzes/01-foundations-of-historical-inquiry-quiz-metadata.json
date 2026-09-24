@@ -1,0 +1,175 @@
+{
+  "chapter": "Foundations of Historical Inquiry",
+  "chapter_file": "docs/chapters/01-foundations-of-historical-inquiry/index.md",
+  "quiz_file": "docs/chapters/01-foundations-of-historical-inquiry/quiz.md",
+  "generated_date": "2026-09-24",
+  "total_questions": 10,
+  "answer_distribution": {
+    "A": 3,
+    "B": 2,
+    "C": 3,
+    "D": 2
+  },
+  "questions": [
+    {
+      "id": "01-foundations-of-historical-inquiry-q001",
+      "chapter": "Foundations of Historical Inquiry",
+      "chapter_file": "docs/chapters/01-foundations-of-historical-inquiry/index.md",
+      "question_text": "What does the concept of historical silence refer to?",
+      "options": {
+        "A": "A deliberate government cover-up of an embarrassing event",
+        "B": "The absence, in the historical record, of documentation for a person, group, or event because no one with the power to preserve a record chose to",
+        "C": "A historian's decision to stop researching a topic due to lack of interest",
+        "D": "The moment when a dominant narrative becomes officially accepted as fact"
+      },
+      "correct_answer": "B",
+      "explanation": "The chapter defines historical silence as the absence of documentation in the record \u2014 not because nothing happened, but because no one with the power to preserve a record chose to do so. Option A wrongly assumes intentional conspiracy, which the chapter explicitly says is not always the cause. Option C describes researcher disinterest, and option D confuses the term with how a dominant narrative spreads.",
+      "concept": "Historical Silence\n\n---",
+      "quiz_file": "docs/chapters/01-foundations-of-historical-inquiry/quiz.md"
+    },
+    {
+      "id": "01-foundations-of-historical-inquiry-q002",
+      "chapter": "Foundations of Historical Inquiry",
+      "chapter_file": "docs/chapters/01-foundations-of-historical-inquiry/index.md",
+      "question_text": "According to the chapter, what distinguishes a primary source from a secondary source?",
+      "options": {
+        "A": "A primary source is a firsthand account created by someone who witnessed or participated in the event, while a secondary source interprets, analyzes, or summarizes primary sources",
+        "B": "A primary source is always more accurate than a secondary source",
+        "C": "A primary source is written by professional historians, while a secondary source is written by eyewitnesses",
+        "D": "A primary source must be a government document, while a secondary source can be any other document type"
+      },
+      "correct_answer": "A",
+      "explanation": "A primary source is a firsthand account or original record created by a witness or participant, such as a diary or treaty, while a secondary source interprets or summarizes primary sources, such as a textbook chapter. Option B is wrong because the chapter states neither type is automatically more trustworthy. Option C reverses the actual roles of historians and eyewitnesses, and option D invents a restriction not found in the text.",
+      "concept": "Primary Source\n\n---",
+      "quiz_file": "docs/chapters/01-foundations-of-historical-inquiry/quiz.md"
+    },
+    {
+      "id": "01-foundations-of-historical-inquiry-q003",
+      "chapter": "Foundations of Historical Inquiry",
+      "chapter_file": "docs/chapters/01-foundations-of-historical-inquiry/index.md",
+      "question_text": "How does the chapter define marginalization?",
+      "options": {
+        "A": "The process by which historians choose which sources to corroborate",
+        "B": "A specific law that restricts voting rights for a particular group",
+        "C": "The process by which a group's experiences, perspectives, or needs are pushed to the edges of a society's attention, resources, or historical record",
+        "D": "The act of writing a counter-narrative to challenge a dominant narrative"
+      },
+      "correct_answer": "C",
+      "explanation": "The chapter defines marginalization as the process by which a group's experiences, perspectives, or needs are pushed to the edges of a society's attention, resources, or historical record, and identifies it as the throughline connecting every later unit in the course. Option A confuses marginalization with a research method, option B names one possible symptom rather than the definition, and option D describes a distinct concept, counter-narrative.",
+      "concept": "Marginalization\n\n---",
+      "quiz_file": "docs/chapters/01-foundations-of-historical-inquiry/quiz.md"
+    },
+    {
+      "id": "01-foundations-of-historical-inquiry-q004",
+      "chapter": "Foundations of Historical Inquiry",
+      "chapter_file": "docs/chapters/01-foundations-of-historical-inquiry/index.md",
+      "question_text": "What is historiography, as defined in this chapter?",
+      "options": {
+        "A": "The chronological listing of major historical events",
+        "B": "The practice of collecting primary sources into an archive",
+        "C": "A synonym for a nation's dominant narrative",
+        "D": "The study of how history itself is written \u2014 who recorded it, how they recorded it, and why"
+      },
+      "correct_answer": "D",
+      "explanation": "Historiography is the study of how history is written, treating \"history\" as something made through choices about what counts as important and whose voice counts as reliable, rather than something that simply exists. Option A describes a timeline, not historiography. Option B describes archiving, a related but separate task. Option C incorrectly equates the discipline with one of its possible outputs.",
+      "concept": "Historiography\n\n---",
+      "quiz_file": "docs/chapters/01-foundations-of-historical-inquiry/quiz.md"
+    },
+    {
+      "id": "01-foundations-of-historical-inquiry-q005",
+      "chapter": "Foundations of Historical Inquiry",
+      "chapter_file": "docs/chapters/01-foundations-of-historical-inquiry/index.md",
+      "question_text": "Which statement best describes the relationship between a dominant narrative and a counter-narrative?",
+      "options": {
+        "A": "A counter-narrative is always factually false, while a dominant narrative is always accurate",
+        "B": "A counter-narrative complicates a dominant narrative by centering perspectives the dominant version minimized or omitted, but it is not automatically more true",
+        "C": "A dominant narrative and a counter-narrative describe entirely unrelated historical events",
+        "D": "A counter-narrative eliminates the need for source corroboration because it already reflects the excluded perspective"
+      },
+      "correct_answer": "B",
+      "explanation": "A counter-narrative challenges or complicates a dominant narrative by centering perspectives the dominant version minimized or omitted, but the chapter is explicit that counter-narratives are not automatically more true \u2014 they remain subject to the same source-bias and corroboration questions as any other account. Option A misstates both narratives as absolute, option C is false since both describe the same event, and option D contradicts the chapter's corroboration principle.",
+      "concept": "Counter-Narrative\n\n---",
+      "quiz_file": "docs/chapters/01-foundations-of-historical-inquiry/quiz.md"
+    },
+    {
+      "id": "01-foundations-of-historical-inquiry-q006",
+      "chapter": "Foundations of Historical Inquiry",
+      "chapter_file": "docs/chapters/01-foundations-of-historical-inquiry/index.md",
+      "question_text": "Why does the chapter caution that source bias does not always mean a source is lying?",
+      "options": {
+        "A": "A source can be entirely factual about what it includes while still omitting context that changes how the facts should be understood",
+        "B": "Bias only occurs in secondary sources, never in primary sources",
+        "C": "Historians have proven that all primary sources are completely free of bias",
+        "D": "Bias is present only when an author intentionally sets out to deceive the reader"
+      },
+      "correct_answer": "A",
+      "explanation": "The chapter's example of a government treaty report shows that a source can be factually accurate about its stated terms while omitting how those terms were obtained, meaning the bias lies in what got included versus left as background. Option B and C both incorrectly claim bias is confined to one source type or absent altogether, and option D wrongly limits bias to deliberate deception.",
+      "concept": "Source Bias\n\n---",
+      "quiz_file": "docs/chapters/01-foundations-of-historical-inquiry/quiz.md"
+    },
+    {
+      "id": "01-foundations-of-historical-inquiry-q007",
+      "chapter": "Foundations of Historical Inquiry",
+      "chapter_file": "docs/chapters/01-foundations-of-historical-inquiry/index.md",
+      "question_text": "What role does source corroboration play in historical research?",
+      "options": {
+        "A": "It replaces the need to consider author perspective",
+        "B": "It guarantees that a primary source is more reliable than a secondary source",
+        "C": "It builds confidence in a claim by checking whether multiple independent sources, created by people with different perspectives, agree on the same basic facts",
+        "D": "It determines whether a document counts as a primary or secondary source"
+      },
+      "correct_answer": "C",
+      "explanation": "Source corroboration is the practice of checking whether multiple independent sources agree on the same basic facts, which builds historians' confidence in a claim; when only one perspective survives, conclusions are treated as provisional. Option A confuses corroboration with a separate analytical step, option B misstates the chapter's point that neither source type is automatically more trustworthy, and option D describes an unrelated classification task.",
+      "concept": "Source Corroboration\n\n---",
+      "quiz_file": "docs/chapters/01-foundations-of-historical-inquiry/quiz.md"
+    },
+    {
+      "id": "01-foundations-of-historical-inquiry-q008",
+      "chapter": "Foundations of Historical Inquiry",
+      "chapter_file": "docs/chapters/01-foundations-of-historical-inquiry/index.md",
+      "question_text": "How does self-inquiry differ from critical thinking, as the chapter presents the two practices?",
+      "options": {
+        "A": "Self-inquiry applies only to primary sources, while critical thinking applies only to secondary sources",
+        "B": "Self-inquiry is a formal historiographical method, while critical thinking is an informal habit",
+        "C": "They are the same practice described using two different names",
+        "D": "Critical thinking questions a source's content, while self-inquiry examines the reader's own assumptions and starting beliefs before approaching that source"
+      },
+      "correct_answer": "D",
+      "explanation": "Critical thinking is the habit of questioning what a source presents, while self-inquiry is described as the harder, prior step of examining your own assumptions, blind spots, and starting beliefs before you even open the source. Option A invents a source-type restriction that does not exist in the text, option B misrepresents self-inquiry as a formal method, and option C ignores the chapter's explicit distinction between the two.",
+      "concept": "Self-Inquiry\n\n---",
+      "quiz_file": "docs/chapters/01-foundations-of-historical-inquiry/quiz.md"
+    },
+    {
+      "id": "01-foundations-of-historical-inquiry-q009",
+      "chapter": "Foundations of Historical Inquiry",
+      "chapter_file": "docs/chapters/01-foundations-of-historical-inquiry/index.md",
+      "question_text": "A local archive holds only one surviving account of a 19th-century mill closure, written by the mill's owner. Applying the practices this chapter describes, what should a careful historian do first?",
+      "options": {
+        "A": "Accept the account as accurate since no other records exist to contradict it",
+        "B": "Discard the account entirely because it was written by someone in a position of power",
+        "C": "Treat the account as one limited perspective and actively search for corroborating sources, such as worker testimonies or newspaper coverage, before treating its claims as established",
+        "D": "Rewrite the account from the workers' perspective to balance the historical record"
+      },
+      "correct_answer": "C",
+      "explanation": "This mirrors the chapter's labor-strike example: a historian should treat a single-perspective account as partial, apply the critical-thinking questions to it, and actively search for corroborating sources like union records or oral histories before trusting its claims. Option A ignores the need for scrutiny, option B discards potentially factual information rather than questioning it, and option D fabricates evidence instead of researching it.",
+      "concept": "Critical Thinking\n\n---",
+      "quiz_file": "docs/chapters/01-foundations-of-historical-inquiry/quiz.md"
+    },
+    {
+      "id": "01-foundations-of-historical-inquiry-q010",
+      "chapter": "Foundations of Historical Inquiry",
+      "chapter_file": "docs/chapters/01-foundations-of-historical-inquiry/index.md",
+      "question_text": "Why does the chapter argue that historical silence is rarely random?",
+      "options": {
+        "A": "It falls disproportionately on groups who lacked the political, economic, or educational power to create and preserve their own records, connecting silence to marginalization",
+        "B": "It results from historians randomly choosing which sources to preserve in archives",
+        "C": "It occurs at roughly equal rates across every social group regardless of power or access to resources",
+        "D": "It is caused primarily by natural disasters destroying documents over time"
+      },
+      "correct_answer": "A",
+      "explanation": "The chapter directly links historical silence to marginalization: silence falls disproportionately on groups who lacked the political, economic, or educational power to create and preserve their own records, which is why recognizing marginalization helps explain gaps in the historical record. Option B introduces randomness the chapter denies, option C contradicts the disproportionate pattern described, and option D ignores the systemic, power-based cause the chapter identifies.",
+      "concept": "Historical Silence\n\n---",
+      "quiz_file": "docs/chapters/01-foundations-of-historical-inquiry/quiz.md"
+    }
+  ]
+}

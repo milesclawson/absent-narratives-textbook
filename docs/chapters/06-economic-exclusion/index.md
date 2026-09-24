@@ -165,3 +165,5 @@ Implementation: Mermaid flowchart with click handlers on nodes and edges, render
 - **Racial capitalism** names the claim that these mechanisms are structurally linked, not coincidental; **reparations** is one proposed response, evaluable using the specific chain this chapter documented.
 
 Chapter 7 turns to a third domain shaped by the same systemic pattern: how criminality itself is defined and enforced.
+
+[See Annotated References](./references.md)

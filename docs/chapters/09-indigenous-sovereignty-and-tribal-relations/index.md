@@ -163,3 +163,5 @@ Implementation: p5.js canvas with a fixed spectrum bar and draggable card object
 - **Indigenous resistance** has been continuous, not absent; **land acknowledgment** and **repatriation** are contemporary, debated tools for redress, while **Indigenous iconography** remains contested and **contemporary Indigenous voice** is the direct corrective to erasure.
 
 Chapter 10 widens the frame from Indigenous nations within the United States to global patterns of migration, colonialism, and displacement.
+
+[See Annotated References](./references.md)

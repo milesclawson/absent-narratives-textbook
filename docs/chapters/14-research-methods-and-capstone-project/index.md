@@ -188,3 +188,5 @@ This course began by asking why some stories get told and others don't. Thirteen
 - **Source triangulation** extends Chapter 1's corroboration across different source types; the **ethics of representation** governs how that evidence is gathered and used.
 - **Narrative reconstruction** assembles the evidence into an account; a **historical documentary**, **exhibit design** (following **public history** principles), **policy proposal**, or **community action** gives that account its final form — together, a **capstone project**.
 - **Peer review**, rigorous **citation practice**, and **presenting findings** complete the work, closing the loop this course opened with Chapter 1's historiography.
+
+[See Annotated References](./references.md)

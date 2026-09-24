@@ -116,3 +116,5 @@ Practicing the recovery of an erased narrative is this chapter's central skill, 
 - Recovering **erased Indigenous voices** requires actively seeking out tribal records and oral histories that standard accounts often did not consult — a skill this course will ask you to practice again and again.
 
 Chapter 5 turns from a single historical case study to a broader, ongoing pattern: how systemic bias shapes government representation itself.
+
+[See Annotated References](./references.md)

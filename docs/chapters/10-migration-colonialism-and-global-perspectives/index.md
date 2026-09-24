@@ -162,3 +162,5 @@ This chapter closes by connecting its global lens back to a concept from earlier
 - **Anti-Blackness** is a globally documented pattern connecting this chapter's international lens back to the racial hierarchy Chapter 3 introduced.
 
 Chapter 11 turns to the response side of this course's pattern: the civil rights and liberation movements that have organized against these systems.
+
+[See Annotated References](./references.md)

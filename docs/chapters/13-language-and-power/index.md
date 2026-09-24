@@ -142,3 +142,5 @@ Implementation: p5.js or HTML/CSS three-column layout with clickable spans pre-m
 - **Naming and identity** connects renaming practices to erasure; **oral tradition** is a historically undervalued primary source; **translation bias** shows author perspective operating even in good-faith translation.
 
 Chapter 14, the course's final chapter, equips you with the formal research methods needed to recover a hidden narrative of your own choosing — the capstone project this entire course has been building toward.
+
+[See Annotated References](./references.md)

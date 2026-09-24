@@ -153,3 +153,5 @@ Implementation: p5.js canvas with a fixed spectrum bar, draggable case-study car
 - **Religious persecution** recurs across traditions and eras whenever religious identity intersects with political power; **religious pluralism** is the documented, achievable alternative.
 
 Chapter 13 examines one more thread connecting every tradition and every chapter in this course: the relationship between language and power.
+
+[See Annotated References](./references.md)

@@ -216,3 +216,5 @@ Before you move on to the next chapter's vocabulary of power, test your grasp of
 - Studying hidden history well requires **cultural literacy**, **self-inquiry**, **critical thinking**, **perspective-taking**, and **empathy** — together, not separately.
 
 With this toolkit in hand, the next chapter builds the shared vocabulary — privilege, power structure, discrimination, representation — that every later unit in this course will use.
+
+[See Annotated References](./references.md)

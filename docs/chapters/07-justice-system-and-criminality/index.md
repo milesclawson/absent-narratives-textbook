@@ -178,3 +178,5 @@ Before you close this chapter, apply its central distinction to a scenario of yo
 - **Restorative justice** offers one documented alternative framework aimed at repairing harm rather than only punishing it.
 
 Chapter 8 turns from the justice system to media, examining how the same patterns of bias and stereotype shape who gets represented, and how.
+
+[See Annotated References](./references.md)

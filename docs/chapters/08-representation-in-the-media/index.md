@@ -172,3 +172,5 @@ Implementation: p5.js canvas with draggable card objects and defined drop-zone r
 - Checking **source validity** distinguishes ordinary bias from deliberate **propaganda**; **counter-storytelling** is the constructive response this course asks you to practice.
 
 Chapter 9 deepens one thread introduced in Chapter 5 — tribal sovereignty — into its own full treatment of Indigenous history and contemporary voice.
+
+[See Annotated References](./references.md)

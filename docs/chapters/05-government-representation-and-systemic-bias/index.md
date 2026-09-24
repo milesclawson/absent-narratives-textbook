@@ -186,3 +186,5 @@ Implementation: vis-network with a hierarchical layout option disabled for the T
 - **Tribal sovereignty** and **nation-to-nation relations** are a fourth layer of government representation, independent of state authority, built on shifting **political boundaries** — a pattern of negotiated, not fixed, authority that **supranationalism** shows operating at the international scale too.
 
 Chapter 6 follows the same systemic pattern into a different domain: how economic policy has excluded specific groups from wealth and opportunity.
+
+[See Annotated References](./references.md)

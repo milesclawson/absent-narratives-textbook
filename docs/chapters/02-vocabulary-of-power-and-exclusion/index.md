@@ -213,3 +213,5 @@ Implementation: p5.js canvas with three rectangle "platforms" of fixed differing
 - **Equity** and **equality** are both legitimate goals, but they are not the same goal, and choosing between them depends on what a policy is trying to achieve.
 
 Chapter 3 puts this vocabulary to work on the categories of identity — race, ethnicity, nationality, gender, and sexuality — that the rest of the course analyzes through this lens.
+
+[See Annotated References](./references.md)

@@ -163,3 +163,5 @@ Implementation: p5.js canvas with toggle-switch UI elements and a small local da
 - **Cultural identity** connects a person's sense of belonging to shared traditions, which may not map neatly onto race or nationality alone.
 
 Chapter 4 applies all of this — social construction, dominant narrative, marginalization — to a single historical case study: Manifest Destiny.
+
+[See Annotated References](./references.md)

@@ -187,3 +187,5 @@ Before moving to the next chapter, connect this chapter's arc to your own observ
 - **Intergenerational trauma** explains why legislative victory does not erase historical harm instantly; **contemporary activism** is this history's living continuation, not a separate story.
 
 Chapter 12 shifts from political organizing to a different domain shaped by the same forces of diffusion and suppression: religion.
+
+[See Annotated References](./references.md)

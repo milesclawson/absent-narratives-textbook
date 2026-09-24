@@ -41,45 +41,59 @@ nav:
       - 1. Foundations of Historical Inquiry:
           - Content: chapters/01-foundations-of-historical-inquiry/index.md
           - Quiz: chapters/01-foundations-of-historical-inquiry/quiz.md
+          - Annotated References: chapters/01-foundations-of-historical-inquiry/references.md
       - 2. The Vocabulary of Power and Exclusion:
           - Content: chapters/02-vocabulary-of-power-and-exclusion/index.md
           - Quiz: chapters/02-vocabulary-of-power-and-exclusion/quiz.md
+          - Annotated References: chapters/02-vocabulary-of-power-and-exclusion/references.md
       - 3. Identity, Race, and Social Construction:
           - Content: chapters/03-identity-race-and-social-construction/index.md
           - Quiz: chapters/03-identity-race-and-social-construction/quiz.md
+          - Annotated References: chapters/03-identity-race-and-social-construction/references.md
       - "4. Case Study: Manifest Destiny":
           - Content: chapters/04-case-study-manifest-destiny/index.md
           - Quiz: chapters/04-case-study-manifest-destiny/quiz.md
+          - Annotated References: chapters/04-case-study-manifest-destiny/references.md
       - 5. Government Representation and Systemic Bias:
           - Content: chapters/05-government-representation-and-systemic-bias/index.md
           - Quiz: chapters/05-government-representation-and-systemic-bias/quiz.md
+          - Annotated References: chapters/05-government-representation-and-systemic-bias/references.md
       - 6. Economic Exclusion:
           - Content: chapters/06-economic-exclusion/index.md
           - Quiz: chapters/06-economic-exclusion/quiz.md
+          - Annotated References: chapters/06-economic-exclusion/references.md
       - 7. The Justice System and the Construction of Criminality:
           - Content: chapters/07-justice-system-and-criminality/index.md
           - Quiz: chapters/07-justice-system-and-criminality/quiz.md
+          - Annotated References: chapters/07-justice-system-and-criminality/references.md
       - 8. Representation in the Media:
           - Content: chapters/08-representation-in-the-media/index.md
           - Quiz: chapters/08-representation-in-the-media/quiz.md
+          - Annotated References: chapters/08-representation-in-the-media/references.md
       - 9. Indigenous Sovereignty and Tribal Relations:
           - Content: chapters/09-indigenous-sovereignty-and-tribal-relations/index.md
           - Quiz: chapters/09-indigenous-sovereignty-and-tribal-relations/quiz.md
+          - Annotated References: chapters/09-indigenous-sovereignty-and-tribal-relations/references.md
       - 10. Migration, Colonialism, and Global Perspectives:
           - Content: chapters/10-migration-colonialism-and-global-perspectives/index.md
           - Quiz: chapters/10-migration-colonialism-and-global-perspectives/quiz.md
+          - Annotated References: chapters/10-migration-colonialism-and-global-perspectives/references.md
       - 11. Civil Rights and Liberation Movements:
           - Content: chapters/11-civil-rights-and-liberation-movements/index.md
           - Quiz: chapters/11-civil-rights-and-liberation-movements/quiz.md
+          - Annotated References: chapters/11-civil-rights-and-liberation-movements/references.md
       - 12. Religion and Cultural Diffusion:
           - Content: chapters/12-religion-and-cultural-diffusion/index.md
           - Quiz: chapters/12-religion-and-cultural-diffusion/quiz.md
+          - Annotated References: chapters/12-religion-and-cultural-diffusion/references.md
       - 13. Language and Power:
           - Content: chapters/13-language-and-power/index.md
           - Quiz: chapters/13-language-and-power/quiz.md
+          - Annotated References: chapters/13-language-and-power/references.md
       - 14. Research Methods and the Capstone Project:
           - Content: chapters/14-research-methods-and-capstone-project/index.md
           - Quiz: chapters/14-research-methods-and-capstone-project/quiz.md
+          - Annotated References: chapters/14-research-methods-and-capstone-project/references.md
 
   - Learning Graph:
       - Introduction: learning-graph/index.md

@@ -22,3 +22,5 @@
 | 4 | Case Study: Manifest Destiny | 1,828 | 10/10 ✓ | 1 interactive timeline, 1 retrieval question | Done |
 | 5 | Government Representation and Systemic Bias | 2,419 | 18/18 ✓ | 1 MicroSim, 1 table, 1 graph-model diagram | Done |
 | 6 | Economic Exclusion | 2,060 | 15/15 ✓ | 1 interactive map, 1 clickable workflow | Done |
+| 7 | The Justice System and the Construction of Criminality | 2,412 | 16/16 ✓ | 1 timeline, 1 table, 1 MicroSim, 1 retrieval question | Done |
+| 8 | Representation in the Media | 2,149 | 14/14 ✓ | 1 interactive infographic, 1 table, 1 MicroSim | Done |

@@ -108,8 +108,38 @@ nav:
       - Quiz Generation Report: learning-graph/quiz-generation-report.md
 
   - MicroSims:
-      - List of MicroSims: sims/index.md
-      - Learning Graph Viewer: sims/graph-viewer/index.md
+    - List of MicroSims: sims/index.md
+    - A Redlined Map, Then and Now: sims/redlined-map-then-and-now/index.md
+    - Capstone Format Selector: sims/capstone-format-selector/index.md
+    - Diffusion Model Comparator: sims/diffusion-model-comparator/index.md
+    - Dominant Narrative vs. Counter-Narrative Concept Map: sims/dominant-vs-counter-narrative-map/index.md
+    - Equity vs. Equality Resource Allocator: sims/equity-vs-equality-allocator/index.md
+    - Four Layers of Government Representation: sims/four-layers-of-government-representation/index.md
+    - From Slavery to Desegregation — A Traceable Chain: sims/slavery-to-desegregation-chain/index.md
+    - From Stereotype to Discrimination — A Clickable Causal Chain: sims/stereotype-to-discrimination-chain/index.md
+    - Global Migration Pattern Map: sims/global-migration-pattern-map/index.md
+    - Intersectionality Layer Explorer: sims/intersectionality-layer-explorer/index.md
+    - Land Acknowledgment vs. Material Action Evaluator: sims/land-acknowledgment-vs-material-action/index.md
+    - Learning Graph Viewer: sims/graph-viewer/index.md
+    - Media Literacy Checklist Sorter: sims/media-literacy-checklist-sorter/index.md
+    - Minnesota Tribal Nations Map: sims/minnesota-tribal-nations-map/index.md
+    - Packing and Cracking District Simulator: sims/packing-cracking-district-simulator/index.md
+    - Policing History Timeline: sims/policing-history-timeline/index.md
+    - Religious Persecution to Pluralism Spectrum: sims/religious-persecution-to-pluralism-spectrum/index.md
+    - Same Event, Two Frames: sims/same-event-two-frames/index.md
+    - Sentencing Outcome Comparator: sims/sentencing-outcome-comparator/index.md
+    - Shared Origins, Divergent Paths: sims/shared-origins-divergent-paths/index.md
+    - Spot the Translation Choice: sims/spot-the-translation-choice/index.md
+    - Strategy Toolkit — Choosing a Social Movement Tactic: sims/strategy-toolkit-social-movement-tactic/index.md
+    - Suppression and Revitalization as Mirror Processes: sims/suppression-and-revitalization-mirror/index.md
+    - The Compounding Chain of Economic Exclusion: sims/compounding-chain-of-economic-exclusion/index.md
+    - The Historian's Cross-Checking Process: sims/historians-cross-checking-process/index.md
+    - The Mechanism of Land Dispossession: sims/mechanism-of-land-dispossession/index.md
+    - The Power Structure Pyramid: sims/power-structure-pyramid/index.md
+    - Tracing a Social Construct: sims/tracing-a-social-construct/index.md
+    - Triangulating Three Source Types: sims/triangulating-three-source-types/index.md
+
+
 
   - FAQ: faq.md
   - Glossary: glossary.md

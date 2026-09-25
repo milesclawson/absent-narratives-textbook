@@ -1,0 +1,939 @@
+================================================================================
+historians-cross-checking-process | Mermaid | 01-foundations-of-historical-inquiry
+<details markdown="1">
+<summary>The Historian's Cross-Checking Process</summary>
+Type: workflow
+
+**sim-id:** historians-cross-checking-process<br/>
+**Library:** Mermaid<br/>
+**Status:** Specified
+
+Purpose: Show, step by step, how a historian moves from a single source to a corroborated historical claim, and how bias-checking fits into that process.
+
+Bloom Taxonomy: Apply (L3) — apply the historian's questioning process to a new source.
+Bloom Verb: demonstrate
+
+Learning objective: Students can trace the steps a historian takes between finding a source and trusting a claim, and can name where bias-checking and corroboration occur in that process.
+
+Visual style: Mermaid flowchart, top to bottom, with decision diamonds.
+
+Steps (each is a clickable node with an infobox definition):
+1. "Locate a Source" — click reveals: definition of primary/secondary source
+2. "Identify Creator and Perspective" — click reveals: definition of author perspective
+3. "Check for Source Bias" — click reveals: definition of source bias, with the five questions listed
+4. Decision: "Does Historical Context Change the Reading?" — click reveals: definition of historical context, with the 1920s-law example
+5. "Search for Corroborating Sources" — click reveals: definition of source corroboration
+6. Decision: "Do Independent Sources Agree?" — Yes branch leads to "Provisional Historical Claim"; No branch leads to "Flag as Contested — Note Absent Narrative"
+7. "Provisional Historical Claim" — click reveals: explanation that historical claims are always provisional, revisable with new evidence
+
+Interactivity requirement: every node is clickable via a `click` directive that opens an infobox with its definition, matching the interactivity rule for this textbook. Learner can also hover any node for a one-line tooltip preview before clicking for the full definition.
+
+Color coding: blue for source-gathering steps, yellow for decision diamonds, green for the accepted-claim outcome, red for the contested/absent
+
+================================================================================
+dominant-vs-counter-narrative-map | p5.js | 01-foundations-of-historical-inquiry
+<details markdown="1">
+<summary>Dominant Narrative vs. Counter-Narrative Concept Map</summary>
+Type: infographic
+
+**sim-id:** dominant-vs-counter-narrative-map<br/>
+**Library:** p5.js<br/>
+**Status:** Specified
+
+Purpose: Help students see dominant narrative, counter-narrative, historical silence, and marginalization as four related — not separate — concepts.
+
+Bloom Taxonomy: Analyze (L4) — examine relationships between the four concepts.
+Bloom Verb: differentiate
+
+Learning objective: Given a short historical scenario, students can identify which parts represent the dominant narrative, which represent a counter-narrative, and where historical silence and marginalization are operating.
+
+Canvas layout:
+- Center: a node labeled "A Historical Event"
+- Four surrounding nodes: "Dominant Narrative," "Counter-Narrative," "Historical Silence," "Marginalization"
+- Connecting lines from the center to each surrounding node
+
+Visual elements:
+- Center node in gray
+- "Dominant Narrative" node in blue (larger, representing wider circulation)
+- "Counter-Narrative" node in orange (smaller, representing narrower circulation)
+- "Historical Silence" node in black with a dotted outline (representing absence)
+- "Marginalization" node in red, connected to both Counter-Narrative and Historical Silence with a labeled arrow reading "produces"
+
+Interactive controls:
+- Click any node to open an infobox with its definition and a one-sentence example drawn from the Manifest Destiny case study previewed in this chapter
+- Hover any connecting arrow to see a short label explaining the relationship (e.g., hovering the Marginalization→Historical Silence arrow shows: "Marginalized groups had less power to create and preserve records")
+
+Data Visibility Requirements:
+  Stage 1: Show the four terms as unconnected labels
+  Stage 2: On click of "A Historical Event," animate connecting lines drawing outward one at a time
+  Stage 3: Each node click reveals its definition and example in a fixed side panel that 
+
+================================================================================
+power-structure-pyramid | p5.js | 02-vocabulary-of-power-and-exclusion
+<details markdown="1">
+<summary>The Power Structure Pyramid</summary>
+Type: diagram
+
+**sim-id:** power-structure-pyramid<br/>
+**Library:** p5.js<br/>
+**Status:** Specified
+
+Purpose: Show how systemic oppression and privilege are two views of the same power structure, using a layered pyramid students can explore.
+
+Bloom Taxonomy: Understand (L2) — explain how privilege and systemic oppression relate to a shared power structure.
+Bloom Verb: explain
+
+Learning objective: Students can explain, in their own words, why privilege and systemic oppression are not opposites but two perspectives on the same structure.
+
+Components to show:
+- A pyramid divided into four horizontal bands, labeled (top to bottom): "Concentrated Authority," "Institutional Access," "Everyday Advantage/Disadvantage," "Structural Foundation (Laws, Norms, History)"
+- Two small figure icons that can be dragged: one labeled "Privileged Position," one labeled "Marginalized Position"
+
+Connections: A dashed vertical line connects each figure to the pyramid band it currently occupies, updating live as the figure is dragged.
+
+Interactive controls:
+- Drag either figure to a different vertical position on the pyramid
+- Clicking a pyramid band opens an infobox defining that band and giving one example connected to Chapter 1's marginalization concept
+- A toggle button switches the whole diagram's label set between "Privilege view" (labels describing advantage) and "Systemic oppression view" (labels describing disadvantage), so students see the same structure described from both directions
+
+Style: Flat-color pyramid, four bands in a gradient from dark (bottom/foundational) to light (top)
+
+Labels: Band names as above; figure labels "Privileged Position" / "Marginalized Position"
+
+Color scheme: Blue gradient for the pyramid bands, gold figure icon for "Privileged Position," gray figure icon for "Marginalized Position"
+
+Implementation: p5.js canvas with draggable icons snapping to the nearest band; toggle button re-la
+
+================================================================================
+stereotype-to-discrimination-chain | Mermaid | 02-vocabulary-of-power-and-exclusion
+<details markdown="1">
+<summary>From Stereotype to Discrimination — A Clickable Causal Chain</summary>
+Type: workflow
+
+**sim-id:** stereotype-to-discrimination-chain<br/>
+**Library:** Mermaid<br/>
+**Status:** Specified
+
+Purpose: Let students trace, and see broken, the chain from a shared belief to a real-world outcome.
+
+Bloom Taxonomy: Analyze (L4) — differentiate between belief, attitude, and action.
+Bloom Verb: differentiate
+
+Learning objective: Students can place a short scenario correctly on the stereotype-to-discrimination chain and identify at which link intervention (such as anti-discrimination law) can and cannot act.
+
+Visual style: Mermaid left-to-right flowchart with four clickable nodes and one branch showing where policy intervention is possible.
+
+Nodes (each clickable with a `click` directive opening an infobox with the term's definition and a short example):
+1. "Stereotype" — infobox: definition plus example ("that group is naturally good at X")
+2. "Prejudice" — infobox: definition plus example (an unfavorable attitude formed before interaction)
+3. "Bias" — infobox: definition, noting it can be conscious or unconscious
+4. "Discrimination" — infobox: definition plus example (denial of a loan, job, or housing)
+
+Branch: a labeled arrow from "Discrimination" down to a fifth node, "Where Law Can Intervene," with an infobox explaining that anti-discrimination law targets actions and outcomes, not private beliefs — connecting back to why systemic oppression can outlast individual prejudice.
+
+Interactivity requirement: every node has a `click NodeId call showInfo("term")` directive; hovering any node shows a one-line preview tooltip before the click reveals the full infobox.
+
+Color coding: light gray for belief-stage nodes (Stereotype, Prejudice), yellow for Bias (spanning belief and institution), red for Discrimination (action/outcome), green for the "Where Law Can Intervene" node.
+
+Implementation: Mermaid flowchart with click handlers, rendered in an iframe 
+
+================================================================================
+equity-vs-equality-allocator | p5.js | 02-vocabulary-of-power-and-exclusion
+<details markdown="1">
+<summary>Equity vs. Equality Resource Allocator</summary>
+Type: microsim
+
+**sim-id:** equity-vs-equality-allocator<br/>
+**Library:** p5.js<br/>
+**Status:** Specified
+
+Purpose: Let students allocate a limited resource under both an equality rule and an equity rule, and compare the resulting outcomes.
+
+Bloom Taxonomy: Evaluate (L5) — judge which allocation approach best achieves a stated goal.
+Bloom Verb: justify
+
+Learning objective: Given a scenario with three groups at different starting positions, students can allocate resources under both rules, observe the different outcomes, and justify which rule better serves a stated goal (equal treatment vs. equal outcome).
+
+Canvas layout:
+- Left (300px): three simple figures of different heights, labeled "Group A (starting resources: low)," "Group B (starting resources: medium)," "Group C (starting resources: high)," each standing on a platform of a different height representing their starting position
+- Right (300px): control panel and results readout
+
+Interactive controls:
+- Toggle: "Equality Mode" vs. "Equity Mode"
+- Slider: total resource units available to distribute (10-30)
+- Button: "Distribute"
+
+Data Visibility Requirements:
+  Stage 1 (Equality Mode): Show each of the three groups receiving an identical number of resource units, and show the resulting platform heights — still uneven, because starting positions were uneven
+  Stage 2 (Equity Mode): Show resource units allocated in inverse proportion to starting platform height, and show the resulting platform heights converging toward the same level
+  Stage 3: A results readout stating the numeric gap between the tallest and shortest platform under each mode, updated live
+
+Instructional Rationale: An Evaluate-level objective requires learners to judge outcomes against a criterion, not just recall a definition. Letting students toggle between the two rules and see the resulting gap number, rather than just reading a static illustration, lets them
+
+================================================================================
+tracing-a-social-construct | vis-timeline | 03-identity-race-and-social-construction
+<details markdown="1">
+<summary>Tracing a Social Construct</summary>
+Type: timeline
+
+**sim-id:** tracing-a-social-construct<br/>
+**Library:** vis-timeline<br/>
+**Status:** Specified
+
+Purpose: Show, with a concrete documented case, how the legal category "white" changed over time in the United States — making social construction visible rather than abstract.
+
+Bloom Taxonomy: Understand (L2) — explain how a legal/social category changed over a specific historical period.
+Bloom Verb: explain
+
+Learning objective: Students can explain, using this specific timeline, why "race is socially constructed" is a historical claim with evidence, not just an assertion.
+
+Time period: 1790-1965
+
+Events (each clickable, opening an infobox with detail and the primary-source type it draws on):
+- 1790: Naturalization Act restricts citizenship to "free white persons" — infobox explains the vagueness of "white" left undefined in law
+- 1840s-1850s: Irish immigrants face widespread exclusion from full "white" social status despite legal whiteness — infobox cites period cartoons and employment notices as primary sources
+- 1882: Chinese Exclusion Act explicitly denies naturalization to Chinese immigrants — infobox connects to nationality-based exclusion
+- 1923: U.S. v. Bhagat Singh Thind rules South Asian immigrants are not "white" for naturalization purposes despite some anthropological classifications of the era — infobox explains the Court's shifting rationale
+- 1930s-1940s: Federal housing policy (previewed here, detailed in Chapter 6) begins treating Italian and Jewish immigrants as "white" for lending purposes in ways it had not previously
+- 1965: Immigration and Nationality Act removes national-origin quotas, changing which groups could immigrate at all
+
+Visual style: Horizontal timeline, one row
+
+Color coding: Red markers for exclusionary legal events, green markers for inclusionary/expansion events
+
+Interactive features: Click any event for a detail panel with a one-paragraph explanat
+
+================================================================================
+intersectionality-layer-explorer | p5.js | 03-identity-race-and-social-construction
+<details markdown="1">
+<summary>Intersectionality Layer Explorer</summary>
+Type: microsim
+
+**sim-id:** intersectionality-layer-explorer<br/>
+**Library:** p5.js<br/>
+**Status:** Specified
+
+Purpose: Let students select combinations of identity categories for a hypothetical person and see how outcomes described in short scenario cards change — demonstrating that intersectional outcomes are not simply additive.
+
+Bloom Taxonomy: Analyze (L4) — examine how overlapping categories interact to produce distinct outcomes.
+Bloom Verb: examine
+
+Learning objective: Given a set of toggle-able identity categories, students can identify at least one documented historical or contemporary scenario in which the intersection of two categories produced an outcome different from either category alone.
+
+Canvas layout:
+- Left (350px): a stack of five toggle switches, one each for race, gender, nationality, class, and ability — each toggle has two or three preset positions (e.g., gender: woman/man/nonbinary)
+- Right (350px): a scenario card area displaying short, sourced historical or contemporary examples that match the currently selected toggle combination
+
+Interactive controls:
+- Five toggle switches as described
+- "Show Single-Category View" button that displays only scenario cards matching one selected category at a time, for direct comparison against the "Show Combined View" default
+
+Data Visibility Requirements:
+  Stage 1: Default view shows toggles all in a neutral/unselected state and a prompt to make selections
+  Stage 2: As toggles are set, matching scenario cards populate the right panel, each citing its real-world basis (e.g., a specific court case, wage-gap study, or documented policy)
+  Stage 3: Toggling "Show Single-Category View" reveals that some combined-view cards have no single-category equivalent, visually demonstrating intersectionality's core claim
+
+Instructional Rationale: An Analyze-level objective about intersectionality is best served by letting students directly 
+
+================================================================================
+mechanism-of-land-dispossession | vis-timeline | 04-case-study-manifest-destiny
+<details markdown="1">
+<summary>The Mechanism of Land Dispossession</summary>
+Type: timeline
+
+**sim-id:** mechanism-of-land-dispossession<br/>
+**Library:** vis-timeline<br/>
+**Status:** Specified
+
+Purpose: Connect the Indian Removal Act, the Trail of Tears, and the Homestead Act as three links in a single documented policy mechanism, not three unrelated events.
+
+Bloom Taxonomy: Analyze (L4) — examine the causal relationships connecting policy, displacement, and redistribution.
+Bloom Verb: examine
+
+Learning objective: Students can explain, using the specific events on this timeline, why "land dispossession" describes a connected policy mechanism rather than a series of coincidences.
+
+Time period: 1830-1862
+
+Events (each clickable, opening an infobox with a primary-source citation type and a one-paragraph explanation):
+- 1830: Indian Removal Act signed — infobox notes this is the enabling legislation, citing the statute text as the primary source type
+- 1838-1839: Trail of Tears — infobox includes a note on documented death toll estimates and cites period military and missionary correspondence as primary sources
+- 1840s-1850s: Additional removals of Southeastern and Midwestern tribes under the same legal framework
+- 1862: Homestead Act signed — infobox explicitly connects the "public domain" land it distributes to land vacated by the prior three decades of removal, citing land office records as a primary source type
+
+Visual style: Horizontal timeline, single row, with a connecting highlighted band beneath all four events labeled "Land Dispossession Mechanism"
+
+Color coding: Red for removal/displacement events, orange for the connecting mechanism band, green for the Homestead Act redistribution event
+
+Interactive features: Clicking any event opens a detail panel; hovering the connecting band reveals a one-sentence summary of how the events link causally.
+
+Implementation: vis-timeline library with a JSON event array and a custom background band spanning the full date ra
+
+================================================================================
+packing-cracking-district-simulator | p5.js | 05-government-representation-and-systemic-bias
+<details markdown="1">
+<summary>Packing and Cracking District Simulator</summary>
+Type: microsim
+
+**sim-id:** packing-cracking-district-simulator<br/>
+**Library:** p5.js<br/>
+**Status:** Specified
+
+Purpose: Let students redraw district boundaries on a simplified grid of voters and see how packing and cracking change election outcomes without changing a single vote.
+
+Bloom Taxonomy: Apply (L3) — use the packing/cracking techniques to produce a target outcome.
+Bloom Verb: demonstrate
+
+Learning objective: Given a fixed grid of voters split 60/40 between two groups, students can draw district boundaries that produce a proportional outcome, then redraw them using packing and cracking to produce a disproportionate outcome — demonstrating that the same voters can produce very different representation depending only on how lines are drawn.
+
+Canvas layout:
+- Left (450px): a 10x10 grid of colored squares representing voters (blue/orange, fixed 60/40 split, randomized positions)
+- Right (250px): district boundary tools and a results readout
+
+Interactive controls:
+- "Draw Boundary" tool: click-drag to group grid squares into districts (5 districts total, must cover all 100 voters)
+- "Reset Grid" button (keeps the same 60/40 randomized positions)
+- "Show Proportional Target" toggle: overlays what a proportional outcome (3 blue-majority districts, 2 orange-majority districts) would look like
+- Results readout: live count of how many districts each color currently wins as boundaries are drawn
+
+Data Visibility Requirements:
+  Stage 1: Show the ungrouped 100-voter grid with its 60/40 split clearly labeled
+  Stage 2: As the student draws each district boundary, show that district's internal vote count and which color currently "wins" it
+  Stage 3: Once all 5 districts are drawn, show the final seat count compared to the proportional target, with the gap (if any) highlighted
+
+Instructional Rationale: An Apply-level objective requires learners to use the technique themselves, not just 
+
+================================================================================
+four-layers-of-government-representation | vis-network | 05-government-representation-and-systemic-bias
+<details markdown="1">
+<summary>Four Layers of Government Representation</summary>
+Type: graph-model
+
+**sim-id:** four-layers-of-government-representation<br/>
+**Library:** vis-network<br/>
+**Status:** Specified
+
+Purpose: Show tribal, local, state, and federal government as four distinct, interacting layers of representation, with tribal sovereignty positioned as independent authority rather than a subset of state government.
+
+Bloom Taxonomy: Understand (L2) — explain the relationship between tribal sovereignty and other levels of government.
+Bloom Verb: explain
+
+Learning objective: Students can explain why tribal nations are described as having a nation-to-nation relationship with the federal government, rather than being classified under state or local government.
+
+Node types:
+1. Federal Government (large blue circle, center-top)
+2. State Government (medium orange circle)
+3. Local Government (small orange circle, connected to State)
+4. Tribal Nation (medium green circle, connected directly to Federal, NOT to State) — properties: name (example tribal nation used for illustration), governing authority, treaty status
+
+Edge types:
+1. "Constitutional Authority" (solid black arrow, Federal → State)
+2. "Delegated Authority" (solid black arrow, State → Local)
+3. "Nation-to-Nation Relationship" (double-headed solid green arrow, Federal ↔ Tribal Nation) — distinct styling from the other edges to visually reinforce that this is not a delegation relationship
+4. "Consultation Requirement" (dashed green arrow, Tribal Nation → State, labeled with a note that this is a limited, specific-purpose relationship, not general authority)
+
+Layout: Hierarchical, with Tribal Nation positioned at the same vertical level as State Government but visually separated to the side, connected upward directly to Federal
+
+Interactive features:
+- Hover any node: show its properties in a tooltip
+- Click any node: highlight all its direct connections and open a side panel with the node's full definition
+
+================================================================================
+redlined-map-then-and-now | Leaflet | 06-economic-exclusion
+<details markdown="1">
+<summary>A Redlined Map, Then and Now</summary>
+Type: map
+
+**sim-id:** redlined-map-then-and-now<br/>
+**Library:** Leaflet<br/>
+**Status:** Specified
+
+Purpose: Let students overlay a historical Home Owners' Loan Corporation redlining map with present-day data (e.g., median home value or tree canopy coverage) for the same city, to see redlining's decades-long effect made visible.
+
+Bloom Taxonomy: Analyze (L4) — examine the relationship between a historical policy map and present-day outcomes.
+Bloom Verb: examine
+
+Learning objective: Given a historical redlining map and a present-day data layer for the same city, students can identify the correlation between historical grade and current outcome, and explain at least one mechanism (access to credit) connecting the two.
+
+Geographic scope: A single representative U.S. city (implementation note: use a city with well-documented, publicly available HOLC map data, such as Minneapolis or St. Paul, Minnesota, to connect directly to the course's Minnesota standards)
+
+Locations: Neighborhood polygons color-coded by original 1930s HOLC grade (A=green, B=blue, C=yellow, D=red, matching the original historical color scheme)
+
+Data flows: N/A (this is a layered map, not a flow map)
+
+Interactive controls:
+- Opacity slider to blend the historical grade layer with a present-day data layer
+- Toggle to switch the present-day layer between two datasets (e.g., median home value, tree canopy percentage)
+- Click any neighborhood polygon to open an infobox showing its 1930s grade, the original HOLC surveyor's stated rationale (drawn from the historical record), and its current value for the selected present-day dataset
+
+Labels: HOLC grade legend (A/B/C/D), present-day dataset legend
+
+Color scheme: Original HOLC four-color scale for the historical layer; a separate sequential color scale (e.g., light-to-dark blue) for whichever present-day dataset is selected
+
+Interactive features: hover for a quick tooltip (grade + curre
+
+================================================================================
+compounding-chain-of-economic-exclusion | Mermaid | 06-economic-exclusion
+<details markdown="1">
+<summary>The Compounding Chain of Economic Exclusion</summary>
+Type: workflow
+
+**sim-id:** compounding-chain-of-economic-exclusion<br/>
+**Library:** Mermaid<br/>
+**Status:** Specified
+
+Purpose: Let students trace the full documented chain from a single 1930s policy (redlining) through to a present-day wealth gap, and evaluate where a reparations proposal could intervene.
+
+Bloom Taxonomy: Evaluate (L5) — judge the effectiveness of proposed interventions at different points in a documented causal chain.
+Bloom Verb: justify
+
+Learning objective: Given the compounding chain from redlining to wealth gap, students can identify at least two points where policy intervention (including reparations) could act, and justify which point would have the largest measurable effect.
+
+Visual style: Mermaid top-to-bottom flowchart with clickable nodes and one branch showing possible intervention points.
+
+Nodes (each clickable with a `click` directive opening an infobox):
+1. "Redlining (1930s)" — infobox: definition and historical dates
+2. "Housing Discrimination" — infobox: definition, notes continuation after 1968
+3. "Reduced Access to Credit" — infobox: definition and mechanism
+4. "Community Disinvestment" — infobox: definition
+5. "Wealth Gap (Present Day)" — infobox: definition, notes wealth vs. income distinction
+6. Branch node: "Possible Interventions" connected to nodes 2, 3, and 5 with dashed arrows, each labeled with a real policy category (fair housing enforcement, credit access programs, reparations) — infobox on each dashed arrow explains what that intervention targets and at which point in the chain
+
+Interactivity requirement: every node and every labeled intervention arrow has a `click` directive opening an infobox; hovering any node shows a preview tooltip.
+
+Color coding: red for the originating policy node, orange for the mechanism nodes, dark red for the present-day outcome node, green for the intervention branch.
+
+Implementation: Mermaid flowchart
+
+================================================================================
+policing-history-timeline | vis-timeline | 07-justice-system-and-criminality
+<details markdown="1">
+<summary>Policing History Timeline</summary>
+Type: timeline
+
+**sim-id:** policing-history-timeline<br/>
+**Library:** vis-timeline<br/>
+**Status:** Specified
+
+Purpose: Show the documented institutional evolution of American policing, providing historical context for later sections on selective enforcement and racial profiling.
+
+Bloom Taxonomy: Understand (L2) — summarize the major institutional shifts in the history of American policing.
+Bloom Verb: summarize
+
+Learning objective: Students can summarize at least three major institutional shifts in the history of American policing and explain why this history is treated as historical context (Chapter 1) for evaluating present-day enforcement patterns.
+
+Time period: 1700s-present
+
+Events (each clickable with an infobox citing the type of historical source involved):
+- 1700s-1865: Slave patrols in Southern colonies and states — infobox notes these as among the earliest organized policing institutions in the region, citing state slave-code statutes as a primary source type
+- 1838-1900s: Formation of professional municipal police departments (Boston 1838 cited as an early example) — infobox notes the primarily order-maintenance and property-protection origins of these forces
+- 1960s-1970s: Civil rights era confrontations between police and protesters, widely documented on film and in news photography
+- 1970s-1990s: "War on drugs" era policy shifts and their connection to sentencing policy (previewed here, detailed later in this chapter)
+- 1990s-2000s: Rise of "broken windows" and zero-tolerance policing strategies
+- 2010s-present: Body camera adoption and community policing reform efforts following widely documented incidents
+
+Visual style: Horizontal timeline, single row, grouped into shaded eras
+
+Color coding: distinct background shading per era (colonial/slave-patrol era, professionalization era, civil rights era, war-on-drugs era, reform era)
+
+Interactive features: click any event for a detail pa
+
+================================================================================
+sentencing-outcome-comparator | Chart.js | 07-justice-system-and-criminality
+<details markdown="1">
+<summary>Sentencing Outcome Comparator</summary>
+Type: microsim
+
+**sim-id:** sentencing-outcome-comparator<br/>
+**Library:** Chart.js<br/>
+**Status:** Specified
+
+Purpose: Let students compare sentencing-length distributions for a matched, comparable offense across demographic groups, drawn from representative published sentencing-commission data ranges.
+
+Bloom Taxonomy: Evaluate (L5) — assess whether an observed disparity is consistent with a documented pattern of sentencing disparity.
+Bloom Verb: assess
+
+Learning objective: Given representative sentencing-length data for a single offense category across demographic groups, students can identify whether a disparity exists, describe its size, and assess whether the disparity is consistent with the concept of sentencing disparity as defined in this chapter.
+
+Chart type: Box-and-whisker or grouped bar chart
+
+Purpose: Show the distribution (not just the average) of sentence lengths for a single, held-constant offense category, split by demographic group
+
+X-axis: Demographic group categories (using representative, clearly labeled illustrative ranges consistent with published sentencing-commission reports, not individualized case data)
+Y-axis: Sentence length in months
+
+Data series: Representative distribution ranges per group for one illustrative offense category, sourced from the general pattern documented in U.S. Sentencing Commission demographic reports
+
+Interactive controls:
+- Dropdown: select a different (but similarly matched) offense category to compare whether the disparity pattern holds across offense types
+- Hover any bar or box: reveal the exact numeric range and the source category it represents
+
+Title: "Sentence Length Distribution for a Matched Offense, by Demographic Group"
+
+Annotations: A note clarifying that the offense category and severity are held constant across groups in this illustrative dataset, which is the condition under which "sentencing disparity" as defined in this cha
+
+================================================================================
+same-event-two-frames | p5.js | 08-representation-in-the-media
+<details markdown="1">
+<summary>Same Event, Two Frames</summary>
+Type: infographic
+
+**sim-id:** same-event-two-frames<br/>
+**Library:** p5.js<br/>
+**Status:** Specified
+
+Purpose: Show two side-by-side, entirely factual headline-and-lead-paragraph pairs describing the same hypothetical event, differing only in framing choices, so students can see the framing effect operating without any factual falsehood present.
+
+Bloom Taxonomy: Analyze (L4) — differentiate between factual content and framing choices in a news text.
+Bloom Verb: differentiate
+
+Learning objective: Given two framings of the same factual event, students can identify the specific word choices, ordering, and visual choices producing the different impressions, without identifying either version as factually false.
+
+Canvas layout:
+- Two side-by-side panels, each showing a headline, a one-paragraph lead, and a representative image placeholder
+- Below both panels, a highlighted-differences toggle
+
+Interactive controls:
+- Toggle: "Highlight Word Choice Differences" — underlines the specific words that differ in emotional register between the two panels (e.g., "protesters" vs. "mob," "official" vs. "operative")
+- Click any highlighted word pair: infobox explains the connotation difference and cites this as the framing effect, not factual inaccuracy
+- Toggle: "Show Fact-Check" — a checkmark confirms both versions report the same underlying verifiable facts
+
+Data Visibility Requirements:
+  Stage 1: Show both panels unhighlighted, prompting the student to spot differences on their own first
+  Stage 2: On toggle, reveal highlighted word-choice differences
+  Stage 3: On second toggle, confirm both are factually accurate, isolating framing as the sole variable
+
+Instructional Rationale: An Analyze-level framing objective requires students to separate two things usually experienced together — factual content and framing choice. Presenting two factually verified panels side-by-side, with an explicit fact-check confirmat
+
+================================================================================
+media-literacy-checklist-sorter | p5.js | 08-representation-in-the-media
+<details markdown="1">
+<summary>Media Literacy Checklist Sorter</summary>
+Type: microsim
+
+**sim-id:** media-literacy-checklist-sorter<br/>
+**Library:** p5.js<br/>
+**Status:** Specified
+
+Purpose: Give students a repeatable diagnostic tool: presented with a short media excerpt, sort its features into "ordinary framing," "specific named bias pattern," or "likely propaganda."
+
+Bloom Taxonomy: Evaluate (L5) — classify a media excerpt's features against defined criteria.
+Bloom Verb: classify
+
+Learning objective: Given six short excerpt cards drawn from this chapter's named patterns (headline bias, stereotype in media, algorithmic bias, propaganda, and two neutral control examples), students can sort each card into the correct category and justify the sort using this chapter's vocabulary.
+
+Canvas layout:
+- Top: a shuffled row of six excerpt cards (short text snippets, each illustrating one pattern from this chapter, clearly fictional/illustrative rather than pulled from a real current news source)
+- Bottom: three labeled drop zones — "Ordinary Framing," "Named Bias Pattern (specify which)," "Likely Propaganda"
+
+Interactive controls:
+- Drag-and-drop each card into a drop zone
+- When dropping into "Named Bias Pattern," a dropdown appears requiring the student to specify which pattern (headline bias, stereotype in media, colorism in media, etc.)
+- "Check My Sorting" button reveals correct placements with a one-sentence justification for each
+
+Data Visibility Requirements:
+  Stage 1: Six shuffled cards, no feedback yet
+  Stage 2: After each drop, card snaps into its zone (no correctness feedback yet, to allow full sorting first)
+  Stage 3: On "Check My Sorting," each card is marked correct/incorrect with justification text shown
+
+Instructional Rationale: An Evaluate-level classification objective requires learners to apply multiple criteria simultaneously, not recall one definition at a time. A sorting task with a delayed "check" step (rather than instant per-card feedback) fo
+
+================================================================================
+minnesota-tribal-nations-map | Leaflet | 09-indigenous-sovereignty-and-tribal-relations
+<details markdown="1">
+<summary>Minnesota Tribal Nations Map</summary>
+Type: map
+
+**sim-id:** minnesota-tribal-nations-map<br/>
+**Library:** Leaflet<br/>
+**Status:** Specified
+
+Purpose: Show the location and identity of Minnesota's eleven federally recognized tribal nations, each as a distinct, named sovereign government rather than an undifferentiated category.
+
+Bloom Taxonomy: Remember (L1) — identify Minnesota's tribal nations and their locations.
+Bloom Verb: identify
+
+Learning objective: Students can identify, by name and general location, the tribal nations with reservations or trust land in Minnesota, and distinguish Dakota from Ojibwe (Anishinaabe) nations among them.
+
+Geographic scope: State of Minnesota
+
+Locations: Reservation and trust-land boundaries for each of the eleven federally recognized tribal nations in Minnesota, color-coded by nation (Ojibwe nations in one color family, Dakota nations in a distinct color family)
+
+Data flows: N/A (boundary map, not a flow map)
+
+Labels: Each nation's name in both its own language and common English usage, displayed on click
+
+Legend: Color key distinguishing Ojibwe and Dakota nations; note explaining that boundary size on the map reflects present-day reservation and trust land, not historical territory (a distinction the infobox for each nation makes explicit, connecting to Chapter 4's land dispossession content)
+
+Interactive features:
+- Click any tribal nation's territory: opens an infobox with the nation's name, language family, tribal government structure, and a link-style reference to its official government website (described, not hyperlinked directly, for specification purposes)
+- Toggle: "Show Historical Territory" overlay, contrasting present-day reservation boundaries with the much larger documented historical territory, reinforcing the land dispossession concept from Chapter 4
+
+Implementation: Leaflet.js with a GeoJSON layer of tribal boundaries and a toggle-able historical-territory GeoJSON overlay.
+</de
+
+================================================================================
+land-acknowledgment-vs-material-action | p5.js | 09-indigenous-sovereignty-and-tribal-relations
+<details markdown="1">
+<summary>Land Acknowledgment vs. Material Action Evaluator</summary>
+Type: microsim
+
+**sim-id:** land-acknowledgment-vs-material-action<br/>
+**Library:** p5.js<br/>
+**Status:** Specified
+
+Purpose: Let students evaluate a set of institutional responses to Indigenous sovereignty issues along a spectrum from symbolic to material, applying this chapter's vocabulary.
+
+Bloom Taxonomy: Evaluate (L5) — rank institutional actions by their material impact on Indigenous sovereignty.
+Bloom Verb: rank
+
+Learning objective: Given eight example institutional actions (ranging from a spoken land acknowledgment with no follow-up to returning managed land to tribal governance), students can rank them along a symbolic-to-material spectrum and justify the ranking using this chapter's vocabulary (self-determination, repatriation, federal recognition).
+
+Canvas layout:
+- A horizontal spectrum bar labeled "Symbolic" on the left and "Material / Structural" on the right
+- Eight draggable action cards below the bar (e.g., "Spoken land acknowledgment at an event," "University repatriates ancestral remains under NAGPRA," "State agency co-manages natural resources with a tribal government," "School removes a Native-themed mascot")
+
+Interactive controls:
+- Drag each card to a position on the spectrum
+- "Compare to Reference Ranking" button reveals an expert-informed reference position for each card (drawn from published discussion by Indigenous scholars and organizations on this spectrum) alongside the student's own placement, with a short explanation for each
+
+Data Visibility Requirements:
+  Stage 1: Blank spectrum, eight unplaced cards
+  Stage 2: Cards placed by the student, positions saved
+  Stage 3: Reference ranking overlay shown alongside student ranking for direct comparison, with justification text for any large gaps
+
+Instructional Rationale: An Evaluate-level ranking objective works best when students commit to a position before seeing a reference answer — placing ca
+
+================================================================================
+diffusion-model-comparator | vis-network | 10-migration-colonialism-and-global-perspectives
+<details markdown="1">
+<summary>Diffusion Model Comparator</summary>
+Type: graph-model
+
+**sim-id:** diffusion-model-comparator<br/>
+**Library:** vis-network<br/>
+**Status:** Specified
+
+Purpose: Let students compare expansion diffusion and relocation diffusion using the same starting scenario, to see how the diffusion model chosen changes the interpretation of a historical spread of culture.
+
+Bloom Taxonomy: Analyze (L4) — differentiate between diffusion models applied to the same historical scenario.
+Bloom Verb: differentiate
+
+Learning objective: Given a single historical example of a cultural practice spreading between regions, students can classify the spread as primarily expansion diffusion, relocation diffusion, or a mix of both, and justify the classification.
+
+Node types:
+1. Origin Region (green circle) — properties: name, cultural practice of interest
+2. Destination Region (blue circle) — properties: name, degree of adoption
+
+Edge types:
+1. "Expansion Diffusion" (solid arrow, origin retains full practice while destination adopts it) — clicking shows an infobox with a worked historical example
+2. "Relocation Diffusion" (dashed arrow, showing population movement carrying the practice, with reduced presence remaining at origin) — clicking shows a worked historical example
+
+Layout: Two side-by-side mini-diagrams (one per diffusion type), sharing the same origin/destination region pair for direct comparison
+
+Interactive features:
+- Toggle between three preset historical scenarios (a trade-driven example, a migration-driven example, and a conquest-driven example)
+- For each scenario, click either edge type to see whether it fits, with a written justification
+- A "Which model fits best?" quiz prompt at the bottom, with a short-answer text box (not auto-graded, intended for classroom discussion)
+
+Implementation: vis-network with two small fixed two-node graphs side by side, and a scenario-switching control that updates the node/edge metadata and infobox content.
+</de
+
+================================================================================
+global-migration-pattern-map | Leaflet | 10-migration-colonialism-and-global-perspectives
+<details markdown="1">
+<summary>Global Migration Pattern Map</summary>
+Type: map
+
+**sim-id:** global-migration-pattern-map<br/>
+**Library:** Leaflet<br/>
+**Status:** Specified
+
+Purpose: Show major documented global migration flows over a defined recent period, connecting each flow's stated causes to concepts from this chapter (forced migration, U.S. foreign policy, border formation).
+
+Bloom Taxonomy: Analyze (L4) — examine the relationship between documented causes and resulting migration flows.
+Bloom Verb: examine
+
+Learning objective: Students can select a major migration flow on the map and correctly attribute it to one or more of this chapter's named causal mechanisms, using cited documentation.
+
+Geographic scope: World map
+
+Locations: Origin and destination regions for 5-6 major, well-documented late-20th/21st-century migration flows
+
+Data flows (arrows): Curved directional arrows sized by relative magnitude, colored by primary documented cause (forced migration due to conflict = red, economic pressure = orange, environmental displacement = green)
+
+Labels: Region names, arrow magnitude legend
+
+Interactive features:
+- Click any flow arrow: infobox with the flow's documented primary and contributing causes, citing the type of source (UN refugee agency reports, government migration statistics) used to establish the data
+- Filter checkboxes to show/hide flows by primary cause category
+
+Legend: Cause-category color key, arrow-width magnitude key
+
+Implementation: Leaflet.js with curved polyline arrows (using a curve-generating utility) and a filterable dataset of flow objects.
+</details>
+
+================================================================================
+strategy-toolkit-social-movement-tactic | p5.js | 11-civil-rights-and-liberation-movements
+<details markdown="1">
+<summary>Strategy Toolkit — Choosing a Social Movement Tactic</summary>
+Type: microsim
+
+**sim-id:** strategy-toolkit-social-movement-tactic<br/>
+**Library:** p5.js<br/>
+**Status:** Specified
+
+Purpose: Let students select a specific historical scenario and choose among strategy options, then compare their choice to what movement organizers actually chose and why.
+
+Bloom Taxonomy: Apply (L3) — apply social movement strategy concepts to a specific scenario.
+Bloom Verb: apply
+
+Learning objective: Given a scenario describing a movement's goal, resources, and political environment, students can select an appropriate strategic mix (from nonviolent resistance, civil disobedience, grassroots organizing, litigation, electoral organizing) and compare their reasoning to the documented historical choice.
+
+Canvas layout:
+- Left (350px): scenario description panel with a dropdown to select among 3 preset historical scenarios (e.g., a voting-rights campaign, a workplace-organizing campaign, a marriage-equality legal campaign)
+- Right (350px): five strategy option cards the student can select (multiple selections allowed, since real movements combine strategies)
+
+Interactive controls:
+- Scenario dropdown
+- Strategy card multi-select (click to toggle selection)
+- "Compare to Historical Record" button
+
+Data Visibility Requirements:
+  Stage 1: Scenario description shown, no strategy selected
+  Stage 2: Student selects one or more strategy cards
+  Stage 3: On comparison, show which strategies the actual historical movement used (from documented sources), with a brief explanation of why, and note any strategies the student selected that were NOT historically used, with an explanation of the tradeoff
+
+Instructional Rationale: An Apply-level objective benefits from a low-stakes, comparison-based structure — letting students commit to a strategic choice before revealing the documented historical answer preserves the cognitive work of application, rather than turning t
+
+================================================================================
+slavery-to-desegregation-chain | vis-timeline | 11-civil-rights-and-liberation-movements
+<details markdown="1">
+<summary>From Slavery to Desegregation — A Traceable Chain</summary>
+Type: timeline
+
+**sim-id:** slavery-to-desegregation-chain<br/>
+**Library:** vis-timeline<br/>
+**Status:** Specified
+
+Purpose: Connect the legacy of slavery, Reconstruction, Jim Crow, and desegregation as a single traceable chain, emphasizing that Jim Crow was an active reversal of Reconstruction-era gains rather than a simple continuation of the status quo.
+
+Bloom Taxonomy: Understand (L2) — summarize the causal chain connecting four historical periods.
+Bloom Verb: summarize
+
+Learning objective: Students can summarize why Jim Crow is best understood as a documented reversal of specific Reconstruction-era gains, not merely an unbroken continuation of slavery-era conditions.
+
+Time period: 1865-1968
+
+Events (each clickable with an infobox citing primary-source type):
+- 1865: 13th Amendment ratified, formally abolishing slavery — infobox notes the "legacy of slavery" concept persisting despite formal abolition
+- 1865-1877: Reconstruction era — infobox lists specific documented gains (Black elected officials, 14th and 15th Amendments) with a note on federal troop withdrawal in 1877 as the era's end
+- 1877-1950s: Jim Crow era — infobox explicitly frames this as a reversal, citing specific segregation statutes as primary-source examples
+- 1954: Brown v. Board of Education — infobox cites the Supreme Court opinion as a primary source
+- 1955-1968: Civil rights movement peak organizing period — infobox connects to nonviolent resistance and grassroots organizing concepts
+- 1964-1965: Civil Rights Act and Voting Rights Act — infobox cites statute text
+
+Visual style: Horizontal timeline, single row, with a shaded background band explicitly labeled "Reversal Period" over the Jim Crow era to visually reinforce the reversal framing
+
+Color coding: gray for the slavery-legacy starting point, green for Reconstruction gains, red for the Jim Crow reversal band, blue for the desegregation resolut
+
+================================================================================
+shared-origins-divergent-paths | vis-timeline | 12-religion-and-cultural-diffusion
+<details markdown="1">
+<summary>Shared Origins, Divergent Paths</summary>
+Type: timeline
+
+**sim-id:** shared-origins-divergent-paths<br/>
+**Library:** vis-timeline<br/>
+**Status:** Specified
+
+Purpose: Show the chronological and historical relationship among Judaism, Christianity, and Islam without asserting the truth of any tradition's theological claims — a strictly historical-chronology presentation.
+
+Bloom Taxonomy: Understand (L2) — explain the historical and chronological relationship among three related traditions.
+Bloom Verb: explain
+
+Learning objective: Students can explain, using only historically documented dates and events, why Judaism, Christianity, and Islam are described as sharing a common lineage while remaining theologically distinct.
+
+Time period: circa 1800 BCE - 700 CE
+
+Events (each clickable with an infobox strictly limited to historical/documentary framing, not theological claims):
+- circa 1800 BCE: Traditional dating of the patriarch Abraham, shared ancestral figure across all three traditions
+- circa 1200 BCE: Traditional dating of the Israelite exodus narrative and early Judaism's formation
+- circa 30 CE: Life and teachings of Jesus of Nazareth, within the context of Second Temple Judaism
+- circa 100 CE: Growing distinction between Christianity and Judaism as separate religious communities
+- 610-632 CE: Prophetic career of Muhammad in Mecca and Medina
+- 632 CE onward: Early spread of Islam across the Arabian Peninsula and beyond
+
+Visual style: Horizontal timeline, single row, with three colored bands beneath showing the approximate span of each tradition's distinct identity (Judaism spanning the full timeline, Christianity beginning ~100 CE, Islam beginning ~632 CE)
+
+Color coding: one distinct color per tradition's band, applied consistently
+
+Interactive features: click any event for a strictly historical detail panel (citing archaeological, textual, or historiographical sources as the source type); hover any band for a one-line description 
+
+================================================================================
+religious-persecution-to-pluralism-spectrum | p5.js | 12-religion-and-cultural-diffusion
+<details markdown="1">
+<summary>Religious Persecution to Pluralism Spectrum</summary>
+Type: microsim
+
+**sim-id:** religious-persecution-to-pluralism-spectrum<br/>
+**Library:** p5.js<br/>
+**Status:** Specified
+
+Purpose: Let students place historical and contemporary case studies along a spectrum from active persecution to full legal pluralism, applying specific documented legal and social criteria rather than impression alone.
+
+Bloom Taxonomy: Evaluate (L5) — assess where a case study falls on a persecution-to-pluralism spectrum using defined criteria.
+Bloom Verb: assess
+
+Learning objective: Given six brief case-study cards describing a religious minority's legal and social status in a specific historical or contemporary context, students can place each on a persecution-to-pluralism spectrum and justify the placement using at least one specific legal or social criterion (e.g., right to worship openly, legal protection from discrimination, access to public office).
+
+Canvas layout:
+- A horizontal spectrum bar labeled "Active Persecution" on the left and "Full Legal Pluralism" on the right, with a labeled midpoint "Toleration Without Full Legal Protection"
+- Six draggable case-study cards below the bar, each citing a specific historical or contemporary example with source-type citation
+
+Interactive controls:
+- Drag each card to a spectrum position
+- Click any placed card: reveals a short justification prompt requiring the student to select which criterion (from a fixed list: right to worship, legal antidiscrimination protection, access to public office, freedom from forced conversion) most influenced their placement
+- "Compare to Documented Assessment" button reveals a reference placement with citation to the type of historical or legal source supporting it
+
+Data Visibility Requirements:
+  Stage 1: Six unplaced cards, blank spectrum
+  Stage 2: Student places cards and selects justifying criteria
+  Stage 3: Reference placements shown alongside student placements for comp
+
+================================================================================
+suppression-and-revitalization-mirror | Mermaid | 13-language-and-power
+<details markdown="1">
+<summary>Suppression and Revitalization as Mirror Processes</summary>
+Type: workflow
+
+**sim-id:** suppression-and-revitalization-mirror<br/>
+**Library:** Mermaid<br/>
+**Status:** Specified
+
+Purpose: Show linguistic suppression and language revitalization as mirror-image processes acting on the same underlying resource — a community's language — in opposite directions.
+
+Bloom Taxonomy: Understand (L2) — explain the relationship between a suppression policy and a later revitalization effort.
+Bloom Verb: explain
+
+Learning objective: Students can explain why language revitalization is described as a direct response to a specific, prior linguistic suppression policy, rather than a spontaneous, unrelated cultural trend.
+
+Visual style: Mermaid diagram with two parallel horizontal tracks, one above the other, connected by vertical linking arrows at matched stages
+
+Nodes, Suppression track (top, left to right, each clickable):
+1. "Policy Decision (e.g., boarding school language ban)"
+2. "Reduced Intergenerational Transmission"
+3. "Language Endangerment"
+
+Nodes, Revitalization track (bottom, left to right, each clickable):
+1. "Community Organizing (connects to grassroots organizing, Chapter 11)"
+2. "Elder-Youth Documentation Partnerships"
+3. "Renewed Intergenerational Transmission"
+
+Linking arrows: dashed vertical arrows connecting "Language Endangerment" (top) to "Community Organizing" (bottom), labeled "Motivates Response," and connecting "Renewed Intergenerational Transmission" (bottom) back up to a new node "Partial Recovery," visually closing the loop
+
+Interactivity requirement: every node has a `click` directive opening an infobox with its definition and a real-world example category (without asserting a single specific tribe's data, described generically as "a documented case" per specification guidance)
+
+Color coding: red for the suppression track, green for the revitalization track, gray dashed for linking arrows
+
+Implementation: Mermaid flowch
+
+================================================================================
+spot-the-translation-choice | p5.js | 13-language-and-power
+<details markdown="1">
+<summary>Spot the Translation Choice</summary>
+Type: microsim
+
+**sim-id:** spot-the-translation-choice<br/>
+**Library:** p5.js<br/>
+**Status:** Specified
+
+Purpose: Show students three different valid English translations of the same short non-English source excerpt, so they can see translation bias operating even without any translator acting in bad faith.
+
+Bloom Taxonomy: Analyze (L4) — examine differences among multiple valid translations of the same source.
+Bloom Verb: examine
+
+Learning objective: Given three professionally plausible translations of the same short excerpt, students can identify specific word or phrase choices that differ, and explain how each choice subtly shifts the excerpt's tone or emphasis without any translation being factually "wrong."
+
+Canvas layout:
+- Three side-by-side text panels, each showing a different English translation of the same short (2-3 sentence) illustrative excerpt
+- Below the panels, a highlight-and-compare control
+
+Interactive controls:
+- Click any word or phrase in any panel: highlights the corresponding word/phrase choice across all three panels for direct comparison
+- "Show Translator's Note" toggle: reveals a short explanatory note for each panel describing what interpretive choice that translation prioritized (e.g., literal word-for-word accuracy vs. capturing idiomatic tone vs. matching poetic rhythm)
+
+Data Visibility Requirements:
+  Stage 1: Three panels shown side by side with no highlighting
+  Stage 2: On word click, matching word/phrase spans highlight across all three panels
+  Stage 3: On toggle, translator's-note text appears beneath each panel
+
+Instructional Rationale: An Analyze-level objective about translation bias requires direct comparison of multiple legitimate options, not a single "biased vs. unbiased" binary — showing three good-faith translations side by side demonstrates that translation bias is a structural feature of translation itself, not necessarily a sign of translator 
+
+================================================================================
+triangulating-three-source-types | p5.js | 14-research-methods-and-capstone-project
+<details markdown="1">
+<summary>Triangulating Three Source Types</summary>
+Type: diagram
+
+**sim-id:** triangulating-three-source-types<br/>
+**Library:** p5.js<br/>
+**Status:** Specified
+
+Purpose: Let students practice source triangulation using a worked example with a government record, a newspaper account, and an oral history excerpt describing the same local event, to see where the three converge and where one adds information the others lack.
+
+Bloom Taxonomy: Apply (L3) — apply source triangulation to a worked example.
+Bloom Verb: apply
+
+Learning objective: Given three short source excerpts (a government record, a newspaper account, and an oral history excerpt) describing the same illustrative local event, students can identify specific claims that all three sources agree on, and specific claims found in only one source, and explain what that gap suggests about the historical record.
+
+Components to show:
+- Three labeled source panels arranged in a triangle: "Government Record," "Newspaper Account," "Oral History Excerpt"
+- A center "Convergence Zone" area
+
+Connections: draggable claim tags (short factual statements extracted from each source) that students drag into the center Convergence Zone if they believe the claim is supported by multiple sources, or leave at their originating panel if supported by only one
+
+Interactive controls:
+- Drag claim tags between panels and the center zone
+- "Check Triangulation" button reveals which claims are genuinely corroborated across sources and which are unique to a single source type, with a note on why the unique claims matter (often the oral history excerpt contains detail absent from official records — precisely the kind of detail this course has asked you to seek out)
+
+Style: Triangular layout with three source panels and a center convergence zone
+
+Labels: source-type panel headers, claim tag text
+
+Color scheme: one color per source type panel, with the convergence zone in a neutral background color
+
+Implementation: p5.
+
+================================================================================
+capstone-format-selector | p5.js | 14-research-methods-and-capstone-project
+<details markdown="1">
+<summary>Capstone Format Selector</summary>
+Type: microsim
+
+**sim-id:** capstone-format-selector<br/>
+**Library:** p5.js<br/>
+**Status:** Specified
+
+Purpose: Help students choose a capstone format by answering a short series of questions about their research question, available sources, and interests.
+
+Bloom Taxonomy: Create (L6) — begin designing an original capstone project.
+Bloom Verb: design
+
+Learning objective: Using their own research question and available source types as input, students receive a recommended capstone format (documentary, exhibit, policy proposal, or community action) along with a brief rationale, as a starting point for designing their own original project.
+
+Canvas layout:
+- A short branching question sequence (4-5 questions) presented one at a time, each with 2-3 button-choice answers
+- A results panel that appears after the sequence, showing the recommended format(s) with a rationale
+
+Interactive controls:
+- Button choices for each question (e.g., "Do you have access to people who could be interviewed about this topic?" Yes/No/Not sure; "Is there a specific, current policy connected to your topic?" Yes/No)
+- "Start Over" button to retry with different answers
+- "See All Formats" button that bypasses the questions and shows the full comparison table from this chapter directly
+
+Data Visibility Requirements:
+  Stage 1: First question shown alone
+  Stage 2: Each answer reveals the next question, building a visible trail of prior answers at the top of the panel
+  Stage 3: Final results panel shows the recommended format(s), a one-sentence rationale tied to the student's specific answers, and a link-style reference back to this chapter's comparison table for full details
+
+Instructional Rationale: A Create-level objective benefits from a low-stakes, exploratory tool that helps students move from "I don't know where to start" to a concrete first decision, without dictating a single correct format — multiple valid formats can
+

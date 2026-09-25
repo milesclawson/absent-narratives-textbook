@@ -56,6 +56,20 @@
     "status": "Specified"
   },
   {
+    "sim_id": "equity-vs-equality-allocator",
+    "title": "Equity vs. Equality Resource Allocator",
+    "summary": "Equity vs. Equality Resource Allocator",
+    "heading_type": "Diagram",
+    "chapter": "02-vocabulary-of-power-and-exclusion",
+    "element_type": "microsim",
+    "bloom_level": "Evaluate",
+    "library": "p5.js",
+    "iframe_src": "../../sims/equity-vs-equality-allocator/main.html",
+    "iframe_height": "",
+    "spec_text": "<details markdown=\"1\">\n<summary>Equity vs. Equality Resource Allocator</summary>\nType: microsim\n\n**sim-id:** equity-vs-equality-allocator<br/>\n**Library:** p5.js<br/>\n**Status:** Specified\n\nPurpose: Let students allocate a limited resource under both an equality rule and an equity rule, and compare the resulting outcomes.\n\nBloom Taxonomy: Evaluate (L5) \u2014 judge which allocation approach best achieves a stated goal.\nBloom Verb: justify\n\nLearning objective: Given a scenario with three groups at different starting positions, students can allocate resources under both rules, observe the different outcomes, and justify which rule better serves a stated goal (equal treatment vs. equal outcome).\n\nCanvas layout:\n- Left (300px): three simple figures of different heights, labeled \"Group A (starting resources: low),\" \"Group B (starting resources: medium),\" \"Group C (starting resources: high),\" each standing on a platform of a different height representing their starting position\n- Right (300px): control panel and results readout\n\nInteractive controls:\n- Toggle: \"Equality Mode\" vs. \"Equity Mode\"\n- Slider: total resource units available to distribute (10-30)\n- Button: \"Distribute\"\n\nData Visibility Requirements:\n  Stage 1 (Equality Mode): Show each of the three groups receiving an identical number of resource units, and show the resulting platform heights \u2014 still uneven, because starting positions were uneven\n  Stage 2 (Equity Mode): Show resource units allocated in inverse proportion to starting platform height, and show the resulting platform heights converging toward the same level\n  Stage 3: A results readout stating the numeric gap between the tallest and shortest platform under each mode, updated live\n\nInstructional Rationale: An Evaluate-level objective requires learners to judge outcomes against a criterion, not just recall a definition. Letting students toggle between the two rules and see the resulting gap number, rather than just reading a static illustration, lets them evaluate for themselves which rule closes the gap under which goal \u2014 the classic \"equal boxes vs. equal view over the fence\" illustration turned into a measurable simulation.\n\nDefault parameters: Equality Mode selected; total resource units = 20\n\nImplementation: p5.js canvas with three rectangle \"platforms\" of fixed differing starting heights, animated to grow when resources are distributed; live-updating text readout of the gap.\n</details>",
+    "status": "Specified"
+  },
+  {
     "sim_id": "tracing-a-social-construct",
     "title": "Tracing a Social Construct",
     "summary": "Tracing a Social Construct",
@@ -70,6 +84,20 @@
     "status": "Specified"
   },
   {
+    "sim_id": "intersectionality-layer-explorer",
+    "title": "Intersectionality Layer Explorer",
+    "summary": "Intersectionality Layer Explorer",
+    "heading_type": "Diagram",
+    "chapter": "03-identity-race-and-social-construction",
+    "element_type": "microsim",
+    "bloom_level": "Analyze",
+    "library": "p5.js",
+    "iframe_src": "../../sims/intersectionality-layer-explorer/main.html",
+    "iframe_height": "",
+    "spec_text": "<details markdown=\"1\">\n<summary>Intersectionality Layer Explorer</summary>\nType: microsim\n\n**sim-id:** intersectionality-layer-explorer<br/>\n**Library:** p5.js<br/>\n**Status:** Specified\n\nPurpose: Let students select combinations of identity categories for a hypothetical person and see how outcomes described in short scenario cards change \u2014 demonstrating that intersectional outcomes are not simply additive.\n\nBloom Taxonomy: Analyze (L4) \u2014 examine how overlapping categories interact to produce distinct outcomes.\nBloom Verb: examine\n\nLearning objective: Given a set of toggle-able identity categories, students can identify at least one documented historical or contemporary scenario in which the intersection of two categories produced an outcome different from either category alone.\n\nCanvas layout:\n- Left (350px): a stack of five toggle switches, one each for race, gender, nationality, class, and ability \u2014 each toggle has two or three preset positions (e.g., gender: woman/man/nonbinary)\n- Right (350px): a scenario card area displaying short, sourced historical or contemporary examples that match the currently selected toggle combination\n\nInteractive controls:\n- Five toggle switches as described\n- \"Show Single-Category View\" button that displays only scenario cards matching one selected category at a time, for direct comparison against the \"Show Combined View\" default\n\nData Visibility Requirements:\n  Stage 1: Default view shows toggles all in a neutral/unselected state and a prompt to make selections\n  Stage 2: As toggles are set, matching scenario cards populate the right panel, each citing its real-world basis (e.g., a specific court case, wage-gap study, or documented policy)\n  Stage 3: Toggling \"Show Single-Category View\" reveals that some combined-view cards have no single-category equivalent, visually demonstrating intersectionality's core claim\n\nInstructional Rationale: An Analyze-level objective about intersectionality is best served by letting students directly compare single-category and combined-category outcomes side by side, rather than reading a definition and a single example \u2014 the comparison is the point, so the interaction must make the comparison, not just the definition, visible.\n\nDefault parameters: all toggles unselected at load\n\nImplementation: p5.js canvas with toggle-switch UI elements and a small local dataset (JSON array) of scenario cards keyed by category combination.\n</details>",
+    "status": "Specified"
+  },
+  {
     "sim_id": "mechanism-of-land-dispossession",
     "title": "The Mechanism of Land Dispossession",
     "summary": "The Mechanism of Land Dispossession",
@@ -81,6 +109,20 @@
     "iframe_src": "../../sims/mechanism-of-land-dispossession/main.html",
     "iframe_height": "",
     "spec_text": "<details markdown=\"1\">\n<summary>The Mechanism of Land Dispossession</summary>\nType: timeline\n\n**sim-id:** mechanism-of-land-dispossession<br/>\n**Library:** vis-timeline<br/>\n**Status:** Specified\n\nPurpose: Connect the Indian Removal Act, the Trail of Tears, and the Homestead Act as three links in a single documented policy mechanism, not three unrelated events.\n\nBloom Taxonomy: Analyze (L4) \u2014 examine the causal relationships connecting policy, displacement, and redistribution.\nBloom Verb: examine\n\nLearning objective: Students can explain, using the specific events on this timeline, why \"land dispossession\" describes a connected policy mechanism rather than a series of coincidences.\n\nTime period: 1830-1862\n\nEvents (each clickable, opening an infobox with a primary-source citation type and a one-paragraph explanation):\n- 1830: Indian Removal Act signed \u2014 infobox notes this is the enabling legislation, citing the statute text as the primary source type\n- 1838-1839: Trail of Tears \u2014 infobox includes a note on documented death toll estimates and cites period military and missionary correspondence as primary sources\n- 1840s-1850s: Additional removals of Southeastern and Midwestern tribes under the same legal framework\n- 1862: Homestead Act signed \u2014 infobox explicitly connects the \"public domain\" land it distributes to land vacated by the prior three decades of removal, citing land office records as a primary source type\n\nVisual style: Horizontal timeline, single row, with a connecting highlighted band beneath all four events labeled \"Land Dispossession Mechanism\"\n\nColor coding: Red for removal/displacement events, orange for the connecting mechanism band, green for the Homestead Act redistribution event\n\nInteractive features: Clicking any event opens a detail panel; hovering the connecting band reveals a one-sentence summary of how the events link causally.\n\nImplementation: vis-timeline library with a JSON event array and a custom background band spanning the full date range.\n</details>",
+    "status": "Specified"
+  },
+  {
+    "sim_id": "packing-cracking-district-simulator",
+    "title": "Packing and Cracking District Simulator",
+    "summary": "Packing and Cracking District Simulator",
+    "heading_type": "Diagram",
+    "chapter": "05-government-representation-and-systemic-bias",
+    "element_type": "microsim",
+    "bloom_level": "Analyze",
+    "library": "p5.js",
+    "iframe_src": "../../sims/packing-cracking-district-simulator/main.html",
+    "iframe_height": "",
+    "spec_text": "<details markdown=\"1\">\n<summary>Packing and Cracking District Simulator</summary>\nType: microsim\n\n**sim-id:** packing-cracking-district-simulator<br/>\n**Library:** p5.js<br/>\n**Status:** Specified\n\nPurpose: Let students redraw district boundaries on a simplified grid of voters and see how packing and cracking change election outcomes without changing a single vote.\n\nBloom Taxonomy: Apply (L3) \u2014 use the packing/cracking techniques to produce a target outcome.\nBloom Verb: demonstrate\n\nLearning objective: Given a fixed grid of voters split 60/40 between two groups, students can draw district boundaries that produce a proportional outcome, then redraw them using packing and cracking to produce a disproportionate outcome \u2014 demonstrating that the same voters can produce very different representation depending only on how lines are drawn.\n\nCanvas layout:\n- Left (450px): a 10x10 grid of colored squares representing voters (blue/orange, fixed 60/40 split, randomized positions)\n- Right (250px): district boundary tools and a results readout\n\nInteractive controls:\n- \"Draw Boundary\" tool: click-drag to group grid squares into districts (5 districts total, must cover all 100 voters)\n- \"Reset Grid\" button (keeps the same 60/40 randomized positions)\n- \"Show Proportional Target\" toggle: overlays what a proportional outcome (3 blue-majority districts, 2 orange-majority districts) would look like\n- Results readout: live count of how many districts each color currently wins as boundaries are drawn\n\nData Visibility Requirements:\n  Stage 1: Show the ungrouped 100-voter grid with its 60/40 split clearly labeled\n  Stage 2: As the student draws each district boundary, show that district's internal vote count and which color currently \"wins\" it\n  Stage 3: Once all 5 districts are drawn, show the final seat count compared to the proportional target, with the gap (if any) highlighted\n\nInstructional Rationale: An Apply-level objective requires learners to use the technique themselves, not just read about it. Letting students draw their own boundaries and watch the seat count change in real time makes visible what a paragraph of prose can only describe \u2014 that gerrymandering requires no vote-count fraud at all, only boundary manipulation.\n\nDefault parameters: 60/40 voter split, 5 districts, randomized voter grid on each reset\n\nImplementation: p5.js canvas with a fixed grid of colored cells and a lasso/click-drag district-assignment tool; live vote tally per district recalculated on every boundary change.\n</details>",
     "status": "Specified"
   },
   {
@@ -140,6 +182,20 @@
     "status": "Specified"
   },
   {
+    "sim_id": "sentencing-outcome-comparator",
+    "title": "Sentencing Outcome Comparator",
+    "summary": "Sentencing Outcome Comparator",
+    "heading_type": "Diagram",
+    "chapter": "07-justice-system-and-criminality",
+    "element_type": "microsim",
+    "bloom_level": "Evaluate",
+    "library": "Chart.js",
+    "iframe_src": "../../sims/sentencing-outcome-comparator/main.html",
+    "iframe_height": "",
+    "spec_text": "<details markdown=\"1\">\n<summary>Sentencing Outcome Comparator</summary>\nType: microsim\n\n**sim-id:** sentencing-outcome-comparator<br/>\n**Library:** Chart.js<br/>\n**Status:** Specified\n\nPurpose: Let students compare sentencing-length distributions for a matched, comparable offense across demographic groups, drawn from representative published sentencing-commission data ranges.\n\nBloom Taxonomy: Evaluate (L5) \u2014 assess whether an observed disparity is consistent with a documented pattern of sentencing disparity.\nBloom Verb: assess\n\nLearning objective: Given representative sentencing-length data for a single offense category across demographic groups, students can identify whether a disparity exists, describe its size, and assess whether the disparity is consistent with the concept of sentencing disparity as defined in this chapter.\n\nChart type: Box-and-whisker or grouped bar chart\n\nPurpose: Show the distribution (not just the average) of sentence lengths for a single, held-constant offense category, split by demographic group\n\nX-axis: Demographic group categories (using representative, clearly labeled illustrative ranges consistent with published sentencing-commission reports, not individualized case data)\nY-axis: Sentence length in months\n\nData series: Representative distribution ranges per group for one illustrative offense category, sourced from the general pattern documented in U.S. Sentencing Commission demographic reports\n\nInteractive controls:\n- Dropdown: select a different (but similarly matched) offense category to compare whether the disparity pattern holds across offense types\n- Hover any bar or box: reveal the exact numeric range and the source category it represents\n\nTitle: \"Sentence Length Distribution for a Matched Offense, by Demographic Group\"\n\nAnnotations: A note clarifying that the offense category and severity are held constant across groups in this illustrative dataset, which is the condition under which \"sentencing disparity\" as defined in this chapter applies\n\nImplementation: Chart.js box-plot or grouped-bar plugin, reading from a small illustrative dataset file clearly labeled as representative rather than a specific real case.\n</details>",
+    "status": "Specified"
+  },
+  {
     "sim_id": "same-event-two-frames",
     "title": "Same Event, Two Frames",
     "summary": "Same Event, Two Frames",
@@ -154,6 +210,20 @@
     "status": "Specified"
   },
   {
+    "sim_id": "media-literacy-checklist-sorter",
+    "title": "Media Literacy Checklist Sorter",
+    "summary": "Media Literacy Checklist Sorter",
+    "heading_type": "Diagram",
+    "chapter": "08-representation-in-the-media",
+    "element_type": "microsim",
+    "bloom_level": "Evaluate",
+    "library": "p5.js",
+    "iframe_src": "../../sims/media-literacy-checklist-sorter/main.html",
+    "iframe_height": "",
+    "spec_text": "<details markdown=\"1\">\n<summary>Media Literacy Checklist Sorter</summary>\nType: microsim\n\n**sim-id:** media-literacy-checklist-sorter<br/>\n**Library:** p5.js<br/>\n**Status:** Specified\n\nPurpose: Give students a repeatable diagnostic tool: presented with a short media excerpt, sort its features into \"ordinary framing,\" \"specific named bias pattern,\" or \"likely propaganda.\"\n\nBloom Taxonomy: Evaluate (L5) \u2014 classify a media excerpt's features against defined criteria.\nBloom Verb: classify\n\nLearning objective: Given six short excerpt cards drawn from this chapter's named patterns (headline bias, stereotype in media, algorithmic bias, propaganda, and two neutral control examples), students can sort each card into the correct category and justify the sort using this chapter's vocabulary.\n\nCanvas layout:\n- Top: a shuffled row of six excerpt cards (short text snippets, each illustrating one pattern from this chapter, clearly fictional/illustrative rather than pulled from a real current news source)\n- Bottom: three labeled drop zones \u2014 \"Ordinary Framing,\" \"Named Bias Pattern (specify which),\" \"Likely Propaganda\"\n\nInteractive controls:\n- Drag-and-drop each card into a drop zone\n- When dropping into \"Named Bias Pattern,\" a dropdown appears requiring the student to specify which pattern (headline bias, stereotype in media, colorism in media, etc.)\n- \"Check My Sorting\" button reveals correct placements with a one-sentence justification for each\n\nData Visibility Requirements:\n  Stage 1: Six shuffled cards, no feedback yet\n  Stage 2: After each drop, card snaps into its zone (no correctness feedback yet, to allow full sorting first)\n  Stage 3: On \"Check My Sorting,\" each card is marked correct/incorrect with justification text shown\n\nInstructional Rationale: An Evaluate-level classification objective requires learners to apply multiple criteria simultaneously, not recall one definition at a time. A sorting task with a delayed \"check\" step (rather than instant per-card feedback) forces students to apply the full chapter's vocabulary before receiving correctness signals, closer to how they'll need to evaluate real, un-labeled media independently.\n\nImplementation: p5.js canvas with draggable card objects and defined drop-zone rectangles; a small local dataset of six illustrative excerpt cards with correct-category metadata.\n</details>",
+    "status": "Specified"
+  },
+  {
     "sim_id": "minnesota-tribal-nations-map",
     "title": "Minnesota Tribal Nations Map",
     "summary": "Minnesota Tribal Nations Map",
@@ -165,6 +235,20 @@
     "iframe_src": "../../sims/minnesota-tribal-nations-map/main.html",
     "iframe_height": "",
     "spec_text": "<details markdown=\"1\">\n<summary>Minnesota Tribal Nations Map</summary>\nType: map\n\n**sim-id:** minnesota-tribal-nations-map<br/>\n**Library:** Leaflet<br/>\n**Status:** Specified\n\nPurpose: Show the location and identity of Minnesota's eleven federally recognized tribal nations, each as a distinct, named sovereign government rather than an undifferentiated category.\n\nBloom Taxonomy: Remember (L1) \u2014 identify Minnesota's tribal nations and their locations.\nBloom Verb: identify\n\nLearning objective: Students can identify, by name and general location, the tribal nations with reservations or trust land in Minnesota, and distinguish Dakota from Ojibwe (Anishinaabe) nations among them.\n\nGeographic scope: State of Minnesota\n\nLocations: Reservation and trust-land boundaries for each of the eleven federally recognized tribal nations in Minnesota, color-coded by nation (Ojibwe nations in one color family, Dakota nations in a distinct color family)\n\nData flows: N/A (boundary map, not a flow map)\n\nLabels: Each nation's name in both its own language and common English usage, displayed on click\n\nLegend: Color key distinguishing Ojibwe and Dakota nations; note explaining that boundary size on the map reflects present-day reservation and trust land, not historical territory (a distinction the infobox for each nation makes explicit, connecting to Chapter 4's land dispossession content)\n\nInteractive features:\n- Click any tribal nation's territory: opens an infobox with the nation's name, language family, tribal government structure, and a link-style reference to its official government website (described, not hyperlinked directly, for specification purposes)\n- Toggle: \"Show Historical Territory\" overlay, contrasting present-day reservation boundaries with the much larger documented historical territory, reinforcing the land dispossession concept from Chapter 4\n\nImplementation: Leaflet.js with a GeoJSON layer of tribal boundaries and a toggle-able historical-territory GeoJSON overlay.\n</details>",
+    "status": "Specified"
+  },
+  {
+    "sim_id": "land-acknowledgment-vs-material-action",
+    "title": "Land Acknowledgment vs. Material Action Evaluator",
+    "summary": "Land Acknowledgment vs. Material Action Evaluator",
+    "heading_type": "Diagram",
+    "chapter": "09-indigenous-sovereignty-and-tribal-relations",
+    "element_type": "microsim",
+    "bloom_level": "Evaluate",
+    "library": "p5.js",
+    "iframe_src": "../../sims/land-acknowledgment-vs-material-action/main.html",
+    "iframe_height": "",
+    "spec_text": "<details markdown=\"1\">\n<summary>Land Acknowledgment vs. Material Action Evaluator</summary>\nType: microsim\n\n**sim-id:** land-acknowledgment-vs-material-action<br/>\n**Library:** p5.js<br/>\n**Status:** Specified\n\nPurpose: Let students evaluate a set of institutional responses to Indigenous sovereignty issues along a spectrum from symbolic to material, applying this chapter's vocabulary.\n\nBloom Taxonomy: Evaluate (L5) \u2014 rank institutional actions by their material impact on Indigenous sovereignty.\nBloom Verb: rank\n\nLearning objective: Given eight example institutional actions (ranging from a spoken land acknowledgment with no follow-up to returning managed land to tribal governance), students can rank them along a symbolic-to-material spectrum and justify the ranking using this chapter's vocabulary (self-determination, repatriation, federal recognition).\n\nCanvas layout:\n- A horizontal spectrum bar labeled \"Symbolic\" on the left and \"Material / Structural\" on the right\n- Eight draggable action cards below the bar (e.g., \"Spoken land acknowledgment at an event,\" \"University repatriates ancestral remains under NAGPRA,\" \"State agency co-manages natural resources with a tribal government,\" \"School removes a Native-themed mascot\")\n\nInteractive controls:\n- Drag each card to a position on the spectrum\n- \"Compare to Reference Ranking\" button reveals an expert-informed reference position for each card (drawn from published discussion by Indigenous scholars and organizations on this spectrum) alongside the student's own placement, with a short explanation for each\n\nData Visibility Requirements:\n  Stage 1: Blank spectrum, eight unplaced cards\n  Stage 2: Cards placed by the student, positions saved\n  Stage 3: Reference ranking overlay shown alongside student ranking for direct comparison, with justification text for any large gaps\n\nInstructional Rationale: An Evaluate-level ranking objective works best when students commit to a position before seeing a reference answer \u2014 placing cards first, then comparing, preserves the evaluative work rather than turning the exercise into simple lookup.\n\nImplementation: p5.js canvas with a fixed spectrum bar and draggable card objects snapping to their x-position on release; reference data stored as a small local dataset.\n</details>",
     "status": "Specified"
   },
   {
@@ -238,6 +322,20 @@
     "status": "Specified"
   },
   {
+    "sim_id": "religious-persecution-to-pluralism-spectrum",
+    "title": "Religious Persecution to Pluralism Spectrum",
+    "summary": "Religious Persecution to Pluralism Spectrum",
+    "heading_type": "Diagram",
+    "chapter": "12-religion-and-cultural-diffusion",
+    "element_type": "microsim",
+    "bloom_level": "Evaluate",
+    "library": "p5.js",
+    "iframe_src": "../../sims/religious-persecution-to-pluralism-spectrum/main.html",
+    "iframe_height": "",
+    "spec_text": "<details markdown=\"1\">\n<summary>Religious Persecution to Pluralism Spectrum</summary>\nType: microsim\n\n**sim-id:** religious-persecution-to-pluralism-spectrum<br/>\n**Library:** p5.js<br/>\n**Status:** Specified\n\nPurpose: Let students place historical and contemporary case studies along a spectrum from active persecution to full legal pluralism, applying specific documented legal and social criteria rather than impression alone.\n\nBloom Taxonomy: Evaluate (L5) \u2014 assess where a case study falls on a persecution-to-pluralism spectrum using defined criteria.\nBloom Verb: assess\n\nLearning objective: Given six brief case-study cards describing a religious minority's legal and social status in a specific historical or contemporary context, students can place each on a persecution-to-pluralism spectrum and justify the placement using at least one specific legal or social criterion (e.g., right to worship openly, legal protection from discrimination, access to public office).\n\nCanvas layout:\n- A horizontal spectrum bar labeled \"Active Persecution\" on the left and \"Full Legal Pluralism\" on the right, with a labeled midpoint \"Toleration Without Full Legal Protection\"\n- Six draggable case-study cards below the bar, each citing a specific historical or contemporary example with source-type citation\n\nInteractive controls:\n- Drag each card to a spectrum position\n- Click any placed card: reveals a short justification prompt requiring the student to select which criterion (from a fixed list: right to worship, legal antidiscrimination protection, access to public office, freedom from forced conversion) most influenced their placement\n- \"Compare to Documented Assessment\" button reveals a reference placement with citation to the type of historical or legal source supporting it\n\nData Visibility Requirements:\n  Stage 1: Six unplaced cards, blank spectrum\n  Stage 2: Student places cards and selects justifying criteria\n  Stage 3: Reference placements shown alongside student placements for comparison, highlighting any large gaps for classroom discussion\n\nInstructional Rationale: An Evaluate-level objective about a spectrum concept (persecution to pluralism) requires students to apply specific, named criteria rather than a vague overall impression \u2014 requiring criterion selection alongside placement makes the evaluative reasoning explicit and checkable.\n\nImplementation: p5.js canvas with a fixed spectrum bar, draggable case-study cards, and a small local dataset of six case studies with reference placements and citations.\n</details>",
+    "status": "Specified"
+  },
+  {
     "sim_id": "suppression-and-revitalization-mirror",
     "title": "Suppression and Revitalization as Mirror Processes",
     "summary": "Suppression and Revitalization as Mirror Processes",
@@ -252,6 +350,20 @@
     "status": "Specified"
   },
   {
+    "sim_id": "spot-the-translation-choice",
+    "title": "Spot the Translation Choice",
+    "summary": "Spot the Translation Choice",
+    "heading_type": "Diagram",
+    "chapter": "13-language-and-power",
+    "element_type": "microsim",
+    "bloom_level": "Analyze",
+    "library": "p5.js",
+    "iframe_src": "../../sims/spot-the-translation-choice/main.html",
+    "iframe_height": "",
+    "spec_text": "<details markdown=\"1\">\n<summary>Spot the Translation Choice</summary>\nType: microsim\n\n**sim-id:** spot-the-translation-choice<br/>\n**Library:** p5.js<br/>\n**Status:** Specified\n\nPurpose: Show students three different valid English translations of the same short non-English source excerpt, so they can see translation bias operating even without any translator acting in bad faith.\n\nBloom Taxonomy: Analyze (L4) \u2014 examine differences among multiple valid translations of the same source.\nBloom Verb: examine\n\nLearning objective: Given three professionally plausible translations of the same short excerpt, students can identify specific word or phrase choices that differ, and explain how each choice subtly shifts the excerpt's tone or emphasis without any translation being factually \"wrong.\"\n\nCanvas layout:\n- Three side-by-side text panels, each showing a different English translation of the same short (2-3 sentence) illustrative excerpt\n- Below the panels, a highlight-and-compare control\n\nInteractive controls:\n- Click any word or phrase in any panel: highlights the corresponding word/phrase choice across all three panels for direct comparison\n- \"Show Translator's Note\" toggle: reveals a short explanatory note for each panel describing what interpretive choice that translation prioritized (e.g., literal word-for-word accuracy vs. capturing idiomatic tone vs. matching poetic rhythm)\n\nData Visibility Requirements:\n  Stage 1: Three panels shown side by side with no highlighting\n  Stage 2: On word click, matching word/phrase spans highlight across all three panels\n  Stage 3: On toggle, translator's-note text appears beneath each panel\n\nInstructional Rationale: An Analyze-level objective about translation bias requires direct comparison of multiple legitimate options, not a single \"biased vs. unbiased\" binary \u2014 showing three good-faith translations side by side demonstrates that translation bias is a structural feature of translation itself, not necessarily a sign of translator misconduct.\n\nImplementation: p5.js or HTML/CSS three-column layout with clickable spans pre-marked in the source text and a toggle-controlled note panel.\n</details>",
+    "status": "Specified"
+  },
+  {
     "sim_id": "triangulating-three-source-types",
     "title": "Triangulating Three Source Types",
     "summary": "Triangulating Three Source Types",
@@ -263,6 +375,20 @@
     "iframe_src": "../../sims/triangulating-three-source-types/main.html",
     "iframe_height": "",
     "spec_text": "<details markdown=\"1\">\n<summary>Triangulating Three Source Types</summary>\nType: diagram\n\n**sim-id:** triangulating-three-source-types<br/>\n**Library:** p5.js<br/>\n**Status:** Specified\n\nPurpose: Let students practice source triangulation using a worked example with a government record, a newspaper account, and an oral history excerpt describing the same local event, to see where the three converge and where one adds information the others lack.\n\nBloom Taxonomy: Apply (L3) \u2014 apply source triangulation to a worked example.\nBloom Verb: apply\n\nLearning objective: Given three short source excerpts (a government record, a newspaper account, and an oral history excerpt) describing the same illustrative local event, students can identify specific claims that all three sources agree on, and specific claims found in only one source, and explain what that gap suggests about the historical record.\n\nComponents to show:\n- Three labeled source panels arranged in a triangle: \"Government Record,\" \"Newspaper Account,\" \"Oral History Excerpt\"\n- A center \"Convergence Zone\" area\n\nConnections: draggable claim tags (short factual statements extracted from each source) that students drag into the center Convergence Zone if they believe the claim is supported by multiple sources, or leave at their originating panel if supported by only one\n\nInteractive controls:\n- Drag claim tags between panels and the center zone\n- \"Check Triangulation\" button reveals which claims are genuinely corroborated across sources and which are unique to a single source type, with a note on why the unique claims matter (often the oral history excerpt contains detail absent from official records \u2014 precisely the kind of detail this course has asked you to seek out)\n\nStyle: Triangular layout with three source panels and a center convergence zone\n\nLabels: source-type panel headers, claim tag text\n\nColor scheme: one color per source type panel, with the convergence zone in a neutral background color\n\nImplementation: p5.js canvas with draggable text-tag objects and defined drop-zone regions; a small worked-example dataset of claim tags with correct-convergence metadata.\n</details>",
+    "status": "Specified"
+  },
+  {
+    "sim_id": "capstone-format-selector",
+    "title": "Capstone Format Selector",
+    "summary": "Capstone Format Selector",
+    "heading_type": "Diagram",
+    "chapter": "14-research-methods-and-capstone-project",
+    "element_type": "microsim",
+    "bloom_level": "Create",
+    "library": "p5.js",
+    "iframe_src": "../../sims/capstone-format-selector/main.html",
+    "iframe_height": "",
+    "spec_text": "<details markdown=\"1\">\n<summary>Capstone Format Selector</summary>\nType: microsim\n\n**sim-id:** capstone-format-selector<br/>\n**Library:** p5.js<br/>\n**Status:** Specified\n\nPurpose: Help students choose a capstone format by answering a short series of questions about their research question, available sources, and interests.\n\nBloom Taxonomy: Create (L6) \u2014 begin designing an original capstone project.\nBloom Verb: design\n\nLearning objective: Using their own research question and available source types as input, students receive a recommended capstone format (documentary, exhibit, policy proposal, or community action) along with a brief rationale, as a starting point for designing their own original project.\n\nCanvas layout:\n- A short branching question sequence (4-5 questions) presented one at a time, each with 2-3 button-choice answers\n- A results panel that appears after the sequence, showing the recommended format(s) with a rationale\n\nInteractive controls:\n- Button choices for each question (e.g., \"Do you have access to people who could be interviewed about this topic?\" Yes/No/Not sure; \"Is there a specific, current policy connected to your topic?\" Yes/No)\n- \"Start Over\" button to retry with different answers\n- \"See All Formats\" button that bypasses the questions and shows the full comparison table from this chapter directly\n\nData Visibility Requirements:\n  Stage 1: First question shown alone\n  Stage 2: Each answer reveals the next question, building a visible trail of prior answers at the top of the panel\n  Stage 3: Final results panel shows the recommended format(s), a one-sentence rationale tied to the student's specific answers, and a link-style reference back to this chapter's comparison table for full details\n\nInstructional Rationale: A Create-level objective benefits from a low-stakes, exploratory tool that helps students move from \"I don't know where to start\" to a concrete first decision, without dictating a single correct format \u2014 multiple valid formats can result from the same set of answers, and the tool should say so rather than forcing a single answer.\n\nImplementation: p5.js canvas with a simple branching-logic state machine driven by button clicks; recommendation logic implemented as a small decision table.\n</details>",
     "status": "Specified"
   }
 ]

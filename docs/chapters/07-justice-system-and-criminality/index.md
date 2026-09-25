@@ -127,7 +127,7 @@ This chapter does not end with only a description of the problem. **Restorative 
 
 #### Diagram: Sentencing Outcome Comparator
 
-<iframe src="../../sims/sentencing-outcome-comparator/main.html" width="100%" height="500px" scrolling="no"></iframe>
+<iframe src="../../sims/sentencing-outcome-comparator/main.html" width="100%" height="502px" scrolling="no"></iframe>
 
 <details markdown="1">
 <summary>Sentencing Outcome Comparator</summary>

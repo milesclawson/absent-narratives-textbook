@@ -165,7 +165,7 @@ This chapter closes with a distinction that gets flattened in everyday conversat
 
 The two are not opposites, and neither is automatically correct — the right choice depends on the goal. When Chapter 5 examines voting rights, you will see equality (one person, one vote) treated as a bedrock principle precisely because unequal voting power was historically used as a tool of systemic oppression. When Chapter 6 examines economic exclusion, you will see equity-based policies proposed precisely because decades of unequal starting positions — produced by exactly the power structure diagrammed earlier in this chapter — mean identical treatment today would preserve, not close, an existing gap.
 
-#### MicroSim: Equity vs. Equality Resource Allocator
+#### Diagram: Equity vs. Equality Resource Allocator
 
 <iframe src="../../sims/equity-vs-equality-allocator/main.html" width="100%" height="500px" scrolling="no"></iframe>
 

@@ -1,0 +1,202 @@
+[
+  {
+    "sim_id": "compounding-chain-of-economic-exclusion",
+    "title": "The Compounding Chain of Economic Exclusion",
+    "chapter": "06-economic-exclusion",
+    "bloom_level": "Evaluate",
+    "library": "Mermaid",
+    "status": "specified",
+    "has_iframe": true,
+    "quality_score": null
+  },
+  {
+    "sim_id": "diffusion-model-comparator",
+    "title": "Diffusion Model Comparator",
+    "chapter": "10-migration-colonialism-and-global-perspectives",
+    "bloom_level": "Analyze",
+    "library": "vis-network",
+    "status": "specified",
+    "has_iframe": true,
+    "quality_score": null
+  },
+  {
+    "sim_id": "dominant-vs-counter-narrative-map",
+    "title": "Dominant Narrative vs. Counter-Narrative Concept Map",
+    "chapter": "01-foundations-of-historical-inquiry",
+    "bloom_level": "Create",
+    "library": "p5.js",
+    "status": "specified",
+    "has_iframe": true,
+    "quality_score": null
+  },
+  {
+    "sim_id": "four-layers-of-government-representation",
+    "title": "Four Layers of Government Representation",
+    "chapter": "05-government-representation-and-systemic-bias",
+    "bloom_level": "Understand",
+    "library": "vis-network",
+    "status": "specified",
+    "has_iframe": true,
+    "quality_score": null
+  },
+  {
+    "sim_id": "global-migration-pattern-map",
+    "title": "Global Migration Pattern Map",
+    "chapter": "10-migration-colonialism-and-global-perspectives",
+    "bloom_level": "Analyze",
+    "library": "Leaflet",
+    "status": "specified",
+    "has_iframe": true,
+    "quality_score": null
+  },
+  {
+    "sim_id": "graph-viewer",
+    "title": "Graph Viewer",
+    "chapter": "",
+    "bloom_level": "",
+    "library": "vis-network",
+    "status": "implemented",
+    "has_iframe": false,
+    "quality_score": null
+  },
+  {
+    "sim_id": "historians-cross-checking-process",
+    "title": "The Historian's Cross-Checking Process",
+    "chapter": "01-foundations-of-historical-inquiry",
+    "bloom_level": "Apply",
+    "library": "Mermaid",
+    "status": "specified",
+    "has_iframe": true,
+    "quality_score": null
+  },
+  {
+    "sim_id": "mechanism-of-land-dispossession",
+    "title": "The Mechanism of Land Dispossession",
+    "chapter": "04-case-study-manifest-destiny",
+    "bloom_level": "Analyze",
+    "library": "vis-timeline",
+    "status": "specified",
+    "has_iframe": true,
+    "quality_score": null
+  },
+  {
+    "sim_id": "minnesota-tribal-nations-map",
+    "title": "Minnesota Tribal Nations Map",
+    "chapter": "09-indigenous-sovereignty-and-tribal-relations",
+    "bloom_level": "Understand",
+    "library": "Leaflet",
+    "status": "specified",
+    "has_iframe": true,
+    "quality_score": null
+  },
+  {
+    "sim_id": "policing-history-timeline",
+    "title": "Policing History Timeline",
+    "chapter": "07-justice-system-and-criminality",
+    "bloom_level": "Understand",
+    "library": "vis-timeline",
+    "status": "specified",
+    "has_iframe": true,
+    "quality_score": null
+  },
+  {
+    "sim_id": "power-structure-pyramid",
+    "title": "The Power Structure Pyramid",
+    "chapter": "02-vocabulary-of-power-and-exclusion",
+    "bloom_level": "Understand",
+    "library": "p5.js",
+    "status": "specified",
+    "has_iframe": true,
+    "quality_score": null
+  },
+  {
+    "sim_id": "redlined-map-then-and-now",
+    "title": "A Redlined Map, Then and Now",
+    "chapter": "06-economic-exclusion",
+    "bloom_level": "Analyze",
+    "library": "Leaflet",
+    "status": "specified",
+    "has_iframe": true,
+    "quality_score": null
+  },
+  {
+    "sim_id": "same-event-two-frames",
+    "title": "Same Event, Two Frames",
+    "chapter": "08-representation-in-the-media",
+    "bloom_level": "Analyze",
+    "library": "p5.js",
+    "status": "specified",
+    "has_iframe": true,
+    "quality_score": null
+  },
+  {
+    "sim_id": "shared-origins-divergent-paths",
+    "title": "Shared Origins, Divergent Paths",
+    "chapter": "12-religion-and-cultural-diffusion",
+    "bloom_level": "Understand",
+    "library": "vis-timeline",
+    "status": "specified",
+    "has_iframe": true,
+    "quality_score": null
+  },
+  {
+    "sim_id": "slavery-to-desegregation-chain",
+    "title": "From Slavery to Desegregation \u2014 A Traceable Chain",
+    "chapter": "11-civil-rights-and-liberation-movements",
+    "bloom_level": "Understand",
+    "library": "vis-timeline",
+    "status": "specified",
+    "has_iframe": true,
+    "quality_score": null
+  },
+  {
+    "sim_id": "stereotype-to-discrimination-chain",
+    "title": "From Stereotype to Discrimination \u2014 A Clickable Causal Chain",
+    "chapter": "02-vocabulary-of-power-and-exclusion",
+    "bloom_level": "Analyze",
+    "library": "Mermaid",
+    "status": "specified",
+    "has_iframe": true,
+    "quality_score": null
+  },
+  {
+    "sim_id": "strategy-toolkit-social-movement-tactic",
+    "title": "Strategy Toolkit \u2014 Choosing a Social Movement Tactic",
+    "chapter": "11-civil-rights-and-liberation-movements",
+    "bloom_level": "Analyze",
+    "library": "p5.js",
+    "status": "specified",
+    "has_iframe": true,
+    "quality_score": null
+  },
+  {
+    "sim_id": "suppression-and-revitalization-mirror",
+    "title": "Suppression and Revitalization as Mirror Processes",
+    "chapter": "13-language-and-power",
+    "bloom_level": "Understand",
+    "library": "Mermaid",
+    "status": "specified",
+    "has_iframe": true,
+    "quality_score": null
+  },
+  {
+    "sim_id": "tracing-a-social-construct",
+    "title": "Tracing a Social Construct",
+    "chapter": "03-identity-race-and-social-construction",
+    "bloom_level": "Understand",
+    "library": "vis-timeline",
+    "status": "specified",
+    "has_iframe": true,
+    "quality_score": null
+  },
+  {
+    "sim_id": "triangulating-three-source-types",
+    "title": "Triangulating Three Source Types",
+    "chapter": "14-research-methods-and-capstone-project",
+    "bloom_level": "Apply",
+    "library": "p5.js",
+    "status": "specified",
+    "has_iframe": true,
+    "quality_score": null
+  }
+]

@@ -132,7 +132,7 @@ Here is a summary to help you select a format for your own capstone:
 
 All four formats are legitimate expressions of the same underlying work: a properly sourced, ethically conducted **capstone project** — the culminating research project of this course, in which a student selects a research question, conducts archival and/or oral history research, applies source triangulation and the ethics of representation, and produces a narrative reconstruction in one of the formats above.
 
-#### MicroSim: Capstone Format Selector
+#### Diagram: Capstone Format Selector
 
 <iframe src="../../sims/capstone-format-selector/main.html" width="100%" height="500px" scrolling="no"></iframe>
 

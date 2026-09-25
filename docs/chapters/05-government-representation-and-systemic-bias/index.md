@@ -57,7 +57,7 @@ Every ten years, following the U.S. Census, state governments redraw the boundar
 
 Before we look at how packing and cracking actually redraw a map, it helps to see the two techniques side by side rather than only in the abstract.
 
-#### MicroSim: Packing and Cracking District Simulator
+#### Diagram: Packing and Cracking District Simulator
 
 <iframe src="../../sims/packing-cracking-district-simulator/main.html" width="100%" height="500px" scrolling="no"></iframe>
 

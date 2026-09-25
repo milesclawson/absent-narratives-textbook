@@ -126,7 +126,7 @@ The distinction matters because the appropriate response differs: ordinary frami
 
 Beyond identifying bias, this course asks you to practice an active response: **counter-storytelling**, the deliberate practice of telling stories from marginalized perspectives to challenge dominant, stereotyped, or incomplete media narratives — the media-specific application of the counter-narrative concept introduced in Chapter 1. Counter-storytelling is not simply complaining about bias; it is the constructive half of media literacy, and it directly previews the capstone research project you will undertake in Chapter 14.
 
-#### MicroSim: Media Literacy Checklist Sorter
+#### Diagram: Media Literacy Checklist Sorter
 
 <iframe src="../../sims/media-literacy-checklist-sorter/main.html" width="100%" height="500px" scrolling="no"></iframe>
 

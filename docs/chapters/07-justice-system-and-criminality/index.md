@@ -125,7 +125,7 @@ One historical term captures what happens when a person facing unjust or selecti
 
 This chapter does not end with only a description of the problem. **Restorative justice** is an alternative approach to addressing crime that focuses on repairing harm, accountability, and reconciliation between the offender, the victim, and the community, rather than solely on punishment. Restorative justice is one of several concrete proposals, alongside stronger enforcement of due process protections, aimed at addressing the specific patterns of sentencing disparity, mass incarceration, and the school-to-prison pipeline this chapter has documented.
 
-#### MicroSim: Sentencing Outcome Comparator
+#### Diagram: Sentencing Outcome Comparator
 
 <iframe src="../../sims/sentencing-outcome-comparator/main.html" width="100%" height="500px" scrolling="no"></iframe>
 

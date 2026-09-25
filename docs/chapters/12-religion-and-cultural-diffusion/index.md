@@ -105,7 +105,7 @@ Every tradition examined in this chapter has, at some point in its history, both
 
 The documented alternative to religious persecution is **religious pluralism**: a societal condition in which multiple religious traditions coexist with legal protection and mutual social tolerance, rather than one tradition holding exclusive legal or social dominance. Religious pluralism is a specific, achievable, and historically documented social arrangement — not simply the absence of persecution, but the active legal and cultural protection of multiple traditions simultaneously.
 
-#### MicroSim: Religious Persecution to Pluralism Spectrum
+#### Diagram: Religious Persecution to Pluralism Spectrum
 
 <iframe src="../../sims/religious-persecution-to-pluralism-spectrum/main.html" width="100%" height="500px" scrolling="no"></iframe>
 

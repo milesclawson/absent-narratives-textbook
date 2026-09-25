@@ -118,7 +118,7 @@ Contemporary practice has produced specific, concrete tools worth naming. A **la
 
 **Indigenous iconography** — symbols, imagery, and visual representations associated with Indigenous cultures — has itself been a contested site, frequently appropriated by non-Indigenous institutions (sports mascots, brand logos) in ways many Indigenous communities and organizations have identified as disrespectful or inaccurate, connecting directly back to Chapter 8's discussion of stereotype in media. In contrast, **contemporary Indigenous voice** refers to present-day Indigenous authors, journalists, artists, and leaders speaking for themselves about Indigenous history, identity, and current issues — the direct, ongoing corrective to both erased Indigenous voices (Chapter 4) and misappropriated Indigenous iconography.
 
-#### MicroSim: Land Acknowledgment vs. Material Action Evaluator
+#### Diagram: Land Acknowledgment vs. Material Action Evaluator
 
 <iframe src="../../sims/land-acknowledgment-vs-material-action/main.html" width="100%" height="500px" scrolling="no"></iframe>
 

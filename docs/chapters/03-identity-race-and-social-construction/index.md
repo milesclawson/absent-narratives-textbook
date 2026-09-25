@@ -115,7 +115,7 @@ Intersectionality is easiest to understand through a comparison. A Black woman's
 
 Finally, the combination of ethnicity, sense of place, and inherited practices produces **cultural identity**: the sense of belonging a person feels toward a specific culture's shared traditions, language, values, and practices, which may or may not align neatly with their racial or national categories. A person can hold a strong cultural identity connected to a heritage their legal nationality does not reflect, or can feel disconnected from a cultural identity that outsiders assume they hold based on their race alone.
 
-#### MicroSim: Intersectionality Layer Explorer
+#### Diagram: Intersectionality Layer Explorer
 
 <iframe src="../../sims/intersectionality-layer-explorer/main.html" width="100%" height="500px" scrolling="no"></iframe>
 

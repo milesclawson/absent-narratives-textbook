@@ -97,7 +97,7 @@ This chapter's connection to historical method comes through **oral tradition**:
 
 Working with any account not originally recorded in a reader's own language raises a final concern: **translation bias**, the distortion of meaning, tone, or nuance that occurs when a source is translated from one language to another, which can reflect the translator's own author perspective (Chapter 1) even when the translation is made in good faith. Translation bias is not necessarily intentional distortion — it can result simply from the fact that no two languages map perfectly onto each other, which means every translation involves interpretive choices a monolingual reader may never notice were made.
 
-#### MicroSim: Spot the Translation Choice
+#### Diagram: Spot the Translation Choice
 
 <iframe src="../../sims/spot-the-translation-choice/main.html" width="100%" height="500px" scrolling="no"></iframe>
 

@@ -1,0 +1,175 @@
+{
+  "chapter": "Language and Power",
+  "chapter_file": "docs/chapters/13-language-and-power/index.md",
+  "quiz_file": "docs/chapters/13-language-and-power/quiz.md",
+  "generated_date": "2026-09-24",
+  "total_questions": 10,
+  "answer_distribution": {
+    "A": 3,
+    "B": 2,
+    "C": 3,
+    "D": 2
+  },
+  "questions": [
+    {
+      "id": "13-language-and-power-q001",
+      "chapter": "Language and Power",
+      "chapter_file": "docs/chapters/13-language-and-power/index.md",
+      "question_text": "How does this chapter define linguistic suppression?",
+      "options": {
+        "A": "The natural, accidental decline of a language over time with no policy involved",
+        "B": "A synonym for code-switching between two dialects",
+        "C": "The deliberate prohibition or discouragement of a group's language by a dominant power, typically as part of a broader strategy of cultural suppression",
+        "D": "The organized effort by a community to restore and expand the use of an endangered language"
+      },
+      "correct_answer": "C",
+      "explanation": "Linguistic suppression is the deliberate prohibition or discouragement of a group's language by a dominant power, exemplified by the boarding school era's explicit, stated policy of punishing Indigenous children for speaking their own languages. Option A wrongly frames suppression as accidental rather than a documented, dated policy. Option B confuses it with a different concept entirely. Option D describes language revitalization, the reversing process, not suppression itself.",
+      "concept": "Linguistic Suppression\n\n---",
+      "quiz_file": "docs/chapters/13-language-and-power/quiz.md"
+    },
+    {
+      "id": "13-language-and-power-q002",
+      "chapter": "Language and Power",
+      "chapter_file": "docs/chapters/13-language-and-power/index.md",
+      "question_text": "What is code-switching, as defined in this chapter?",
+      "options": {
+        "A": "The practice of shifting between languages, dialects, or registers of speech depending on social context, often practiced by bilingual or multidialectal speakers to navigate different social or professional environments",
+        "B": "A federal policy banning the use of a specific language in schools",
+        "C": "The distortion of meaning that occurs when translating a source from one language to another",
+        "D": "Prejudice against speakers of a nonstandard dialect or accent"
+      },
+      "correct_answer": "A",
+      "explanation": "Code-switching is the practice of shifting between languages, dialects, or registers depending on social context, and the chapter notes it is frequently a survival skill rather than simply a linguistic curiosity, often a direct response to dialect bias. Option B describes linguistic suppression, a different concept. Option C describes translation bias. Option D describes dialect bias, the phenomenon code-switching often responds to.",
+      "concept": "Code-Switching\n\n---",
+      "quiz_file": "docs/chapters/13-language-and-power/quiz.md"
+    },
+    {
+      "id": "13-language-and-power-q003",
+      "chapter": "Language and Power",
+      "chapter_file": "docs/chapters/13-language-and-power/index.md",
+      "question_text": "What does the chapter say about the linguistic validity of nonstandard dialects, in the context of dialect bias?",
+      "options": {
+        "A": "Linguists agree that dialects associated with dominant racial, regional, or class groups are objectively more grammatically correct",
+        "B": "Dialect bias has been scientifically proven accurate by linguistic research",
+        "C": "Nonstandard dialects have no grammatical structure of their own",
+        "D": "Despite dialect bias treating a dominant dialect as more correct, intelligent, or professional, linguists generally agree that no dialect is inherently more grammatically valid than another"
+      },
+      "correct_answer": "D",
+      "explanation": "The chapter explicitly notes that despite dialect bias treating a dominant dialect as more correct or professional, linguists generally agree no dialect is inherently more grammatically valid than another \u2014 meaning dialect bias is a social judgment, not a linguistic fact. Option A and B both misstate linguistic consensus as supporting the bias, which the chapter directly denies. Option C contradicts basic linguistic understanding the chapter assumes.",
+      "concept": "Dialect Bias\n\n---",
+      "quiz_file": "docs/chapters/13-language-and-power/quiz.md"
+    },
+    {
+      "id": "13-language-and-power-q004",
+      "chapter": "Language and Power",
+      "chapter_file": "docs/chapters/13-language-and-power/index.md",
+      "question_text": "Why does the chapter say oral tradition has been \"historically undervalued as a legitimate historical source by academic historiography\"?",
+      "options": {
+        "A": "Because oral tradition has been demonstrated to be inaccurate in every documented case",
+        "B": "Because academic historiography privileged written records over spoken, generationally transmitted accounts, despite oral tradition's demonstrated accuracy across many documented cases",
+        "C": "Because oral tradition was invented after Chapter 1's definition of a primary source",
+        "D": "Because oral tradition only exists in cultures that also practice linguistic suppression"
+      },
+      "correct_answer": "B",
+      "explanation": "The chapter explains that dominant Western historiography privileged written records, treating oral tradition with unwarranted skepticism relative to written documents of comparable or lesser reliability, despite oral tradition's demonstrated accuracy across many documented cases. Option A directly contradicts the chapter's statement about oral tradition's demonstrated accuracy. Option C misstates the chronological relationship between the two concepts. Option D invents a connection the chapter does not make.",
+      "concept": "Oral Tradition\n\n---",
+      "quiz_file": "docs/chapters/13-language-and-power/quiz.md"
+    },
+    {
+      "id": "13-language-and-power-q005",
+      "chapter": "Language and Power",
+      "chapter_file": "docs/chapters/13-language-and-power/index.md",
+      "question_text": "How does the chapter connect language revitalization to the self-determination concept from Chapter 9?",
+      "options": {
+        "A": "Language revitalization has no documented connection to self-determination",
+        "B": "Language revitalization is a form of linguistic suppression applied to a dominant language",
+        "C": "Language revitalization is a direct expression of self-determination \u2014 a community exercising its own authority over its own linguistic future, often against the ongoing effects of a suppression policy set in motion generations earlier",
+        "D": "Self-determination requires the elimination of language revitalization efforts"
+      },
+      "correct_answer": "C",
+      "explanation": "The chapter explicitly describes language revitalization as a direct expression of Chapter 9's self-determination concept: a community exercising its own authority over its own linguistic future, often in direct response to a suppression policy set in motion generations earlier. Option A denies this explicit connection. Option B confuses revitalization with its mirror-image opposite process. Option D contradicts the chapter's framing of revitalization as an exercise of self-determination, not opposed to it.",
+      "concept": "Language Revitalization\n\n---",
+      "quiz_file": "docs/chapters/13-language-and-power/quiz.md"
+    },
+    {
+      "id": "13-language-and-power-q006",
+      "chapter": "Language and Power",
+      "chapter_file": "docs/chapters/13-language-and-power/index.md",
+      "question_text": "A hiring manager rates a job candidate as less competent after hearing them speak in a nonstandard regional dialect during an interview, despite the candidate's qualifications being identical to other applicants. Which concept does this scenario apply?",
+      "options": {
+        "A": "Dialect bias, prejudice against speakers of a nonstandard dialect or accent in which a dominant dialect is treated as more correct, intelligent, or professional than others",
+        "B": "Language revitalization, because it involves a professional evaluation",
+        "C": "Oral tradition, because it involves spoken communication",
+        "D": "Translation bias, because it involves interpreting spoken language"
+      },
+      "correct_answer": "A",
+      "explanation": "This scenario is a direct application of dialect bias: a hiring manager judging a candidate's competence based on dialect is applying prejudice through a linguistic proxy, connecting directly to Chapter 2's stereotype-to-discrimination chain, often without recognizing the bias is occurring. Option B misapplies a concept about community-led language restoration. Option C misapplies a concept about generational historical transmission. Option D misapplies a concept specific to translation between languages, not dialect judgment within one.",
+      "concept": "Dialect Bias\n\n---",
+      "quiz_file": "docs/chapters/13-language-and-power/quiz.md"
+    },
+    {
+      "id": "13-language-and-power-q007",
+      "chapter": "Language and Power",
+      "chapter_file": "docs/chapters/13-language-and-power/index.md",
+      "question_text": "A colonial government renames an Indigenous place with a new, unrelated name, and generations later, residents debate whether to restore the original name. Which concept does this scenario apply?",
+      "options": {
+        "A": "Code-switching, because it involves shifting between two names",
+        "B": "Dialect bias, because it involves judgment about pronunciation",
+        "C": "Linguistic suppression, because it involves banning a specific word",
+        "D": "Naming and identity, which describes the relationship between how a person or group is named \u2014 including the ongoing debate over Indigenous place names versus colonial replacements \u2014 and their sense of self, cultural continuity, and social recognition"
+      },
+      "correct_answer": "D",
+      "explanation": "This scenario directly matches the chapter's definition of naming and identity, which explicitly includes the ongoing debate over Indigenous place names versus colonial replacements, and connects the practice of renaming to the erasure defined in Chapter 2. Option A misapplies a concept about shifting speech registers, not renaming. Option B misapplies a concept about accent-based judgment. Option C misapplies a concept about banning language use rather than replacing a name.",
+      "concept": "Naming And Identity\n\n---",
+      "quiz_file": "docs/chapters/13-language-and-power/quiz.md"
+    },
+    {
+      "id": "13-language-and-power-q008",
+      "chapter": "Language and Power",
+      "chapter_file": "docs/chapters/13-language-and-power/index.md",
+      "question_text": "Three professional translators each produce a different, defensible English translation of the same short non-English passage, each prioritizing a different interpretive goal \u2014 literal accuracy, idiomatic tone, or poetic rhythm \u2014 with no translator acting in bad faith. Which concept does this scenario illustrate?",
+      "options": {
+        "A": "Naming and identity, because it involves interpreting a name",
+        "B": "Translation bias, the distortion of meaning, tone, or nuance that occurs when a source is translated from one language to another, which can reflect the translator's own perspective even when the translation is made in good faith",
+        "C": "Linguistic suppression, because it involves multiple languages",
+        "D": "Code-switching, because it involves shifting between languages"
+      },
+      "correct_answer": "B",
+      "explanation": "This scenario directly illustrates translation bias: distortion of meaning, tone, or nuance arising from translation, which the chapter emphasizes can occur even in entirely good-faith work, since no two languages map perfectly onto each other and every translation involves interpretive choices. Option A misapplies a concept about renaming people or places. Option C misapplies a concept about prohibiting language use. Option D misapplies a concept about a single speaker shifting registers, not translation between texts.",
+      "concept": "Translation Bias\n\n---",
+      "quiz_file": "docs/chapters/13-language-and-power/quiz.md"
+    },
+    {
+      "id": "13-language-and-power-q009",
+      "chapter": "Language and Power",
+      "chapter_file": "docs/chapters/13-language-and-power/index.md",
+      "question_text": "Why does the chapter state that translation bias \"is not necessarily intentional distortion\"?",
+      "options": {
+        "A": "Because translation bias only occurs when a translator deliberately intends to mislead readers",
+        "B": "Because translation bias never actually affects the meaning of a translated text",
+        "C": "Because no two languages map perfectly onto each other, meaning every translation involves interpretive choices a monolingual reader may never notice were made, regardless of the translator's intent",
+        "D": "Because translation bias is a legal requirement imposed by publishing companies"
+      },
+      "correct_answer": "C",
+      "explanation": "The chapter explains that translation bias can result simply from the structural fact that no two languages map perfectly onto each other, meaning every translation involves interpretive choices a monolingual reader may never notice, independent of whether the translator intends any distortion. Option A contradicts this structural explanation by requiring intent. Option B denies the entire premise of the concept. Option D invents an institutional requirement not discussed in the text.",
+      "concept": "Translation Bias\n\n---",
+      "quiz_file": "docs/chapters/13-language-and-power/quiz.md"
+    },
+    {
+      "id": "13-language-and-power-q010",
+      "chapter": "Language and Power",
+      "chapter_file": "docs/chapters/13-language-and-power/index.md",
+      "question_text": "What is the central claim this chapter makes about the relationship between language and power?",
+      "options": {
+        "A": "The ability to speak, write, and be understood in a society's dominant language shapes access to that society's power structure, while control over which languages are permitted, taught, or respected is itself an exercise of that same power",
+        "B": "Language and power are entirely unrelated concepts that happen to share a chapter",
+        "C": "Only written language has any connection to power; spoken language does not",
+        "D": "Power structures have no influence over which languages are taught in schools"
+      },
+      "correct_answer": "A",
+      "explanation": "The chapter's central claim is that language and power are directly connected: access to a society's dominant language shapes access to its power structure from Chapter 2, while control over which languages are permitted, taught, or respected is itself an exercise of that same power \u2014 a claim every other concept in the chapter illustrates. Option B denies the chapter's entire organizing thesis. Option C wrongly excludes oral tradition and spoken language from the claim. Option D is directly contradicted by the chapter's linguistic suppression content.",
+      "concept": "Language And Power\n\n---",
+      "quiz_file": "docs/chapters/13-language-and-power/quiz.md"
+    }
+  ]
+}

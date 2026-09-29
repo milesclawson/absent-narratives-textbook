@@ -1,0 +1,175 @@
+{
+  "chapter": "Research Methods and the Capstone Project",
+  "chapter_file": "docs/chapters/14-research-methods-and-capstone-project/index.md",
+  "quiz_file": "docs/chapters/14-research-methods-and-capstone-project/quiz.md",
+  "generated_date": "2026-09-24",
+  "total_questions": 10,
+  "answer_distribution": {
+    "A": 3,
+    "B": 2,
+    "C": 2,
+    "D": 3
+  },
+  "questions": [
+    {
+      "id": "14-research-methods-and-capstone-project-q001",
+      "chapter": "Research Methods and the Capstone Project",
+      "chapter_file": "docs/chapters/14-research-methods-and-capstone-project/index.md",
+      "question_text": "What three qualities does this chapter say a strong capstone research question shares?",
+      "options": {
+        "A": "It must be answerable using only sources written in the last five years",
+        "B": "It names a specific place, group, or event; it can plausibly be answered with sources a high school researcher can actually access; and it connects to at least one of the course's units or case studies",
+        "C": "It must avoid any connection to the course's earlier chapters or case studies",
+        "D": "It must be broad enough to cover \"racism in history\" as a general topic"
+      },
+      "correct_answer": "B",
+      "explanation": "The chapter specifies that a strong research question names a specific place, group, or event rather than a broad topic, can plausibly be answered using sources a high school researcher can access, and connects to at least one of the course's units or case studies. Option A invents a recency requirement not stated. Option C contradicts the chapter's explicit call for a connection to course content. Option D describes exactly the kind of overly broad question the chapter warns against.",
+      "concept": "Research Question\n\n---",
+      "quiz_file": "docs/chapters/14-research-methods-and-capstone-project/quiz.md"
+    },
+    {
+      "id": "14-research-methods-and-capstone-project-q002",
+      "chapter": "Research Methods and the Capstone Project",
+      "chapter_file": "docs/chapters/14-research-methods-and-capstone-project/index.md",
+      "question_text": "How does source triangulation differ from the source corroboration introduced in Chapter 1?",
+      "options": {
+        "A": "Source triangulation is identical to source corroboration, with no meaningful distinction",
+        "B": "Source triangulation requires exactly two sources, while corroboration requires exactly three",
+        "C": "Source triangulation applies only to oral history, while corroboration applies only to written records",
+        "D": "Source triangulation checks a claim against three or more independent sources of different types, testing whether the claim holds up when viewed from genuinely different vantage points, which is more rigorous than corroboration across similar sources"
+      },
+      "correct_answer": "D",
+      "explanation": "Source triangulation extends corroboration by specifically requiring different source types \u2014 such as a government record, a newspaper account, and an oral history interview \u2014 to test whether a claim converges across genuinely different vantage points, which the chapter describes as more rigorous than corroborating similar sources. Option A denies this explicit distinction. Option B invents source-count requirements not stated. Option C wrongly restricts each method to a single source type.",
+      "concept": "Source Triangulation\n\n---",
+      "quiz_file": "docs/chapters/14-research-methods-and-capstone-project/quiz.md"
+    },
+    {
+      "id": "14-research-methods-and-capstone-project-q003",
+      "chapter": "Research Methods and the Capstone Project",
+      "chapter_file": "docs/chapters/14-research-methods-and-capstone-project/index.md",
+      "question_text": "Why does the chapter insist that the ethics of representation \"is not a bureaucratic formality\"?",
+      "options": {
+        "A": "Because it is the difference between recovering a marginalized voice and committing a new act of appropriation in the process of recovering it",
+        "B": "Because ethical obligations only apply to professional historians, not student researchers",
+        "C": "Because obtaining informed consent is optional if the research is for a school project",
+        "D": "Because ethics of representation only applies to archival research, not oral history"
+      },
+      "correct_answer": "A",
+      "explanation": "The chapter states directly that the ethics of representation \u2014 informed consent, avoiding exploitation, respecting a community's preferences, and not claiming a voice that is not the researcher's own \u2014 is the difference between genuinely recovering a marginalized voice and committing a new act of appropriation while doing so. Option B wrongly exempts student researchers from an obligation the chapter applies broadly. Option C contradicts the chapter's explicit inclusion of informed consent as a requirement. Option D wrongly restricts the concept's scope, ignoring its application to oral history specifically.",
+      "concept": "Ethics Of Representation\n\n---",
+      "quiz_file": "docs/chapters/14-research-methods-and-capstone-project/quiz.md"
+    },
+    {
+      "id": "14-research-methods-and-capstone-project-q004",
+      "chapter": "Research Methods and the Capstone Project",
+      "chapter_file": "docs/chapters/14-research-methods-and-capstone-project/index.md",
+      "question_text": "Why does the chapter's interview technique checklist warn against asking leading questions such as \"Wasn't that unfair?\"",
+      "options": {
+        "A": "Because leading questions are illegal to ask during a recorded interview",
+        "B": "Because leading questions suggest the answer the interviewer expects or wants, rather than allowing the narrator to share their own account",
+        "C": "Because leading questions take longer to answer than open-ended questions",
+        "D": "Because leading questions can only be asked by professional journalists"
+      },
+      "correct_answer": "C",
+      "explanation": "The chapter's checklist explains that leading questions suggest a desired answer, which undermines the goal of interview technique: preparing thoughtful, open-ended questions and creating a comfortable environment for the narrator to share their own account rather than confirm the interviewer's assumptions. Option A invents a legal restriction not discussed. Option B raises an irrelevant consideration about question length. Option D wrongly restricts a general interviewing principle to one profession.",
+      "concept": "Interview Technique\n\n---",
+      "quiz_file": "docs/chapters/14-research-methods-and-capstone-project/quiz.md"
+    },
+    {
+      "id": "14-research-methods-and-capstone-project-q005",
+      "chapter": "Research Methods and the Capstone Project",
+      "chapter_file": "docs/chapters/14-research-methods-and-capstone-project/index.md",
+      "question_text": "A student researcher checks a claim about a local event against a government record, a newspaper account, and an oral history interview, and finds the oral history excerpt contains a specific detail absent from both official records. Applying this chapter's guidance, what does this gap suggest?",
+      "options": {
+        "A": "The oral history account should be discarded because it does not match the official records",
+        "B": "This is a documented example of why triangulation matters: a detail unique to one source type, especially oral history, often reveals information official records omitted rather than indicating the oral account is inaccurate",
+        "C": "The government record and newspaper account should be discarded because they disagree with the oral history",
+        "D": "This gap indicates the researcher should abandon the research question entirely"
+      },
+      "correct_answer": "B",
+      "explanation": "The chapter's own worked example notes that a claim unique to a single source type, often the oral history excerpt, frequently contains detail absent from official records \u2014 precisely the kind of detail the course has asked researchers to seek out, rather than a sign of inaccuracy to be dismissed. Option A wrongly dismisses oral history based on a mismatch the chapter treats as meaningful, not disqualifying. Option C makes an equally unwarranted dismissal in the opposite direction. Option D is an overreaction unsupported by the chapter's guidance.",
+      "concept": "Source Triangulation\n\n---",
+      "quiz_file": "docs/chapters/14-research-methods-and-capstone-project/quiz.md"
+    },
+    {
+      "id": "14-research-methods-and-capstone-project-q006",
+      "chapter": "Research Methods and the Capstone Project",
+      "chapter_file": "docs/chapters/14-research-methods-and-capstone-project/index.md",
+      "question_text": "A student's research question centers on a still-living local controversy, with strong potential for partnership with a local historical society and an active community stake in the outcome. Applying the chapter's format-selection guidance, which capstone format is this research question best suited for?",
+      "options": {
+        "A": "A historical documentary, because it always requires the least community involvement",
+        "B": "An exhibit design, because it always requires the most archival sources",
+        "C": "A policy proposal, because it always requires federal legislation",
+        "D": "A community action, since the format is best suited for narratives with a living, present-day community stake, connecting to Chapter 11's grassroots organizing"
+      },
+      "correct_answer": "D",
+      "explanation": "The chapter's comparison table specifically identifies community action as best suited for narratives with a living, present-day community stake, connecting directly to Chapter 11's grassroots organizing content \u2014 matching this scenario's still-living controversy and community partnership potential. Option A misapplies a format better suited to strong oral history or visual material. Option B misapplies a format better suited to strong artifact or image evidence. Option C overstates the format's requirements, which need not involve federal legislation.",
+      "concept": "Community Action\n\n---",
+      "quiz_file": "docs/chapters/14-research-methods-and-capstone-project/quiz.md"
+    },
+    {
+      "id": "14-research-methods-and-capstone-project-q007",
+      "chapter": "Research Methods and the Capstone Project",
+      "chapter_file": "docs/chapters/14-research-methods-and-capstone-project/index.md",
+      "question_text": "Why does the chapter connect citation practice directly to the historical silence introduced in Chapter 1?",
+      "options": {
+        "A": "Because a claim without a citation is a claim a future researcher cannot verify, which is exactly the condition that produced historical silence in the first place",
+        "B": "Because citation practice and historical silence are unrelated concepts from different chapters",
+        "C": "Because citation practice was invented specifically to prevent oral history from being used as a source",
+        "D": "Because historical silence only occurs when a source has been improperly cited"
+      },
+      "correct_answer": "A",
+      "explanation": "The chapter draws a direct line between careful citation and historical silence: an unverifiable, uncited claim recreates the same condition that produced historical silence in the first place, since future researchers cannot check or build on a claim they cannot trace back to its source. Option B denies this explicit connection. Option C misattributes citation practice's purpose specifically against oral history, which the chapter treats as a legitimate source. Option D reverses the actual causal relationship the chapter describes.",
+      "concept": "Citation Practice\n\n---",
+      "quiz_file": "docs/chapters/14-research-methods-and-capstone-project/quiz.md"
+    },
+    {
+      "id": "14-research-methods-and-capstone-project-q008",
+      "chapter": "Research Methods and the Capstone Project",
+      "chapter_file": "docs/chapters/14-research-methods-and-capstone-project/index.md",
+      "question_text": "Analyzing the chapter's framing, why is the oral history method described as \"how you formally recover the kind of source dominant historiography has historically undervalued\"?",
+      "options": {
+        "A": "Because oral history is a completely new invention with no connection to Chapter 13's discussion of oral tradition",
+        "B": "Because dominant historiography has always treated oral and written sources with exactly equal weight",
+        "C": "Because the oral history method applies Chapter 13's oral tradition concept through systematic, rigorous collection and preservation practices, formally recovering a source type that academic historiography has historically treated with unwarranted skepticism relative to written documents",
+        "D": "Because oral history method requires no interview technique or preparation of any kind"
+      },
+      "correct_answer": "C",
+      "explanation": "The chapter positions the oral history method as the direct, formal application of Chapter 13's oral tradition concept, using systematic collection and preservation standards to recover a source type that dominant historiography has historically undervalued relative to written records of comparable or lesser reliability. Option A denies the explicit connection to Chapter 13. Option B contradicts the entire premise of the chapter's argument about undervaluation. Option D contradicts the chapter's detailed interview technique checklist.",
+      "concept": "Oral History Method\n\n---",
+      "quiz_file": "docs/chapters/14-research-methods-and-capstone-project/quiz.md"
+    },
+    {
+      "id": "14-research-methods-and-capstone-project-q009",
+      "chapter": "Research Methods and the Capstone Project",
+      "chapter_file": "docs/chapters/14-research-methods-and-capstone-project/index.md",
+      "question_text": "A student has gathered strong photographic evidence and physical artifacts related to their research question, along with access to a community partner willing to display them publicly. Evaluating the four capstone formats against this specific evidence base, which format would most effectively showcase this material while following the chapter's stated principles?",
+      "options": {
+        "A": "An exhibit design, since the format is best suited to narratives with strong artifact or image evidence and follows public history principles for presenting research to non-academic audiences in accessible, engaging formats without sacrificing accuracy",
+        "B": "A policy proposal, since photographic evidence is only useful for legislative arguments",
+        "C": "A historical documentary, since artifacts cannot be filmed or photographed for video",
+        "D": "A community action, since public history principles apply only to protests and demonstrations"
+      },
+      "correct_answer": "A",
+      "explanation": "Judged against the chapter's own criteria, an exhibit design is explicitly identified as best suited for narratives with strong artifact or image evidence, and it follows public history principles for presenting research to non-academic audiences in accessible, engaging formats without sacrificing accuracy \u2014 a strong fit for this student's evidence base and willing venue. Option B misjudges photographic evidence as useful only for one unrelated format. Option C is factually wrong, since documentaries can and do incorporate artifact imagery. Option D misapplies public history principles, which are not limited to protests.",
+      "concept": "Exhibit Design\n\n---",
+      "quiz_file": "docs/chapters/14-research-methods-and-capstone-project/quiz.md"
+    },
+    {
+      "id": "14-research-methods-and-capstone-project-q010",
+      "chapter": "Research Methods and the Capstone Project",
+      "chapter_file": "docs/chapters/14-research-methods-and-capstone-project/index.md",
+      "question_text": "A student wants to design an original capstone project centered on a local labor dispute they have found conflicting newspaper accounts about, and they know several descendants of participants who are willing to be interviewed. Drawing on this chapter's full method, which sequence of components would constitute a complete, well-designed capstone plan?",
+      "options": {
+        "A": "Skip formulating a research question and begin directly with citation practice",
+        "B": "Conduct interviews without preparing any questions in advance, since spontaneity is more important than interview technique",
+        "C": "Present findings before conducting any archival research or interviews, since presentation order does not matter",
+        "D": "Formulate a specific research question about the labor dispute, conduct archival research on the newspaper accounts and oral history interviews with descendants, apply source triangulation and the ethics of representation, produce a narrative reconstruction, and select a format such as a documentary or community action before subjecting the work to peer review and citation"
+      },
+      "correct_answer": "D",
+      "explanation": "This sequence draws together every component the chapter defines as constituting a capstone project: a specific research question, archival and oral history research, source triangulation, the ethics of representation, narrative reconstruction, a chosen format, and finally peer review and citation practice before presenting findings. Option A skips the foundational research question the chapter insists every project begins with. Option B contradicts the chapter's detailed interview technique guidance. Option C reverses the logical order the chapter establishes, since presentation is explicitly the final step.",
+      "concept": "Capstone Project\n\n---",
+      "quiz_file": "docs/chapters/14-research-methods-and-capstone-project/quiz.md"
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "chapter": "Case Study: Manifest Destiny",
+  "chapter_file": "docs/chapters/04-case-study-manifest-destiny/index.md",
+  "quiz_file": "docs/chapters/04-case-study-manifest-destiny/quiz.md",
+  "generated_date": "2026-09-24",
+  "total_questions": 10,
+  "answer_distribution": {
+    "A": 3,
+    "B": 3,
+    "C": 2,
+    "D": 2
+  },
+  "questions": [
+    {
+      "id": "04-case-study-manifest-destiny-q001",
+      "chapter": "Case Study: Manifest Destiny",
+      "chapter_file": "docs/chapters/04-case-study-manifest-destiny/index.md",
+      "question_text": "How does this chapter define Manifest Destiny?",
+      "options": {
+        "A": "A federal law granting land parcels to settlers who cultivated them for five years",
+        "B": "The 19th-century belief that the United States was destined, by divine right or the natural order of history, to expand its territory across the continent",
+        "C": "A treaty system negotiated jointly between the U.S. government and Indigenous nations",
+        "D": "A 20th-century historical framework used to critique westward expansion"
+      },
+      "correct_answer": "B",
+      "explanation": "Manifest Destiny was the 19th-century belief, spread through newspapers, sermons, and political speeches, that continental expansion was inevitable and entitled rather than a series of contestable choices. Option A describes the Homestead Act, a different concept. Option C mischaracterizes the era's treaties, which were frequently negotiated under duress rather than jointly. Option D wrongly places the belief in the wrong century and role.",
+      "concept": "Manifest Destiny\n\n---",
+      "quiz_file": "docs/chapters/04-case-study-manifest-destiny/quiz.md"
+    },
+    {
+      "id": "04-case-study-manifest-destiny-q002",
+      "chapter": "Case Study: Manifest Destiny",
+      "chapter_file": "docs/chapters/04-case-study-manifest-destiny/index.md",
+      "question_text": "What does the chapter identify as the direct, foreseeable cause of the Trail of Tears?",
+      "options": {
+        "A": "A natural disaster that struck the Cherokee Nation's homeland independently of government policy",
+        "B": "The Homestead Act of 1862, which was signed decades after the event",
+        "C": "The Indian Removal Act of 1830 and its enforcement",
+        "D": "A voluntary decision by the Cherokee Nation to relocate west of the Mississippi River"
+      },
+      "correct_answer": "C",
+      "explanation": "The chapter states plainly that the Trail of Tears was not a natural disaster but the direct, foreseeable result of the Indian Removal Act of 1830 and its enforcement. Option A contradicts this by framing it as a natural event. Option B cites a law passed more than two decades after the 1838 relocation began. Option D mischaracterizes a forced removal as voluntary.",
+      "concept": "Trail Of Tears\n\n---",
+      "quiz_file": "docs/chapters/04-case-study-manifest-destiny/quiz.md"
+    },
+    {
+      "id": "04-case-study-manifest-destiny-q003",
+      "chapter": "Case Study: Manifest Destiny",
+      "chapter_file": "docs/chapters/04-case-study-manifest-destiny/index.md",
+      "question_text": "Why does the chapter put the word \"empty\" in quotation marks when describing how the frontier myth portrayed western land?",
+      "options": {
+        "A": "Because the land was legally classified as empty under 19th-century property law",
+        "B": "Because the term is a direct quotation from the Homestead Act's statutory text",
+        "C": "Because calling the land empty was not a factual description but a rhetorical move that made displacement look like discovery, despite the land being inhabited by hundreds of Indigenous nations",
+        "D": "Because \"empty\" was the term Indigenous nations themselves used to describe their own territory"
+      },
+      "correct_answer": "C",
+      "explanation": "The chapter explains that the land crossed by westward expansion was inhabited by hundreds of distinct Indigenous nations, so labeling it \"empty\" was a rhetorical move rather than a factual claim, one that reframed displacement as discovery. Option A invents a nonexistent legal classification. Option B misattributes the phrase to a statute. Option D reverses who used the term and why.",
+      "concept": "Frontier Myth\n\n---",
+      "quiz_file": "docs/chapters/04-case-study-manifest-destiny/quiz.md"
+    },
+    {
+      "id": "04-case-study-manifest-destiny-q004",
+      "chapter": "Case Study: Manifest Destiny",
+      "chapter_file": "docs/chapters/04-case-study-manifest-destiny/index.md",
+      "question_text": "How does the chapter distinguish settler colonialism from other forms of colonial control?",
+      "options": {
+        "A": "Settler colonialism's goal is replacement \u2014 settlers permanently relocate and aim to replace the Indigenous population and its societies \u2014 rather than simply extracting resources and leaving",
+        "B": "Settler colonialism only involves economic extraction, never permanent relocation",
+        "C": "Settler colonialism and other forms of colonialism are identical in every respect",
+        "D": "Settler colonialism always ends immediately after a treaty is signed"
+      },
+      "correct_answer": "A",
+      "explanation": "The chapter defines settler colonialism as a form of colonialism where settlers permanently relocate and aim to replace the Indigenous population and its societies, distinguishing it from colonial control focused on extracting resources and leaving. Option B reverses the actual distinction. Option C ignores the explicit contrast the chapter draws. Option D contradicts the chapter's point that expansion continued well past treaty-signing.",
+      "concept": "Settler Colonialism\n\n---",
+      "quiz_file": "docs/chapters/04-case-study-manifest-destiny/quiz.md"
+    },
+    {
+      "id": "04-case-study-manifest-destiny-q005",
+      "chapter": "Case Study: Manifest Destiny",
+      "chapter_file": "docs/chapters/04-case-study-manifest-destiny/index.md",
+      "question_text": "According to the chapter, what connects the Trail of Tears and the Homestead Act as part of a single land dispossession mechanism?",
+      "options": {
+        "A": "Both events occurred in the same calendar year, 1838",
+        "B": "They are unrelated policies that happened to affect similar geographic regions by coincidence",
+        "C": "The Homestead Act directly caused the Trail of Tears to occur",
+        "D": "The Trail of Tears displaced Indigenous nations while the Homestead Act redistributed the resulting vacated land to settlers \u2014 displacement and redistribution as two connected stages"
+      },
+      "correct_answer": "D",
+      "explanation": "Land dispossession describes displacement and redistribution as two connected stages of one systemic, policy-driven process: the Trail of Tears removed Indigenous nations from their land, and the Homestead Act later redistributed that same land to settler families. Option A cites an incidental date match, not a causal link. Option B denies the chapter's explicit connection between the two. Option C reverses the actual chronological and causal order.",
+      "concept": "Land Dispossession\n\n---",
+      "quiz_file": "docs/chapters/04-case-study-manifest-destiny/quiz.md"
+    },
+    {
+      "id": "04-case-study-manifest-destiny-q006",
+      "chapter": "Case Study: Manifest Destiny",
+      "chapter_file": "docs/chapters/04-case-study-manifest-destiny/index.md",
+      "question_text": "The Homestead Act described the land it distributed as \"public land.\" Applying the chapter's analysis, why does this phrase deserve scrutiny?",
+      "options": {
+        "A": "Because the land was \"public\" only in the sense that the federal government had already claimed it, typically through treaties negotiated under military and economic pressure",
+        "B": "Because \"public land\" was a term Indigenous nations used to describe their own communal property systems",
+        "C": "Because the Homestead Act never actually distributed any land to settlers",
+        "D": "Because the phrase has no rhetorical significance and was used purely as a neutral bureaucratic label"
+      },
+      "correct_answer": "A",
+      "explanation": "The chapter states that \"public\" is doing significant rhetorical work, since the land was only public because the federal government had already claimed it, usually through treaties negotiated under military and economic pressure rather than genuine, voluntary agreement. Option B misattributes the term's origin. Option C contradicts the Homestead Act's core function. Option D ignores the chapter's explicit point about the phrase's rhetorical weight.",
+      "concept": "Homestead Act\n\n---",
+      "quiz_file": "docs/chapters/04-case-study-manifest-destiny/quiz.md"
+    },
+    {
+      "id": "04-case-study-manifest-destiny-q007",
+      "chapter": "Case Study: Manifest Destiny",
+      "chapter_file": "docs/chapters/04-case-study-manifest-destiny/index.md",
+      "question_text": "A textbook describes an 1850s treaty as land \"peacefully purchased\" from a tribe. Applying the chapter's guidance, which question is most important to ask before accepting that description?",
+      "options": {
+        "A": "Whether the treaty document uses the specific word \"purchase\"",
+        "B": "Whether the tribal representatives had genuine alternatives to signing, given the presence of military force or economic desperation at the negotiation",
+        "C": "Whether the land in question was located east or west of the Mississippi River",
+        "D": "Whether the treaty was signed on a weekday or a weekend"
+      },
+      "correct_answer": "B",
+      "explanation": "The chapter's guidance directs readers to ask whether tribal representatives had genuine alternatives to signing, since treaties negotiated under military presence or economic desperation are not comparable to a voluntary market transaction, regardless of the document's wording. Option A focuses on word choice rather than the coercion the word may obscure. Options C and D raise details the chapter identifies as irrelevant to assessing genuine consent.",
+      "concept": "Land Dispossession\n\n---",
+      "quiz_file": "docs/chapters/04-case-study-manifest-destiny/quiz.md"
+    },
+    {
+      "id": "04-case-study-manifest-destiny-q008",
+      "chapter": "Case Study: Manifest Destiny",
+      "chapter_file": "docs/chapters/04-case-study-manifest-destiny/index.md",
+      "question_text": "Which scenario best demonstrates American exceptionalism as this chapter defines it?",
+      "options": {
+        "A": "A historian comparing U.S. territorial expansion to expansion by other nations using the same critical standard",
+        "B": "A tribal government publishing its own oral history of a 19th-century treaty negotiation",
+        "C": "A federal law granting settlers legal title to land after five years of cultivation",
+        "D": "A political speech describing U.S. westward expansion as a natural, almost inevitable unfolding of a unique national destiny, rather than as conquest"
+      },
+      "correct_answer": "D",
+      "explanation": "American exceptionalism is the idea that the United States has a unique, superior national mission setting it apart from other nations, and the chapter shows this idea reframing land acquisition as destiny rather than conquest \u2014 a label applied to comparable actions by other nations. Option A describes the opposite: applying an equal standard. Option B describes recovering an erased voice, a separate concept. Option C describes the Homestead Act's mechanism, not the belief system behind it.",
+      "concept": "American Exceptionalism\n\n---",
+      "quiz_file": "docs/chapters/04-case-study-manifest-destiny/quiz.md"
+    },
+    {
+      "id": "04-case-study-manifest-destiny-q009",
+      "chapter": "Case Study: Manifest Destiny",
+      "chapter_file": "docs/chapters/04-case-study-manifest-destiny/index.md",
+      "question_text": "Why does the chapter argue that erased Indigenous voices are absent from standard textbook accounts, even though Indigenous nations documented their own experiences?",
+      "options": {
+        "A": "Because Indigenous nations never created written or oral records of their own experiences",
+        "B": "Because the records were less likely to be collected, translated, published, or cited by the historians who built the dominant narrative, not because the records never existed",
+        "C": "Because tribal oral histories are considered less historically valid than settler diaries by definition",
+        "D": "Because Indigenous nations requested that their records be kept out of standard textbooks"
+      },
+      "correct_answer": "B",
+      "explanation": "The chapter is explicit that Indigenous nations kept oral histories and treaty records, and that erasure lies in which record set a standard textbook chooses to cite \u2014 the absence reflects what got collected and published, not what existed. Option A directly contradicts the chapter's statement about existing tribal records. Option C imports an unsupported value judgment. Option D invents a motive not found anywhere in the text.",
+      "concept": "Erased Indigenous Voices\n\n---",
+      "quiz_file": "docs/chapters/04-case-study-manifest-destiny/quiz.md"
+    },
+    {
+      "id": "04-case-study-manifest-destiny-q010",
+      "chapter": "Case Study: Manifest Destiny",
+      "chapter_file": "docs/chapters/04-case-study-manifest-destiny/index.md",
+      "question_text": "Why did westward expansion, as a case of settler colonialism, require a supporting narrative like the frontier myth rather than simply being carried out as open military conquest?",
+      "options": {
+        "A": "Because settler colonialism's goal of permanent replacement was more easily achieved and sustained when reframed as discovery and destiny rather than acknowledged as displacement of existing nations",
+        "B": "Because the frontier myth was created after westward expansion had already ended, with no practical effect on the process itself",
+        "C": "Because military conquest was legally prohibited by treaties throughout the entire 19th century",
+        "D": "Because Indigenous nations had no governance systems that expansion needed to displace"
+      },
+      "correct_answer": "A",
+      "explanation": "The chapter connects settler colonialism's replacement goal to the frontier myth's function: framing displacement as discovery and destiny made an ongoing process of dispossession appear natural and legitimate rather than a series of specific, contestable policy choices. Option B misplaces the myth's timing and understates its role. Option C is factually unsupported by the chapter. Option D contradicts the chapter's explicit statement that hundreds of Indigenous nations had their own governance and territory.",
+      "concept": "Settler Colonialism\n\n---",
+      "quiz_file": "docs/chapters/04-case-study-manifest-destiny/quiz.md"
+    }
+  ]
+}

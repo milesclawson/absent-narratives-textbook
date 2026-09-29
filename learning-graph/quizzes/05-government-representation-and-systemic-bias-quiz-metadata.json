@@ -1,0 +1,175 @@
+{
+  "chapter": "Government Representation and Systemic Bias",
+  "chapter_file": "docs/chapters/05-government-representation-and-systemic-bias/index.md",
+  "quiz_file": "docs/chapters/05-government-representation-and-systemic-bias/quiz.md",
+  "generated_date": "2026-09-24",
+  "total_questions": 10,
+  "answer_distribution": {
+    "A": 2,
+    "B": 3,
+    "C": 3,
+    "D": 2
+  },
+  "questions": [
+    {
+      "id": "05-government-representation-and-systemic-bias-q001",
+      "chapter": "Government Representation and Systemic Bias",
+      "chapter_file": "docs/chapters/05-government-representation-and-systemic-bias/index.md",
+      "question_text": "What is gerrymandering, as defined in this chapter?",
+      "options": {
+        "A": "The periodic, routine redrawing of district boundaries required after every U.S. Census",
+        "B": "A fee required to vote that disenfranchises lower-income citizens",
+        "C": "The deliberate manipulation of electoral district boundaries to favor one political party or group, typically through \"packing\" or \"cracking\"",
+        "D": "A requirement that voters demonstrate reading comprehension before registering"
+      },
+      "correct_answer": "C",
+      "explanation": "Gerrymandering is the deliberate manipulation of district boundaries to favor one group, achieved by concentrating opposing voters into few districts (packing) or spreading them thin across many (cracking). Option A describes redistricting, the neutral process gerrymandering exploits. Option B describes the poll tax. Option D describes the literacy test, a separate voter-suppression tool.",
+      "concept": "Gerrymandering\n\n---",
+      "quiz_file": "docs/chapters/05-government-representation-and-systemic-bias/quiz.md"
+    },
+    {
+      "id": "05-government-representation-and-systemic-bias-q002",
+      "chapter": "Government Representation and Systemic Bias",
+      "chapter_file": "docs/chapters/05-government-representation-and-systemic-bias/index.md",
+      "question_text": "What did the poll tax and literacy test have in common, according to this chapter?",
+      "options": {
+        "A": "Both explicitly named race in their legal text",
+        "B": "Both were race-neutral on paper but applied in a discriminatory manner in practice to exclude Black voters",
+        "C": "Both were created by the Voting Rights Act of 1965",
+        "D": "Both applied only to voters running for elected office"
+      },
+      "correct_answer": "B",
+      "explanation": "The chapter emphasizes that both tools were race-neutral on paper \u2014 a fee and a comprehension requirement \u2014 yet were administered in a discriminatory manner to exclude Black voters regardless of actual ability to pay or read. Option A is the opposite of how these laws were written. Option C reverses the relationship: the Voting Rights Act banned these tools rather than creating them. Option D misapplies both tools to a context they were not designed for.",
+      "concept": "Literacy Test\n\n---",
+      "quiz_file": "docs/chapters/05-government-representation-and-systemic-bias/quiz.md"
+    },
+    {
+      "id": "05-government-representation-and-systemic-bias-q003",
+      "chapter": "Government Representation and Systemic Bias",
+      "chapter_file": "docs/chapters/05-government-representation-and-systemic-bias/index.md",
+      "question_text": "Why does the chapter say a law can be \"systemically racist in its effects\" even if the officials who wrote it never used a racial slur?",
+      "options": {
+        "A": "Because systemic racism describes documented unequal outcomes produced by laws and institutions, regardless of the individual intentions of the officials who administer them",
+        "B": "Because systemic racism requires proof that every official involved held explicitly racist beliefs",
+        "C": "Because the term only applies to laws passed before the Voting Rights Act of 1965",
+        "D": "Because systemic racism and individual prejudice are defined as exactly the same thing"
+      },
+      "correct_answer": "A",
+      "explanation": "Systemic racism describes outcomes, not just attitudes: a law can produce unequal outcomes based on race even when no individual involved expressed explicit racial intent, which is why this chapter's core skill is identifying the gap between stated intent and documented effect. Option B wrongly requires proof of individual belief. Option C invents a time restriction not in the text. Option D collapses a structural concept into a personal one, contradicting Chapter 2's distinction.",
+      "concept": "Systemic Racism\n\n---",
+      "quiz_file": "docs/chapters/05-government-representation-and-systemic-bias/quiz.md"
+    },
+    {
+      "id": "05-government-representation-and-systemic-bias-q004",
+      "chapter": "Government Representation and Systemic Bias",
+      "chapter_file": "docs/chapters/05-government-representation-and-systemic-bias/index.md",
+      "question_text": "What did the Voting Rights Act of 1965 accomplish?",
+      "options": {
+        "A": "It established the requirement for a poll tax nationwide",
+        "B": "It created the tribal sovereignty doctrine for the first time",
+        "C": "It authorized states to redraw district boundaries every ten years",
+        "D": "It outlawed literacy tests and other discriminatory voting practices and established federal oversight of jurisdictions with a history of voting discrimination"
+      },
+      "correct_answer": "D",
+      "explanation": "The Voting Rights Act was landmark federal legislation that outlawed literacy tests and similar discriminatory practices while establishing federal oversight of jurisdictions with a documented history of voting discrimination. Option A reverses the Act's purpose, since it worked against such barriers. Option B misattributes tribal sovereignty, which the chapter describes as pre-existing, not created by this Act. Option C describes redistricting, an unrelated constitutional process.",
+      "concept": "Voting Rights Act\n\n---",
+      "quiz_file": "docs/chapters/05-government-representation-and-systemic-bias/quiz.md"
+    },
+    {
+      "id": "05-government-representation-and-systemic-bias-q005",
+      "chapter": "Government Representation and Systemic Bias",
+      "chapter_file": "docs/chapters/05-government-representation-and-systemic-bias/index.md",
+      "question_text": "How does the chapter distinguish tribal sovereignty from nation-to-nation relations?",
+      "options": {
+        "A": "Tribal sovereignty is the inherent, pre-existing authority of tribal nations to govern themselves, while nation-to-nation relations describes the formal government-to-government relationship through which that authority is recognized and negotiated with the United States",
+        "B": "Tribal sovereignty was granted by the federal government in 1965, while nation-to-nation relations predates the United States",
+        "C": "The two terms describe the exact same legal concept with no meaningful distinction",
+        "D": "Tribal sovereignty applies only to state governments, while nation-to-nation relations applies only to the federal government"
+      },
+      "correct_answer": "A",
+      "explanation": "Tribal sovereignty is the inherent, pre-existing authority of tribal nations, not a grant from the federal government, while nation-to-nation relations describes the formal treaty-based, government-to-government process through which that authority is recognized and negotiated. Option B reverses which concept predates the United States. Option C denies a distinction the chapter draws explicitly. Option D misassigns both terms to the wrong level of government.",
+      "concept": "Tribal Sovereignty\n\n---",
+      "quiz_file": "docs/chapters/05-government-representation-and-systemic-bias/quiz.md"
+    },
+    {
+      "id": "05-government-representation-and-systemic-bias-q006",
+      "chapter": "Government Representation and Systemic Bias",
+      "chapter_file": "docs/chapters/05-government-representation-and-systemic-bias/index.md",
+      "question_text": "A state's voters are split 60/40 between two groups. Mapmakers draw five districts so that the minority group forms a narrow majority in four of the five districts, while the majority group is heavily concentrated into the fifth. Which technique does this scenario apply?",
+      "options": {
+        "A": "Redistricting, because this is simply the routine, neutral process required after a census",
+        "B": "A poll tax, because financial barriers determined the outcome",
+        "C": "Supranationalism, because authority is being transferred to an international body",
+        "D": "Cracking, because the majority group's voters are packed into as few districts as possible while the minority group's votes are spread to control more districts"
+      },
+      "correct_answer": "D",
+      "explanation": "This scenario applies packing and cracking: concentrating one group's voters into a small number of districts (packing) while spreading the other group thinly enough to win a majority in most remaining districts (cracking) \u2014 changing seat outcomes without changing a single vote. Option A ignores the deliberate manipulation described, which is not neutral redistricting. Options B and C introduce unrelated tools that do not involve district-boundary manipulation.",
+      "concept": "Gerrymandering\n\n---",
+      "quiz_file": "docs/chapters/05-government-representation-and-systemic-bias/quiz.md"
+    },
+    {
+      "id": "05-government-representation-and-systemic-bias-q007",
+      "chapter": "Government Representation and Systemic Bias",
+      "chapter_file": "docs/chapters/05-government-representation-and-systemic-bias/index.md",
+      "question_text": "A 1950s state law requires all voters to pass a reading comprehension test before registering, with no mention of race anywhere in its text. Local officials apply the test inconsistently, failing nearly all Black applicants while passing nearly all white applicants regardless of ability. Which concept does this scenario illustrate?",
+      "options": {
+        "A": "Tribal sovereignty, because the law involves government authority over a territory",
+        "B": "Gerrymandering, because the law affects election outcomes",
+        "C": "The literacy test functioning as voter suppression \u2014 a race-neutral procedure applied in a discriminatory manner to exclude Black voters",
+        "D": "Supranationalism, because the law was applied inconsistently across jurisdictions"
+      },
+      "correct_answer": "C",
+      "explanation": "This scenario is a direct application of the chapter's literacy test example: a facially race-neutral requirement, arbitrarily and discriminatorily enforced to exclude Black voters regardless of their actual literacy, making it a documented tool of voter suppression. Option A misapplies a concept about tribal governing authority. Option B misapplies a concept about district-boundary manipulation, not eligibility barriers. Option D misapplies a concept about international governance.",
+      "concept": "Voter Suppression\n\n---",
+      "quiz_file": "docs/chapters/05-government-representation-and-systemic-bias/quiz.md"
+    },
+    {
+      "id": "05-government-representation-and-systemic-bias-q008",
+      "chapter": "Government Representation and Systemic Bias",
+      "chapter_file": "docs/chapters/05-government-representation-and-systemic-bias/index.md",
+      "question_text": "A political ad shows dramatic imagery designed to provoke fear about an opposing candidate, offering no statistics or policy comparisons. Which concept from this chapter does the ad most directly apply?",
+      "options": {
+        "A": "Redistricting, because the ad concerns an election",
+        "B": "Emotional appeal, because it seeks to influence political belief primarily through fear rather than factual evidence or logical argument",
+        "C": "Civic participation, because it encourages viewers to vote",
+        "D": "Political boundary, because it defines a jurisdiction's authority"
+      },
+      "correct_answer": "B",
+      "explanation": "An emotional appeal is a rhetorical strategy that influences political belief or action primarily through emotion, such as fear, rather than through evidence or logical argument, and the chapter notes such appeals are especially effective at reinforcing existing stereotypes without new facts. Option A misapplies a concept about district boundaries. Option C describes a possible effect, not what the ad's technique is. Option D misapplies a concept about territorial authority.",
+      "concept": "Emotional Appeal\n\n---",
+      "quiz_file": "docs/chapters/05-government-representation-and-systemic-bias/quiz.md"
+    },
+    {
+      "id": "05-government-representation-and-systemic-bias-q009",
+      "chapter": "Government Representation and Systemic Bias",
+      "chapter_file": "docs/chapters/05-government-representation-and-systemic-bias/index.md",
+      "question_text": "Why does the chapter argue that lower government trust in a community with a documented history of voter suppression and gerrymandering is \"an important, often overlooked, data point\"?",
+      "options": {
+        "A": "Because government trust is randomly distributed across communities with no relationship to historical experience",
+        "B": "Because lower trust in such a community reflects a rational response to documented barriers, rather than an unrelated or irrational attitude that should be dismissed when interpreting differences in civic participation",
+        "C": "Because government trust and civic participation are entirely unrelated concepts",
+        "D": "Because the Voting Rights Act eliminated all historical effects of voter suppression immediately upon passage"
+      },
+      "correct_answer": "B",
+      "explanation": "The chapter argues that a community with a documented history of voter suppression and gerrymandering has good reason for lower government trust, meaning that trust differences are not random or irrational but connect logically to documented institutional history \u2014 a factor that should inform, not be dismissed from, interpretations of civic participation gaps. Option A denies this causal link. Option C contradicts the chapter's explicit connection between trust and participation. Option D overstates the Act's immediate effect on trust.",
+      "concept": "Government Trust\n\n---",
+      "quiz_file": "docs/chapters/05-government-representation-and-systemic-bias/quiz.md"
+    },
+    {
+      "id": "05-government-representation-and-systemic-bias-q010",
+      "chapter": "Government Representation and Systemic Bias",
+      "chapter_file": "docs/chapters/05-government-representation-and-systemic-bias/index.md",
+      "question_text": "The chapter connects supranationalism to Chapter 3's insight about social categories. What is the shared insight being applied across both chapters?",
+      "options": {
+        "A": "That political boundaries and social categories are both fixed, natural facts that societies simply discover",
+        "B": "That supranationalism and social construction are unrelated concepts with no common thread",
+        "C": "That political boundaries, like social categories such as race, are negotiated and renegotiated by human decisions rather than fixed or natural",
+        "D": "That international bodies like the United Nations have no real authority over national political boundaries"
+      },
+      "correct_answer": "C",
+      "explanation": "The chapter explicitly draws a parallel: just as Chapter 3 showed racial categories were built and rebuilt by human decisions, supranationalism shows that political boundaries are also negotiated and renegotiated rather than fixed or natural, since some governing authority can shift from nation-states to larger international bodies. Option A states the opposite of both chapters' arguments. Option B denies the explicit connection the text draws. Option D contradicts the definition of supranationalism given in the chapter.",
+      "concept": "Supranationalism\n\n---",
+      "quiz_file": "docs/chapters/05-government-representation-and-systemic-bias/quiz.md"
+    }
+  ]
+}

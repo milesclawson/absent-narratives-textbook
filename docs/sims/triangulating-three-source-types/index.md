@@ -7,6 +7,7 @@ twitter:image: /sims/triangulating-three-source-types/triangulating-three-source
 social:
    cards: false
 quality_score: 0
+status: approved
 ---
 
 # Triangulating Three Source Types

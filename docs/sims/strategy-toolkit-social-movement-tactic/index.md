@@ -7,6 +7,7 @@ twitter:image: /sims/strategy-toolkit-social-movement-tactic/strategy-toolkit-so
 social:
    cards: false
 quality_score: 0
+status: approved
 ---
 
 # Strategy Toolkit — Choosing a Social Movement Tactic

@@ -7,6 +7,7 @@ twitter:image: /sims/religious-persecution-to-pluralism-spectrum/religious-perse
 social:
    cards: false
 quality_score: 0
+status: approved
 ---
 
 # Religious Persecution to Pluralism Spectrum

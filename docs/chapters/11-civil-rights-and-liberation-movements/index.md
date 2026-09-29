@@ -4,6 +4,7 @@ description: Civil rights, suffrage, labor, disability, and LGBTQ+ liberation mo
 generated_by: claude skill chapter-content-generator
 date: 2026-09-24 12:02:13
 version: 0.09
+status: approved
 ---
 
 # Civil Rights and Liberation Movements

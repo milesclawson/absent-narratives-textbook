@@ -7,6 +7,7 @@ twitter:image: /sims/compounding-chain-of-economic-exclusion/compounding-chain-o
 social:
    cards: false
 quality_score: 0
+status: approved
 ---
 
 # The Compounding Chain of Economic Exclusion

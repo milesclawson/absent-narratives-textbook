@@ -4,6 +4,7 @@ description: Forced migration, diaspora, colonialism, and global patterns of dis
 generated_by: claude skill chapter-content-generator
 date: 2026-09-24 12:02:13
 version: 0.09
+status: approved
 ---
 
 # Migration, Colonialism, and Global Perspectives

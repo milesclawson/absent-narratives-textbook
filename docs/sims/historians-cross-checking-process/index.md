@@ -7,6 +7,7 @@ twitter:image: /sims/historians-cross-checking-process/historians-cross-checking
 social:
    cards: false
 quality_score: 0
+status: approved
 ---
 
 # The Historian's Cross-Checking Process

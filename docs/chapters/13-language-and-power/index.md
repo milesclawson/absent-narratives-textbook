@@ -4,6 +4,7 @@ description: How language has been suppressed, revitalized, and used to assert i
 generated_by: claude skill chapter-content-generator
 date: 2026-09-24 12:02:13
 version: 0.09
+status: approved
 ---
 
 # Language and Power

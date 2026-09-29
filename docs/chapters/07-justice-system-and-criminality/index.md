@@ -4,6 +4,7 @@ description: How criminality is defined, codes and laws are selectively enforced
 generated_by: claude skill chapter-content-generator
 date: 2026-09-24 12:02:13
 version: 0.09
+status: approved
 ---
 
 # The Justice System and the Construction of Criminality

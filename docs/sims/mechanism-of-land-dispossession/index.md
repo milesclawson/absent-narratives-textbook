@@ -7,6 +7,7 @@ twitter:image: /sims/mechanism-of-land-dispossession/mechanism-of-land-disposses
 social:
    cards: false
 quality_score: 0
+status: approved
 ---
 
 # The Mechanism of Land Dispossession

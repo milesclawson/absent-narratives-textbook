@@ -7,6 +7,7 @@ twitter:image: /sims/slavery-to-desegregation-chain/slavery-to-desegregation-cha
 social:
    cards: false
 quality_score: 0
+status: approved
 ---
 
 # From Slavery to Desegregation — A Traceable Chain

@@ -7,6 +7,7 @@ twitter:image: /sims/packing-cracking-district-simulator/packing-cracking-distri
 social:
    cards: false
 quality_score: 0
+status: approved
 ---
 
 # Packing and Cracking District Simulator

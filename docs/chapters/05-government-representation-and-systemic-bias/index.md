@@ -4,6 +4,7 @@ description: Systemic racism and sexism in policy, gerrymandering, voter suppres
 generated_by: claude skill chapter-content-generator
 date: 2026-09-24 12:02:13
 version: 0.09
+status: approved
 ---
 
 # Government Representation and Systemic Bias

@@ -7,6 +7,7 @@ twitter:image: /sims/redlined-map-then-and-now/redlined-map-then-and-now.png
 social:
    cards: false
 quality_score: 0
+status: approved
 ---
 
 # A Redlined Map, Then and Now

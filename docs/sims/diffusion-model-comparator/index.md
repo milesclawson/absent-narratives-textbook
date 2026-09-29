@@ -7,6 +7,7 @@ twitter:image: /sims/diffusion-model-comparator/diffusion-model-comparator.png
 social:
    cards: false
 quality_score: 0
+status: approved
 ---
 
 # Diffusion Model Comparator

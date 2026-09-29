@@ -7,6 +7,7 @@ twitter:image: /sims/global-migration-pattern-map/global-migration-pattern-map.p
 social:
    cards: false
 quality_score: 0
+status: approved
 ---
 
 # Global Migration Pattern Map

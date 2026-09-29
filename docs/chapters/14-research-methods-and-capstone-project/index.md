@@ -4,6 +4,7 @@ description: Archival research, oral history, and ethical-representation skills 
 generated_by: claude skill chapter-content-generator
 date: 2026-09-24 12:02:13
 version: 0.09
+status: approved
 ---
 
 # Research Methods and the Capstone Project

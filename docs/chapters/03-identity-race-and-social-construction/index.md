@@ -4,6 +4,7 @@ description: The course's five overarching themes — race, ethnicity, nationali
 generated_by: claude skill chapter-content-generator
 date: 2026-09-24 12:02:13
 version: 0.09
+status: approved
 ---
 
 # Identity, Race, and Social Construction

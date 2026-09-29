@@ -7,6 +7,7 @@ twitter:image: /sims/power-structure-pyramid/power-structure-pyramid.png
 social:
    cards: false
 quality_score: 0
+status: approved
 ---
 
 # The Power Structure Pyramid

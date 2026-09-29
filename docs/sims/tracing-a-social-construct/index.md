@@ -7,6 +7,7 @@ twitter:image: /sims/tracing-a-social-construct/tracing-a-social-construct.png
 social:
    cards: false
 quality_score: 0
+status: approved
 ---
 
 # Tracing a Social Construct

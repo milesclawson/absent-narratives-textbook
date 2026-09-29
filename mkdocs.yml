@@ -106,6 +106,7 @@ nav:
       - FAQ Quality Report: learning-graph/faq-quality-report.md
       - FAQ Coverage Gaps: learning-graph/faq-coverage-gaps.md
       - Quiz Generation Report: learning-graph/quiz-generation-report.md
+      - Mascot Style Guide: learning-graph/mascot-test.md
 
   - MicroSims:
     - List of MicroSims: sims/index.md
@@ -149,6 +150,9 @@ nav:
 # Theme configuration
 theme:
   name: material
+  custom_dir: overrides
+  static_templates:
+    - 404.html
   # Once a logo is generated, point this at docs/img/logo.png or a mascot pose:
   # logo: img/logo.png
   # favicon: img/favicon.ico
@@ -207,16 +211,24 @@ markdown_extensions:
       pygments_lang_class: true
   - pymdownx.inlinehilite
   - pymdownx.snippets
+  # KaTeX LaTeX equation rendering. Using \(...\) for inline math to avoid
+  # conflicts with currency ($20, $1.99 render as plain text, not math).
   - pymdownx.arithmatex:
       generic: true
+      inline_syntax: ['round']
+      block_syntax: ['dollar', 'square']
 
 # Custom CSS — file is created by init-textbook
 extra_css:
   - css/extra.css
+  - css/mascot.css
+  - https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css
 
-# Custom JavaScript — uncomment once a corresponding file exists
-# extra_javascript:
-#   - js/extra.js
+# Custom JavaScript
+extra_javascript:
+  - js/katex.js
+  - https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js
+  - https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/auto-render.min.js
 
 # Exclude prompt scratch files and TODOs from build/search/sitemap
 exclude_docs: |

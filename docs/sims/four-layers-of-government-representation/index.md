@@ -7,6 +7,7 @@ twitter:image: /sims/four-layers-of-government-representation/four-layers-of-gov
 social:
    cards: false
 quality_score: 0
+status: approved
 ---
 
 # Four Layers of Government Representation

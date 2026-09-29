@@ -7,6 +7,7 @@ twitter:image: /sims/minnesota-tribal-nations-map/minnesota-tribal-nations-map.p
 social:
    cards: false
 quality_score: 0
+status: approved
 ---
 
 # Minnesota Tribal Nations Map

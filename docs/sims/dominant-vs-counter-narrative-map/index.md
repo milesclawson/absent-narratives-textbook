@@ -7,6 +7,7 @@ twitter:image: /sims/dominant-vs-counter-narrative-map/dominant-vs-counter-narra
 social:
    cards: false
 quality_score: 0
+status: approved
 ---
 
 # Dominant Narrative vs. Counter-Narrative Concept Map

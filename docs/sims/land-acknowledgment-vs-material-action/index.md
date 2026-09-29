@@ -7,6 +7,7 @@ twitter:image: /sims/land-acknowledgment-vs-material-action/land-acknowledgment-
 social:
    cards: false
 quality_score: 0
+status: approved
 ---
 
 # Land Acknowledgment vs. Material Action Evaluator

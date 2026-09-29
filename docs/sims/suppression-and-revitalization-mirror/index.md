@@ -7,6 +7,7 @@ twitter:image: /sims/suppression-and-revitalization-mirror/suppression-and-revit
 social:
    cards: false
 quality_score: 0
+status: approved
 ---
 
 # Suppression and Revitalization as Mirror Processes

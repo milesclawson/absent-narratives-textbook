@@ -7,6 +7,7 @@ twitter:image: /sims/policing-history-timeline/policing-history-timeline.png
 social:
    cards: false
 quality_score: 0
+status: approved
 ---
 
 # Policing History Timeline

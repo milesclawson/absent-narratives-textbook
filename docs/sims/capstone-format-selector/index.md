@@ -7,6 +7,7 @@ twitter:image: /sims/capstone-format-selector/capstone-format-selector.png
 social:
    cards: false
 quality_score: 0
+status: approved
 ---
 
 # Capstone Format Selector

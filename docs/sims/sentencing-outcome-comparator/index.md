@@ -7,6 +7,7 @@ twitter:image: /sims/sentencing-outcome-comparator/sentencing-outcome-comparator
 social:
    cards: false
 quality_score: 0
+status: approved
 ---
 
 # Sentencing Outcome Comparator

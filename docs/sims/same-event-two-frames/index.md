@@ -7,6 +7,7 @@ twitter:image: /sims/same-event-two-frames/same-event-two-frames.png
 social:
    cards: false
 quality_score: 0
+status: approved
 ---
 
 # Same Event, Two Frames

@@ -7,6 +7,7 @@ twitter:image: /sims/media-literacy-checklist-sorter/media-literacy-checklist-so
 social:
    cards: false
 quality_score: 0
+status: approved
 ---
 
 # Media Literacy Checklist Sorter

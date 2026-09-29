@@ -4,6 +4,7 @@ description: The shared terminology of oppression, privilege, discrimination, an
 generated_by: claude skill chapter-content-generator
 date: 2026-09-24 12:02:13
 version: 0.09
+status: approved
 ---
 
 # The Vocabulary of Power and Exclusion

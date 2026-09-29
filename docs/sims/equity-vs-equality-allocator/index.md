@@ -7,6 +7,7 @@ twitter:image: /sims/equity-vs-equality-allocator/equity-vs-equality-allocator.p
 social:
    cards: false
 quality_score: 0
+status: approved
 ---
 
 # Equity vs. Equality Resource Allocator

@@ -7,6 +7,7 @@ twitter:image: /sims/stereotype-to-discrimination-chain/stereotype-to-discrimina
 social:
    cards: false
 quality_score: 0
+status: approved
 ---
 
 # From Stereotype to Discrimination — A Clickable Causal Chain

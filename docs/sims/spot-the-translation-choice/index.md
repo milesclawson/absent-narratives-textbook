@@ -7,6 +7,7 @@ twitter:image: /sims/spot-the-translation-choice/spot-the-translation-choice.png
 social:
    cards: false
 quality_score: 0
+status: approved
 ---
 
 # Spot the Translation Choice

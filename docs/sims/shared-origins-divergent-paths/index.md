@@ -7,6 +7,7 @@ twitter:image: /sims/shared-origins-divergent-paths/shared-origins-divergent-pat
 social:
    cards: false
 quality_score: 0
+status: approved
 ---
 
 # Shared Origins, Divergent Paths

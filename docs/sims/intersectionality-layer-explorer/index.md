@@ -7,6 +7,7 @@ twitter:image: /sims/intersectionality-layer-explorer/intersectionality-layer-ex
 social:
    cards: false
 quality_score: 0
+status: approved
 ---
 
 # Intersectionality Layer Explorer

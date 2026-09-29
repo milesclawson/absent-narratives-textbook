@@ -4,6 +4,7 @@ description: Treaty rights, boarding-school history, and contemporary Indigenous
 generated_by: claude skill chapter-content-generator
 date: 2026-09-24 12:02:13
 version: 0.09
+status: approved
 ---
 
 # Indigenous Sovereignty and Tribal Relations
